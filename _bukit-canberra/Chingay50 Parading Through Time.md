@@ -3,7 +3,7 @@ title: Chingay50 Parading Through Time
 permalink: /bukit-canberra/chingay-50-parade-through-time
 description: ""
 ---
-![Parading Through Time](/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg)
+![Parading Through Time](/images/Events/chingay50---parading-through-time-50storiesimage.jpg)
 **Chingay50 - Parading Through Time**
 
 50 Years of Memory Making and Counting
