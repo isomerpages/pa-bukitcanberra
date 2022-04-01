@@ -3,7 +3,7 @@ title: Michael Koh & Sharon Lee
 permalink: /bukit-canberra/michael-koh-and-sharon-lee
 description: ""
 ---
-![](/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg)
+![](/images/Events/michael-koh-sharon-lee-50storiesimage.jpg)
 **Michael Koh & Sharon Lee**
 
 Aircon Specialist & Homemaker
