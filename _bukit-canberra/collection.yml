@@ -2,7 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
-      - Interesting Events.md
+      - Event List.md
       - Find Love at Chingay.md
       - Let's Build A Float.md
       - Michael Koh & Sharon Lee.md
