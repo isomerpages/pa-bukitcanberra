@@ -7,7 +7,7 @@ description: ""
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <a href="/bukit-canberra/find-love-at-chingay" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/Events/finding%20love%20at%20chingay.png">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/01.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
                             Finding Love at Chingay
@@ -19,7 +19,7 @@ description: ""
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <a href="/bukit-canberra/lets-build-a-float" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/Events/lets%20build%20a%20float.png">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/02.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
                             Let’s Build A Float
@@ -31,7 +31,7 @@ description: ""
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <a href="/bukit-canberra/michael-koh-and-sharon-lee" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/Events/michael-koh-sharon-lee-50storiesimage.jpg">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/03.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
                             Michael Koh & Sharon Lee
@@ -43,7 +43,7 @@ description: ""
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <a href="/bukit-canberra/chingay-50-parade-through-time" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/Events/chingay50---parading-through-time-50storiesimage.jpg">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/04.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
                             Chingay50 - Parading Through Time
