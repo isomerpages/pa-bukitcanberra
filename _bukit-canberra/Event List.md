@@ -18,7 +18,7 @@ description: ""
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <a href="/chingay50-stories/pioneer-generation-float" style="text-decoration:none;">
+                <a href="/bukit-canberra/lets-build-a-float" style="text-decoration:none;">
                     <img style="height:auto;width:228px;" src="/images/Events/lets%20build%20a%20float.png">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
