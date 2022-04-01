@@ -1,4 +1,5 @@
 collections:
   bukit-canberra:
     output: true
-    order: []
+    order:
+      - Interesting Things.md
