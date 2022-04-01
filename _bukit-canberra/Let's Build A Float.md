@@ -3,7 +3,7 @@ title: Let's Build A Float
 permalink: /bukit-canberra/lets-build-a-float
 description: ""
 ---
-![Let's Build A Float](/images/Chingay50%20Stories/lets%20build%20a%20float.png)
+![Let's Build A Float](/images/Events/lets%20build%20a%20float.png)
 
 **Let's Build A Float**
 
