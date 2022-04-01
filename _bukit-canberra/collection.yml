@@ -2,8 +2,8 @@ collections:
   bukit-canberra:
     output: true
     order:
-      - Chingay50 Parading Through Time.md
-      - Michael Koh & Sharon Lee.md
-      - Let's Build A Float.md
-      - Find Love at Chingay.md
       - Interesting Events.md
+      - Find Love at Chingay.md
+      - Let's Build A Float.md
+      - Michael Koh & Sharon Lee.md
+      - Chingay50 Parading Through Time.md
