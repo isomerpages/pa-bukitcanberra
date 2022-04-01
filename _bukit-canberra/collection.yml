@@ -2,5 +2,6 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Let's Build A Float.md
       - Find Love at Chingay.md
       - Interesting Events.md
