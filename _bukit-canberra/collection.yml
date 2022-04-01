@@ -2,4 +2,4 @@ collections:
   bukit-canberra:
     output: true
     order:
-      - Interesting Things.md
+      - Interesting Events.md
