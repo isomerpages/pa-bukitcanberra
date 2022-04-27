@@ -5,13 +5,18 @@ description: ""
 ---
 **Project Blue Wave**
 
+<p>
+<img src="/images/Events/finding%20love%20at%20chingay.png" style="float: right;  border: 1px dotted black;  margin: 0px 0px 15px 20px; width=100px;height=auto;"/>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eros dolor, pellentesque ac finibus id, bibendum vitae ante. Aenean a tortor sit amet nisi scelerisque volutpat a et libero. Donec aliquet et diam sit amet gravida. Maecenas eget odio enim. Donec vel condimentum lorem. Proin facilisis tristique felis nec sollicitudin. Sed condimentum massa augue, non tempus lorem venenatis vitae. Etiam maximus ex sit amet tellus laoreet cursus nec vitae leo. Nunc quis cursus mauris. Fusce odio dolor, tristique ac risus in, tempor sollicitudin sapien. Vestibulum vel augue bibendum, mollis massa nec, condimentum ipsum.
+</p>
+
 <table width="100%" border="0">
 	<tr border="none">
 		<td width="20%" border="0">
-			<img src="/images/Events/finding%20love%20at%20chingay.png" width="100%"/>
+			
 		</td>
 		<td width="80%" border="0">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eros dolor, pellentesque ac finibus id, bibendum vitae ante. Aenean a tortor sit amet nisi scelerisque volutpat a et libero. Donec aliquet et diam sit amet gravida. Maecenas eget odio enim. Donec vel condimentum lorem. Proin facilisis tristique felis nec sollicitudin. Sed condimentum massa augue, non tempus lorem venenatis vitae. Etiam maximus ex sit amet tellus laoreet cursus nec vitae leo. Nunc quis cursus mauris. Fusce odio dolor, tristique ac risus in, tempor sollicitudin sapien. Vestibulum vel augue bibendum, mollis massa nec, condimentum ipsum.
+			
 		</td>
 	</tr>
 	<tr border="none">
