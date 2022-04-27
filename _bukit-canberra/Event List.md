@@ -3,8 +3,8 @@ title: Event List
 permalink: /bukit-canberra/event-list
 description: ""
 ---
-## Going Green Together
-### Protecting our Environment
+### Going Green Together
+#### Protecting our Environment
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
@@ -56,8 +56,8 @@ description: ""
         </li>
     </ul>
 
-## Caring for Our Community
-### Reaching out to the Needy		
+### Caring for Our Community
+#### Reaching out to the Needy		
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
