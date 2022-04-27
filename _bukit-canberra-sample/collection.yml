@@ -2,6 +2,7 @@ collections:
   bukit-canberra-sample:
     output: true
     order:
+      - Community Outreach or Social Enterprise.md
       - Creating an Inclusive Community.md
       - Reaching Out to the Needy.md
       - Elderly Programme or Befriending.md
