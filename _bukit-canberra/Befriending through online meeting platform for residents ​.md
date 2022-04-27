@@ -3,8 +3,8 @@ title: Befriending through online meeting platform for residents ​
 permalink: /bukit-canberra/Befriending-through-online-meeting-platform-for-residents
 description: ""
 ---
-### Befriending through online meeting platform for residents ​
-### 
+### Befriending through online meeting platform for residents 
+
 <table border="0" width="100%">
 	<tr>
 		<td width="20%">
