@@ -21,7 +21,7 @@ description: ""
 	</tr>
 </table>
 
-<table width="100%" border="none">
+<table width="100%" border="0">
 <tr>
 		<td width="80%">
 			Integer cursus ipsum consectetur vulputate euismod. Nulla lacinia facilisis faucibus. Praesent nec elit euismod, tristique purus vitae, efficitur mi. Sed viverra ex et nisl blandit, nec fermentum urna viverra. Aenean arcu metus, tempor nec sem eget, volutpat lobortis ipsum. Nunc vestibulum ultrices augue, id gravida mauris sagittis ut. Aenean elementum tortor turpis, sit amet cursus diam lobortis et. Nulla vehicula vel mi eget dignissim. Vivamus blandit in erat a vehicula. Phasellus et feugiat tellus. Mauris vel libero lacinia, bibendum massa ac, ullamcorper lacus. Nam rhoncus pulvinar condimentum.
