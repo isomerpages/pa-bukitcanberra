@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Volunteers conduct home visits once a month.md
       - Activities organised by Canberra Secondary School's students.md
       - Students teach or guide seniors on usage of technology.md
       - Community Health Directory ​.md
