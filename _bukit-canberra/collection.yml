@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Language classes for foreign care staff.md
       - Monthly birthday celebration for residents via online meeting platforms
         ​.md
       - Donation in kind.md
