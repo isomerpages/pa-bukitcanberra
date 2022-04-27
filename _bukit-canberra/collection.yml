@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Tchoukball.md
       - Heritage Ambassador.md
       - Gardening to help needy families.md
       - Gardening around the estates.md
