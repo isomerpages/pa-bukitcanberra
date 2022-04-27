@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Sowers’ Community Initiative.md
       - Student Care Centre.md
       - Outreach & Public Education.md
       - Language classes for foreign care staff.md
