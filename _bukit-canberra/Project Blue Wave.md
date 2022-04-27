@@ -16,30 +16,3 @@ Quisque varius metus leo, vel pulvinar enim tincidunt id. Donec facilisis nibh a
 	Integer cursus ipsum consectetur vulputate euismod. Nulla lacinia facilisis faucibus. Praesent nec elit euismod, tristique purus vitae, efficitur mi. Sed viverra ex et nisl blandit, nec fermentum urna viverra. Aenean arcu metus, tempor nec sem eget, volutpat lobortis ipsum. Nunc vestibulum ultrices augue, id gravida mauris sagittis ut. Aenean elementum tortor turpis, sit amet cursus diam lobortis et. Nulla vehicula vel mi eget dignissim. Vivamus blandit in erat a vehicula. Phasellus et feugiat tellus. Mauris vel libero lacinia, bibendum massa ac, ullamcorper lacus. Nam rhoncus pulvinar condimentum.
 <img src="/images/qrcode.png" style="float: right;  border: 1px dotted black;  margin: 0px 0px 15px 20px; width=100px;height=auto;"/>
 </p>
-
-<table width="100%" border="0">
-	<tr border="none">
-		<td width="20%" border="0">
-			
-		</td>
-		<td width="80%" border="0">
-			
-		</td>
-	</tr>
-	<tr border="none">
-		<td colspan="2" border="0">
-			
-		</td>
-	</tr>
-</table>
-
-<table width="100%" border="0">
-<tr>
-		<td width="80%">
-			
-		</td>
-		<td width="20%">
-			
-		</td>
-	</tr>
-</table>
