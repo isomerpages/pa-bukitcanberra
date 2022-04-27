@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Community Health Directory ​.md
       - Tchoukball.md
       - Heritage Ambassador.md
       - Gardening to help needy families.md
