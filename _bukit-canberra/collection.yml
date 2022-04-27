@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - It's Storytime.md
       - M3 Homework Cafe.md
       - Programmes.md
       - Project Blue Wave.md
