@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Gardening Around The Estates.md
       - Beach Cleaning & Environment Group.md
       - Community Tuition Programme.md
       - It's Storytime.md
