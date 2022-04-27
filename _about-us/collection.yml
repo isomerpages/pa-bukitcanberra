@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Vision.md
-      - 2:168.md
       - Mission.md
+      - 2:168.md
