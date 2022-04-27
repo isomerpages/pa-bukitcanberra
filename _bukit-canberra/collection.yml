@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Heritage Ambassador.md
       - Gardening to help needy families.md
       - Gardening around the estates.md
       - Beach Cleaning & Environment Group.md
