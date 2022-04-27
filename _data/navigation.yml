@@ -2,15 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: About Us
-    url: /vision
-    sublinks:
-      - title: Vision
-        url: /vision
-      - title: Mission
-        url: /mission
-      - title: 2:168
-        url: /2-168
   - title: Programme Sample 1
     url: /bukit-canberra/event-list
   - title: Programme Sample 2
