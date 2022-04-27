@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Medical Escort.md
       - Programme Coordinator ​.md
       - Hair Grooming or  cutting services.md
       - Befriending through online meeting platform for residents ​.md
