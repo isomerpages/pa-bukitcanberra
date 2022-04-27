@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - M3 Homework Cafe.md
       - Programmes.md
       - Project Blue Wave.md
       - Let's Build A Float.md
