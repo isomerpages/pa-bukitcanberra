@@ -11,9 +11,6 @@ description: ""
                 <a href="/bukit-canberra/Project-Blue-Wave" style="text-decoration:none;">
                     <img style="height:250px;width:228px;" src="/images/Events/Preview/01.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-                        <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Project Blue Wave
-                        </h3>
                     </div>
                 </a>
             </div>
