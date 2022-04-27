@@ -3,8 +3,7 @@ title: Purple Ripple
 permalink: /bukit-canberra/Purple-Ripple
 description: ""
 ---
-## Purple Ripple
-## 
+### Purple Ripple
 
 <table border="0" width="100%">
 	<tr>
