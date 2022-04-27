@@ -15,7 +15,7 @@ description: ""
 		</td>
 	</tr>
 	<tr border="none">
-		<td colspan="2" border="0">
+		<td colspan="2" border="none">
 			Quisque varius metus leo, vel pulvinar enim tincidunt id. Donec facilisis nibh at dictum hendrerit. Proin dignissim tristique ipsum elementum tempus. Ut vitae nisl ultricies, lobortis est sit amet, scelerisque purus. Mauris pulvinar elementum elit, a elementum justo pulvinar in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam eu ex non dolor lobortis porttitor.
 		</td>
 	</tr>
