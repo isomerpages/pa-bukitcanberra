@@ -2,5 +2,5 @@ collections:
   bukit-canberra-sample:
     output: true
     order:
-      - Health & Wellness.md
       - Categories.md
+      - Health & Wellness.md
