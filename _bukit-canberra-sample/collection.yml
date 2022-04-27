@@ -2,6 +2,7 @@ collections:
   bukit-canberra-sample:
     output: true
     order:
+      - Promoting Arts in the Community.md
       - Greening our Estate or Community Farming.md
       - Protecting our Environment.md
       - Improving Children Literacy.md
