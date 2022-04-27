@@ -5,7 +5,7 @@ description: ""
 ---
 **Project Blue Wave**
 
-<table width="100%" border="0">
+<table width="100%" style="border-collapse:collapse;">
 	<tr border="0">
 		<td width="20%">
 			<img src="/images/Events/finding%20love%20at%20chingay.png" width="100%"/>
