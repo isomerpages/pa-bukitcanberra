@@ -6,7 +6,7 @@ description: ""
 **Project Blue Wave**
 
 <p>
-<img src="/images/Events/finding%20love%20at%20chingay.png" style="float: left;  border: 1px dotted black;  margin: 0px 0px 15px 20px; width=200px;height=auto;"/>
+<img src="/images/Events/finding%20love%20at%20chingay.png" style="float: left;width=200px;height=auto;border: 1px dotted black;  margin: 0px 0px 15px 20px;"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eros dolor, pellentesque ac finibus id, bibendum vitae ante. Aenean a tortor sit amet nisi scelerisque volutpat a et libero. Donec aliquet et diam sit amet gravida. Maecenas eget odio enim. Donec vel condimentum lorem. Proin facilisis tristique felis nec sollicitudin. Sed condimentum massa augue, non tempus lorem venenatis vitae. Etiam maximus ex sit amet tellus laoreet cursus nec vitae leo. Nunc quis cursus mauris. Fusce odio dolor, tristique ac risus in, tempor sollicitudin sapien. Vestibulum vel augue bibendum, mollis massa nec, condimentum ipsum.
 </p>
 <p>
