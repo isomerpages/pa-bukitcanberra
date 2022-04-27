@@ -12,7 +12,7 @@ description: ""
                     <img style="height:auto;width:228px;" src="/images/Events/Preview/01.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Finding Love at Chingay
+                            Project Blue Wave
                         </h3>
                     </div>
                 </a>
@@ -24,31 +24,7 @@ description: ""
                     <img style="height:auto;width:228px;" src="/images/Events/Preview/02.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Let’s Build A Float
-                        </h3>
-                    </div>
-                </a>
-            </div>
-        </li>
-        <li>
-            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <a href="/bukit-canberra/michael-koh-and-sharon-lee" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/Events/Preview/03.jpg">
-                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-                        <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Michael Koh & Sharon Lee
-                        </h3>
-                    </div>
-                </a>
-            </div>
-        </li>
-        <li>
-            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <a href="/bukit-canberra/chingay-50-parade-through-time" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/Events/Preview/04.jpg">
-                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-                        <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Chingay50 - Parading Through Time
+                            Beach cleaning & Environment group
                         </h3>
                     </div>
                 </a>
@@ -65,7 +41,7 @@ description: ""
                     <img style="height:auto;width:228px;" src="/images/Events/Preview/01.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Finding Love at Chingay
+                            Food from the Heart distribution programme
                         </h3>
                     </div>
                 </a>
@@ -89,7 +65,7 @@ description: ""
                     <img style="height:auto;width:228px;" src="/images/Events/Preview/03.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Michael Koh & Sharon Lee
+                            Belanja a meal 
                         </h3>
                     </div>
                 </a>
@@ -101,7 +77,43 @@ description: ""
                     <img style="height:auto;width:228px;" src="/images/Events/Preview/04.jpg">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                         <h3 style="font-size: 1em; margin: 0 0 .3em;">
-                            Chingay50 - Parading Through Time
+                            Sembawang Central Food from the Heart (FFTH)
+                        </h3>
+                    </div>
+                </a>
+            </div>
+        </li>
+			<li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <a href="/bukit-canberra/chingay-50-parade-through-time" style="text-decoration:none;">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/04.jpg">
+                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                        <h3 style="font-size: 1em; margin: 0 0 .3em;">
+                            Mentor vulnerable students with studies. Collaboration with Cahaya group.
+                        </h3>
+                    </div>
+                </a>
+            </div>
+        </li>
+	<li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <a href="/bukit-canberra/chingay-50-parade-through-time" style="text-decoration:none;">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/04.jpg">
+                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                        <h3 style="font-size: 1em; margin: 0 0 .3em;">
+                            Community Outreach to Needy Residents (Admiralty CCC CDWF)
+                        </h3>
+                    </div>
+                </a>
+            </div>
+        </li>
+	<li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <a href="/bukit-canberra/chingay-50-parade-through-time" style="text-decoration:none;">
+                    <img style="height:auto;width:228px;" src="/images/Events/Preview/04.jpg">
+                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                        <h3 style="font-size: 1em; margin: 0 0 .3em;">
+                            Blessing Corner @ Blk 364A
                         </h3>
                     </div>
                 </a>
