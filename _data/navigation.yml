@@ -1,12 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /permalink
+    url: /vision
     sublinks:
       - title: Vision
-        url: /permalink
+        url: /vision
       - title: Mission
-        url: /permalink
+        url: /mission
       - title: 2:168
         url: /permalink
   - title: Programme Sample 1
