@@ -2,6 +2,9 @@ collections:
   bukit-canberra-sample:
     output: true
     order:
+      - Categories.md
+      - Population Health.md
+      - Community Outreach or Social Enterprise.md
       - Creating an Inclusive Community.md
       - Reaching Out to the Needy.md
       - Elderly Programme or Befriending.md
@@ -10,6 +13,3 @@ collections:
       - Greening our Estate or Community Farming.md
       - Protecting our Environment.md
       - Improving Children Literacy.md
-      - Categories.md
-      - Population Health.md
-      - Community Outreach or Social Enterprise.md
