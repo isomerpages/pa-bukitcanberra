@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Purple Ripple.md
       - Blessing Corner @ Blk 364A​.md
       - Community Outreach to Needy Residents (Admiralty CCC CDWF).md
       - Mentor vulnerable students with studies.md
