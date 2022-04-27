@@ -3,6 +3,8 @@ title: Find Love at Chingay
 permalink: /bukit-canberra/find-love-at-chingay
 description: ""
 ---
+**Finding Love At Chingay**
+
 ![finding love at chingay](/images/Events/finding%20love%20at%20chingay.png)
 
 
