@@ -2,6 +2,7 @@ collections:
   bukit-canberra-sample:
     output: true
     order:
+      - Reaching Out to the Needy.md
       - Elderly Programme or Befriending.md
       - Preserving Our Heritage.md
       - Promoting Arts in the Community.md
