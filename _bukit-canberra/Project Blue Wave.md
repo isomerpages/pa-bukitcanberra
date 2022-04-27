@@ -11,7 +11,11 @@ description: ""
 			<img src="/images/Events/finding%20love%20at%20chingay.png" style="width=100px;height=auto;"/>
 		</td>
 		<td width="80%">
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eros dolor, pellentesque ac finibus id, bibendum vitae ante. Aenean a tortor sit amet nisi scelerisque volutpat a et libero. Donec aliquet et diam sit amet gravida. Maecenas eget odio enim. Donec vel condimentum lorem. Proin facilisis tristique felis nec sollicitudin. Sed condimentum massa augue, non tempus lorem venenatis vitae. Etiam maximus ex sit amet tellus laoreet cursus nec vitae leo. Nunc quis cursus mauris. Fusce odio dolor, tristique ac risus in, tempor sollicitudin sapien. Vestibulum vel augue bibendum, mollis massa nec, condimentum ipsum.
+			<b>Lorem ipsum:</b><br>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+			<br><br>
+			<b>Dolor sit amet:</b><br>
+			Praesent eros dolor, pellentesque ac finibus id, bibendum vitae ante. Aenean a tortor sit amet nisi scelerisque volutpat a et libero. Donec aliquet et diam sit amet gravida. Maecenas eget odio enim. 
 		</td>
 	</tr>
 </table>
@@ -19,6 +23,7 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 		<td>
+			<b>Lorem ipsum:</b><br>
 			Quisque varius metus leo, vel pulvinar enim tincidunt id. Donec facilisis nibh at dictum hendrerit. Proin dignissim tristique ipsum elementum tempus. Ut vitae nisl ultricies, lobortis est sit amet, scelerisque purus. Mauris pulvinar elementum elit, a elementum justo pulvinar in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam eu ex non dolor lobortis porttitor.
 		</td>
 	</tr>
