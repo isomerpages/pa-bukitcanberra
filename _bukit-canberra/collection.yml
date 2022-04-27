@@ -2,7 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
-      - Event List.md
+      - Programmes.md
       - Project Blue Wave.md
       - Let's Build A Float.md
       - Michael Koh & Sharon Lee.md
