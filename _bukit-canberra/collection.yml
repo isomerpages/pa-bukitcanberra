@@ -2,6 +2,7 @@ collections:
   bukit-canberra:
     output: true
     order:
+      - Programmes.md
       - Various Volunteering Initiatives (by NKF)​.md
       - Sowers’ Community Initiative.md
       - Student Care Centre.md
@@ -34,7 +35,6 @@ collections:
       - Community Tuition Programme.md
       - It's Storytime.md
       - M3 Homework Cafe.md
-      - Programmes.md
       - Project Blue Wave.md
       - Let's Build A Float.md
       - Michael Koh & Sharon Lee.md
