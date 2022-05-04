@@ -3,50 +3,15 @@ title: Categories
 permalink: /bukit-canberra-sample/categories
 description: ""
 ---
-<table border="0" width="100%">
-	<tr>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/population-health" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Population Health<br>&nbsp;</a>
-		</td>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/Improving-Childre-Literacy" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Improving Children Literacy</a>
-		</td>
-		<td width="34%">
-			<a href="/bukit-canberra-sample/Protecting-our-Environment" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Protecting our <br>	Environment </a>
-		</td>
-	</tr>
-	<tr>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/Greening-our-Estate-Community-Farming" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Greening our Estate/ Community Farming</a>
-		</td>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/Promoting-Arts-in-the-Community" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Promoting Arts in the Community
-</a>
-		</td>
-		<td width="34%">
-			<a href="/bukit-canberra-sample/Preserving-Our-Heritage" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Preserving Our Heritage<br>&nbsp;</a>
-		</td>
-	</tr>
-	<tr>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/Elderly-Programme-Befriending" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Elderly Programme/ Befriending<br>&nbsp;</a>
-		</td>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/Reaching-Out-to-the-Needy" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Reaching Out to the Needy<br>&nbsp;<br>&nbsp;</a>
-		</td>
-		<td width="34%">
-			<a href="/bukit-canberra-sample/Creating-an-inclusive-Community" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Creating an Inclusive Community (Person with Disabilities)</a>
-		</td>
-	</tr>
-	<tr>
-		<td width="33%">
-			<a href="/bukit-canberra-sample/Community-Outreach-Social-Enterprise" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;  margin: 4px 2px;  cursor: pointer;width:100%;">Community Outreach / Social Enterprise </a>
-		</td>
-		<td width="33%">
-			&nbsp;
-		</td>
-		<td width="34%">
-			&nbsp;
-		</td>
-	</tr>
-</table>
+<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/01.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/02.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/03.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/04.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/05.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/06.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/07.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/08.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/09.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Categories/10.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;"></h3></div></div></li>
+    </ul>
