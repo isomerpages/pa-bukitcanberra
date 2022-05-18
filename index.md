@@ -23,9 +23,6 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      description: "SPARKS@Bukit Canberra aims to be a One-stop Centre for Cause-based
-        Volunteerism in Sembawang GRC. "
-  - infobar:
-      description: SPARKS is for residents, local community partners, corporate
-        partners/SMEs to come together to do good for the community
+      description: One-stop Centre for Cause-based Volunteerism in Sembawang GRC
+      title: SPARKS@Bukit Canberra
 ---
