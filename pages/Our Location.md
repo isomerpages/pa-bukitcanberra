@@ -10,8 +10,10 @@ description: ""
         <tr>
             <td>&nbsp;</td>
         </tr>
-    </tbody></table>
-    <table border="0" width="100%">
+    </tbody>
+</table>
+    
+<table border="0" width="100%">
         <tbody><tr>
             <td><b>General Enquires &amp; Feedback</b></td>
         </tr>
@@ -32,7 +34,8 @@ description: ""
             </td>
         </tr>
     </tbody></table>
-    <table border="0" width="100%">
+    
+<table border="0" width="100%">
         <tbody><tr>
             <td><b>Opening Hours</b></td>
         </tr>
@@ -44,7 +47,8 @@ description: ""
             </td>
         </tr>
     </tbody></table>
-    <table border="0" width="100%">
+    
+<table border="0" width="100%">
         <tbody><tr>
             <td><b>How to get there</b></td>
         </tr>
@@ -55,7 +59,8 @@ description: ""
             </td>
         </tr>
     </tbody></table>
-    <table border="0" width="100%">
+    
+<table border="0" width="100%">
         <tbody><tr>
             <td><b>Location map</b></td>
         </tr>
