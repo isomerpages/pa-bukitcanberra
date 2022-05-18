@@ -94,7 +94,17 @@ b) Able to converse in English
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form<br>
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
 		</td>
 	</tr>
 </table>
+
+<table border="0" width="100%">
+	<tr>
+		<td width="50%">
+			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+		</td>
+		<td>
+			&nbsp;
+		</td>
+	</tr>
+	</table>
