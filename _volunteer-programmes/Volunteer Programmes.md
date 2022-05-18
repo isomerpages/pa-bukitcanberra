@@ -60,7 +60,6 @@ description: ""
                 &nbsp;
                     <div style="position: left; display: flex; align-items: left; gap: 2em; padding: 1em 1em 0;">
                     </div>
-                </a>
             </div>
         </li>
     </ul>
