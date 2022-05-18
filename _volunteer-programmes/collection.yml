@@ -2,4 +2,5 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - M3 Homework Cafe.md
       - Volunteer Programmes.md
