@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/SPARKS Pix.jpg
       button: Contact Us
       url: /contact-us/
   - infobar:
