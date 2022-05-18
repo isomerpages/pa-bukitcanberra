@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - SPARKS Mission.md
-      - Vision.md
+      - SPARKS Vision.md
       - 2:168.md
