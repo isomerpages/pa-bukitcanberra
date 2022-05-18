@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Bukit Canberra
+description: Bukit Canberra
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -14,3 +14,4 @@ sections:
       description: One-stop Centre for Cause-based Volunteerism in Sembawang GRC
       title: SPARKS@Bukit Canberra
 ---
+
