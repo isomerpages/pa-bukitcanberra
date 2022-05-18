@@ -3,3 +3,65 @@ title: Our Location
 permalink: /Our-Location
 description: ""
 ---
+<table border="0" width="100%">
+        <tbody><tr>
+            <td><b>Address</b></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+    </tbody></table>
+    <table border="0" width="100%">
+        <tbody><tr>
+            <td><b>General Enquires &amp; Feedback</b></td>
+        </tr>
+        <tr>
+            <td>
+                <table border="0" width="100%">
+                    <tbody><tr>
+                        <td><b>Tel</b></td>
+                        <td>:</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><b>Email</b></td>
+                        <td>:</td>
+                        <td></td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <table border="0" width="100%">
+        <tbody><tr>
+            <td><b>Opening Hours</b></td>
+        </tr>
+        <tr>
+            <td>
+                Mon - Fri: 10am - 6pm<br>
+                Sat &amp; Sun: 9am - 6pm<br>
+                PH Closed<p></p>
+            </td>
+        </tr>
+    </tbody></table>
+    <table border="0" width="100%">
+        <tbody><tr>
+            <td><b>How to get there</b></td>
+        </tr>
+        <tr>
+            <td>
+                Bus no.:<br>
+                Nearest MRT: Sembawang
+            </td>
+        </tr>
+    </tbody></table>
+    <table border="0" width="100%">
+        <tbody><tr>
+            <td><b>Location map</b></td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;
+            </td>
+        </tr>
+    </tbody></table>
