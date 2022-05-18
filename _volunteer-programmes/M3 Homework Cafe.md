@@ -73,7 +73,7 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirement:</b><br>
+			<b>Requirements:</b><br>
 			a) Good knowledge of the syllabus<br>
 b) Able to converse in English
 		</td>
