@@ -3,14 +3,4 @@ title: SPARKS Mission
 permalink: /mission
 description: ""
 ---
-
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pretium elementum mi sit amet mattis. Nam cursus, ipsum id placerat scelerisque, magna nunc tincidunt urna, malesuada semper urna felis hendrerit ante. Pellentesque consectetur, ex non pretium egestas, libero nisi elementum augue, eget congue tortor magna in mauris. Pellentesque vel purus ligula. Vivamus porttitor nulla ac quam blandit euismod. Morbi a sem vehicula, varius ligula quis, maximus tellus. Sed pulvinar nibh eu rhoncus fermentum. Morbi sit amet enim augue. Mauris sollicitudin, dui ac blandit ornare, lacus diam fermentum lorem, quis blandit ligula nunc in nulla. Mauris consequat dapibus sapien vel mattis. Duis sed erat at tortor accumsan fringilla. Sed bibendum turpis non fermentum dapibus. Curabitur tempus lacus molestie elit hendrerit, sit amet commodo sem ultrices. Nullam sit amet porttitor magna. Mauris augue libero, tincidunt eu hendrerit a, semper suscipit nulla.
-
-* Nam ut commodo nunc, at placerat magna. Fusce et sapien sit amet felis tempus commodo. Nunc sodales pharetra arcu quis congue. Nunc mollis sed elit ac pulvinar. Morbi in tellus posuere, vulputate mi in, efficitur lacus. Quisque a imperdiet lectus. Nam justo diam, mollis id ligula at, cursus sollicitudin justo.
-
-* Aenean vel purus ultricies, tincidunt nisi sed, tincidunt ex. Pellentesque malesuada quam in arcu feugiat, sed posuere elit mattis. Nam eget dignissim urna. Nam molestie libero posuere ornare gravida. Integer eu dignissim ligula. Ut luctus tortor sem, id semper tortor fringilla ornare. Morbi elementum fringilla lacus quis vulputate. Aenean finibus dui molestie, pellentesque leo ut, auctor tortor. Sed in laoreet nisl.
-
-* Aenean eu pharetra dolor. Donec ullamcorper erat efficitur sagittis finibus. Morbi sit amet aliquam magna. Maecenas cursus ullamcorper orci lacinia consectetur. Sed in dapibus augue. In dignissim magna et rutrum tristique. Maecenas consequat vitae nisi in gravida. In iaculis nulla justo, laoreet convallis nibh rhoncus non. Duis pulvinar malesuada sodales. Vestibulum tempor metus quis accumsan vulputate. In hac habitasse platea dictumst. Vivamus iaculis vel dolor a hendrerit.
-
-* Vivamus fermentum ornare massa, eu porta metus interdum eu. Aliquam at mattis est, ut luctus massa. Pellentesque posuere tellus vitae pulvinar iaculis. Ut et mollis augue. Pellentesque feugiat orci ac lectus eleifend finibus. Sed maximus dui ipsum, vel efficitur ex congue quis. Ut eu leo eget leo interdum ultrices. Curabitur molestie massa at fringilla ultrices. Proin rutrum velit eget tellus tincidunt, et pulvinar ligula finibus. Mauris rutrum justo a suscipit suscipit. Cras malesuada, eros vehicula tincidunt sagittis, odio velit euismod ipsum, et condimentum magna nisi et mi. In porttitor orci a magna fermentum viverra. Sed volutpat commodo luctus. Etiam euismod fermentum lacus. Aenean posuere pulvinar blandit. Donec a dui nec metus dignissim egestas.
+## One-stop Centre for Cause-based Volunteerism in Sembawang GRC
