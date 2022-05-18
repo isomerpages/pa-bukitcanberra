@@ -100,7 +100,7 @@ b) Able to converse in English
 
 <table border="0" width="100%">
 	<tr>
-		<td width="50%">
+		<td width="40%">
 			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
