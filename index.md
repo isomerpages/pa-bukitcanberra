@@ -25,4 +25,7 @@ sections:
   - infobar:
       description: "SPARKS@Bukit Canberra aims to be a One-stop Centre for Cause-based
         Volunteerism in Sembawang GRC. "
+  - infobar:
+      description: SPARKS is for residents, local community partners, corporate
+        partners/SMEs to come together to do good for the community
 ---
