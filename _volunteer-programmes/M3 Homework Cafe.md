@@ -83,6 +83,15 @@ b) Able to converse in English
 <table border="0" width="100%">
 	<tr>
 		<td>
+			<b>Organizer:</b><br>
+			&nbsp;
+		</td>
+	</tr>
+</table>
+
+<table border="0" width="100%">
+	<tr>
+		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form<br>
 			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
