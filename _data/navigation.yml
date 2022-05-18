@@ -2,7 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: Programme Sample 1
-    url: /bukit-canberra/programmes
-  - title: Programme Sample 2
-    url: /bukit-canberra-sample/categories
+  - title: Volunteer Programmes
+    collection: volunteer-programmes
+  - title: Join Us
+    collection: join-us
+  - title: Our Facilities
+    collection: our-facilities
+  - title: Our Location
+    collection: our-location
