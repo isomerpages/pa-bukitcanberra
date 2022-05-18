@@ -64,18 +64,27 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Lorem ipsum:</b><br>
-			Quisque varius metus leo, vel pulvinar enim tincidunt id. Donec facilisis nibh at dictum hendrerit. Proin dignissim tristique ipsum elementum tempus. Ut vitae nisl ultricies, lobortis est sit amet, scelerisque purus. Mauris pulvinar elementum elit, a elementum justo pulvinar in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam eu ex non dolor lobortis porttitor.
+			<b>Programme Description:</b><br>
+			A collaboration with Mendaki to provide tuition (English, Math and Science) for Primary 2 to Secondary 2 students.  Each session is 1.5hr.  Can be conducted physically or virtually.
 		</td>
 	</tr>
 </table>
 
 <table border="0" width="100%">
 	<tr>
-		<td width="80%">
-			Integer cursus ipsum consectetur vulputate euismod. Nulla lacinia facilisis faucibus. Praesent nec elit euismod, tristique purus vitae, efficitur mi. Sed viverra ex et nisl blandit, nec fermentum urna viverra. Aenean arcu metus, tempor nec sem eget, volutpat lobortis ipsum. Nunc vestibulum ultrices augue, id gravida mauris sagittis ut. Aenean elementum tortor turpis, sit amet cursus diam lobortis et. Nulla vehicula vel mi eget dignissim. Vivamus blandit in erat a vehicula. Phasellus et feugiat tellus. Mauris vel libero lacinia, bibendum massa ac, ullamcorper lacus. Nam rhoncus pulvinar condimentum.
+		<td>
+			<b>Requirement:</b><br>
+			a) Good knowledge of the syllabus<br>
+b) Able to converse in English
 		</td>
-		<td width="20%">
+	</tr>
+</table>
+
+<table border="0" width="100%">
+	<tr>
+		<td>
+			<b>How to Register:</b><br>
+			Scan QR code and fill out the form<br>
 			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
 		</td>
 	</tr>
