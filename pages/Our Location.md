@@ -21,14 +21,14 @@ description: ""
             <td>
                 <table border="0" width="100%">
                     <tbody><tr>
-                        <td width="20%"><b>Tel</b></td>
+                        <td width="10%"><b>Tel</b></td>
                         <td width="5%">:</td>
-                        <td width="75%"></td>
+                        <td width="85%"></td>
                     </tr>
                     <tr>
-                        <td width="20%"><b>Email</b></td>
+                        <td width="10%"><b>Email</b></td>
                         <td width="5%">:</td>
-                        <td width="75%"></td>
+                        <td width="85%"></td>
                     </tr>
                 </tbody></table>
             </td>
