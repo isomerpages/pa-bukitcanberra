@@ -83,7 +83,7 @@ b) Able to converse in English
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Organizer:</b><br>
+			<b>Jointly Organize with :</b><br>
 			&nbsp;
 		</td>
 	</tr>
