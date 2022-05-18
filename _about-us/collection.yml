@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Vision.md
       - Mission.md
+      - Vision.md
       - 2:168.md
