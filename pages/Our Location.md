@@ -61,7 +61,9 @@ description: ""
         </tr>
         <tr>
             <td>
-                &nbsp;
+							<a href="https://www.onemap.gov.sg/amm/amm.html?mapStyle=Default&zoomLevel=15&marker=latLng:1.44826336410158,103.82276363189!colour:red&popupWidth=200">
+                <img src="/images/BukitCanberra.jpg" alt="Bukit Canberra"/>
+							</a>
             </td>
         </tr>
     </tbody></table>
