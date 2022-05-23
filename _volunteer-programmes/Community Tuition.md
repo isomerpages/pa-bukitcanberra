@@ -3,8 +3,7 @@ title: Community Tuition
 permalink: /volunteer-programmes/Community-Tuition
 description: ""
 ---
-
-**M3 Homework Cafe**
+**Community Tuition**
 
 <table border="0" width="100%">
 	<tr>
@@ -54,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
 					</td>
 				</tr>
 			</table>
