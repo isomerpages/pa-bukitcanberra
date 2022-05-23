@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Join Us.md
       - Volunteer Programmes.md
       - Garden Gives Back.md
       - Project Blue Wave.md
@@ -10,3 +9,4 @@ collections:
       - It's Story Time.md
       - Community Tuition.md
       - M3 Homework Cafe.md
+      - Join Us.md
