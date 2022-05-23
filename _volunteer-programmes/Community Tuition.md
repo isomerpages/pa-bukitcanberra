@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						Saturday or Sunday
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			A collaboration with Mendaki to provide tuition (English, Math and Science) for Primary 2 to Secondary 2 students.  Each session is 1.5hr.  Can be conducted physically or virtually.
+			Familiar with current MOE syllabus.
 		</td>
 	</tr>
 </table>
@@ -74,7 +74,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Good knowledge of the syllabus<br>
+			a) Familiar with current MOE syllabus<br>
 b) Able to converse in English
 		</td>
 	</tr>
