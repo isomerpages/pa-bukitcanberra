@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						Sat: 10-12pm/ Sun: 2-4pm
 					</td>
 				</tr>
 				<tr>
