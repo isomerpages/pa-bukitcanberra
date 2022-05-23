@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Join Us.md
       - Volunteer Programmes.md
       - Garden Gives Back.md
       - Project Blue Wave.md
