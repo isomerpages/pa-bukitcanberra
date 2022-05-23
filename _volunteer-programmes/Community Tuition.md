@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Familiar with current MOE syllabus.
+			To provide tuition for students from needy families.
 		</td>
 	</tr>
 </table>
