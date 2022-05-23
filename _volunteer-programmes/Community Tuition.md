@@ -74,7 +74,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with current MOE syllabus<br>
+			a) Familiar with current levels of MOE syllabus like English, Maths & Science <br>
 b) Able to converse in English
 		</td>
 	</tr>
