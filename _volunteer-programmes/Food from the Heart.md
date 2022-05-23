@@ -45,7 +45,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						7:30pm to 9:30pm
 					</td>
 				</tr>
 				<tr>
@@ -56,7 +56,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						Blk 107A Canberra Street<br>Blk 510B Wellington Circle
 					</td>
 				</tr>
 			</table>
