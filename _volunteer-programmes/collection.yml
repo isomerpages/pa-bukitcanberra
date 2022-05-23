@@ -2,10 +2,10 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Garden Gives Back.md
       - Project Blue Wave.md
       - Food from the Heart.md
       - It's Story Time.md
       - Community Tuition.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
+      - Garden Gives Back.md
