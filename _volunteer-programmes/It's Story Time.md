@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			A collaboration with Mendaki to provide tuition (English, Math and Science) for Primary 2 to Secondary 2 students.  Each session is 1.5hr.  Can be conducted physically or virtually.
+			This programme aims to improve children literacy and cultivate reading habits among young children.  Each session is 45minutes (with art and craft activities).
 		</td>
 	</tr>
 </table>
@@ -74,8 +74,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Good knowledge of the syllabus<br>
-b) Able to converse in English
+			a) Pending information from GCDO
 		</td>
 	</tr>
 </table>
