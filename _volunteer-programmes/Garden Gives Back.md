@@ -3,7 +3,7 @@ title: Garden Gives Back
 permalink: /volunteer-programmes/Garden-Gives-Back
 description: ""
 ---
-**Garden Gives Back**
+**Project Blue Wave**
 
 <table border="0" width="100%">
 	<tr>
