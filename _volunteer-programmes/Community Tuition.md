@@ -75,7 +75,7 @@ description: ""
 		<td>
 			<b>Requirements:</b><br>
 			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Able to converse in English
+b) Have the patience to teach and guide the students.
 		</td>
 	</tr>
 </table>
