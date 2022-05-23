@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Protecting our Environment/Project Blue Wave.md
       - Protecting our Environment/.keep
       - Garden Gives Back.md
       - Food from the Heart.md
