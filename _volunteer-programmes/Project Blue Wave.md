@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Project Blue Wave believes in bringing people together (through education and affirmative action) to build a collective ownership for our environment.  It provides unique platforms and opportunities for an urban community to explore environmental conservation methods.  Heavy emphasis ....collaboration with Mendaki to provide tuition (English, Math and Science) for Primary 2 to Secondary 2 students.  Each session is 1.5hr.  Can be conducted physically or virtually.
+			Project Blue Wave believes in bringing people together (through education and affirmative action) to build a collective ownership for our environment.  It provides unique platforms and opportunities for an urban community to explore environmental conservation methods.  Heavy emphasis is placed on the values of Interconnection, Sustainability and Ownership.  It helps  to drive social responsibility amongst individuals to make informed lifestyle choices such as less single use of plastic products.
 		</td>
 	</tr>
 </table>
