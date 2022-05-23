@@ -32,11 +32,9 @@ description: ""
 					</td>
 					<td  width="75%">
 					Every first to fourth Wednesday of    
-           the month (Zone B RN)
-
-          Every first to fourth Thursday of the 
+           the month (Zone B RN)<br>
+						Every first to fourth Thursday of the 
           month (East Canberra Zone 1 RN)
-	
 					</td>
 				</tr>
 				<tr>
