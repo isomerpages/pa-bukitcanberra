@@ -3,8 +3,7 @@ title: Food from the Heart (SC)
 permalink: /volunteer-programmes/Food-from-the-Heart-SC
 description: ""
 ---
-
-**Food From the Heart**
+**Food From the Heart (SC)**
 
 <table border="0" width="100%">
 	<tr>
