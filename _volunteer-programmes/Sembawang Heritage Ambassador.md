@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			A collaboration with Mendaki to provide tuition (English, Math and Science) for Primary 2 to Secondary 2 students.  Each session is 1.5hr.  Can be conducted physically or virtually.
+			Form a group of residents who are interested to know and act as Sembawang Heritage Ambassadors. To equip them with knowledge, facilitation skills and info about Sembawang’s heritage. They can use this knowledge and information to share with residents who visit Sembawang GRC divisions. 
 		</td>
 	</tr>
 </table>
@@ -74,8 +74,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Good knowledge of the syllabus<br>
-b) Able to converse in English
+			a) Able to communicate in English<br>
+b) Physically fit to conduct heritage trails
 		</td>
 	</tr>
 </table>
