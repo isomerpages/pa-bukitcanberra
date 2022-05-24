@@ -3,7 +3,7 @@ title: Canberra Befrienders for the Elderly
 permalink: /volunteer-programmes/Canberra-Befrienders-for-the-Elderly
 description: ""
 ---
-**Community Tuition**
+**Canberra Befrienders for the Elderly**
 
 <table border="0" width="100%">
 	<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Wednesdays
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						2-4pm
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						Canberra Zone 2 and 3 RN Centres
 					</td>
 				</tr>
 			</table>
@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			Seniors residing within Canberra Zone 2 who need companionship, are welcome to approach the RN centre on the dates displayed on the poster from 1.30pm to 3.30pm. There will be activities organised by Canberra Secondary School's students
 		</td>
 	</tr>
 </table>
