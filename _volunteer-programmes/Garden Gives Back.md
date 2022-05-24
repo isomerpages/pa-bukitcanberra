@@ -3,7 +3,7 @@ title: Garden Gives Back
 permalink: /volunteer-programmes/Garden-Gives-Back
 description: ""
 ---
-**Project Blue Wave**
+**Garden Gives Back**
 
 <table border="0" width="100%">
 	<tr>
@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Project Blue Wave
+						Garden Gives Back 
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						No fix date
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						To be confirmed
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						Garden Between Blk 795 and 796A Woodlands Dr 72
 					</td>
 				</tr>
 			</table>
@@ -65,7 +65,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Project Blue Wave believes in bringing people together (through education and affirmative action) to build a collective ownership for our environment.  It provides unique platforms and opportunities for an urban community to explore environmental conservation methods.  Heavy emphasis is placed on the values of Interconnection, Sustainability and Ownership.  It helps  to drive social responsibility amongst individuals to make informed lifestyle choices such as less single use of plastic products.
+			Gardens around the estates beautify the environment and allow residents with common interest to have a platform for share gardening skills and engage their neighbours.
+Through gardening, we also help the needy families around the estates by pledging our harvest back to the community and improve the well being of the residents as the vegetables harvested are all organic and healthy.
 		</td>
 	</tr>
 </table>
@@ -74,8 +75,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Good knowledge of the syllabus<br>
-b) Able to converse in English
+			a) Able to help set up gardening plots around the estates<br>
+b) To work with schools and stakeholders to set up new community gardens around the estates
 		</td>
 	</tr>
 </table>
