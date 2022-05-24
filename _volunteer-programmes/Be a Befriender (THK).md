@@ -74,7 +74,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
+			a) Volunteers to ensure they have their personal laptops/ devices, a working video camera and microphone. <br>
 b) Have the patience to teach and guide the students.
 		</td>
 	</tr>
