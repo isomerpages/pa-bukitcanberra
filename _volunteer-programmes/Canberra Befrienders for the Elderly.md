@@ -74,8 +74,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Able to speak mother tongue languages <br>
+b) Keen to work with seniors.<br>
 		</td>
 	</tr>
 </table>
