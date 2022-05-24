@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			Food from the Heart (a food distribution programme) distributes food ration packs (dry rations, fresh vegetables, eggs etc) to low-income clients on monthly basis. Distribution is done face-to-face at Fei Yue Family Service Centre (Champions Way), clients will come at a specific timing to collect their rations.
 		</td>
 	</tr>
 </table>
