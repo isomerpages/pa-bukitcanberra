@@ -75,7 +75,7 @@ description: ""
 		<td>
 			<b>Requirements:</b><br>
 			a) Physically fit<br>
-b) Able to converse in English
+b) Min. age:15
 		</td>
 	</tr>
 </table>
