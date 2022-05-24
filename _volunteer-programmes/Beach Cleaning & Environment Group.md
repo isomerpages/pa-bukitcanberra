@@ -74,7 +74,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Good knowledge of the syllabus<br>
+			a) Physically fit<br>
 b) Able to converse in English
 		</td>
 	</tr>
