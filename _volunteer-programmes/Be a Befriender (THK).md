@@ -75,7 +75,7 @@ description: ""
 		<td>
 			<b>Requirements:</b><br>
 			a) Volunteers to ensure they have their personal laptops/ devices, a working video camera and microphone. <br>
-b) Have the patience to teach and guide the students.
+b) Min. age: 13
 		</td>
 	</tr>
 </table>
