@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Sembawang Heritage Ambassador.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -10,5 +9,6 @@ collections:
       - Beach Cleaning & Environment Group.md
       - Project Blue Wave.md
       - Garden Gives Back.md
+      - Sembawang Heritage Ambassador.md
       - Food from the Heart (SC).md
       - Join Us.md
