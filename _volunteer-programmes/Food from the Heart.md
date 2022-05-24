@@ -68,7 +68,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			A collaboration with Mendaki to provide tuition (English, Math and Science) for Primary 2 to Secondary 2 students.  Each session is 1.5hr.  Can be conducted physically or virtually.
+			Sembawang Central CO started the collaboration with FFTH, with the objective to help the underprivileged and less fortunate within the division. The collaboration with FFTH under the community food pack programme also enables willing resident volunteers to help out those who sought assistance, put food on their tables and offset their living expenses. The initiative is donor driven and the FFTH organisation is fuelled by a mix of food donations, cash donations, as well as bread distribution to the needy. The consistent and reliability of FFTH in providing food rations gives eligible residents continued food security on a monthly basis.
 		</td>
 	</tr>
 </table>
