@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Canberra Befrienders for the Elderly.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
