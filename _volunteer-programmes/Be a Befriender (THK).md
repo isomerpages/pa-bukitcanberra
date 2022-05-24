@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Twice a month engagement
 					</td>
 				</tr>
 				<tr>
