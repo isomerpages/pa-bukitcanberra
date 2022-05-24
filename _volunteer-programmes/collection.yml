@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Food from the Heart (FYFS).md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -13,4 +12,5 @@ collections:
       - Sembawang Heritage Ambassador.md
       - Canberra Befrienders for the Elderly.md
       - Food from the Heart (SC).md
+      - Food from the Heart (FYFS).md
       - Join Us.md
