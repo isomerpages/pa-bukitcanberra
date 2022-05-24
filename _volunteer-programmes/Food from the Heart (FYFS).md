@@ -75,7 +75,7 @@ description: ""
 		<td>
 			<b>Requirements:</b><br>
 			a) Min. age: 16 <br>
-b) Have the patience to teach and guide the students.
+b) Assist in packing food ration
 		</td>
 	</tr>
 </table>
