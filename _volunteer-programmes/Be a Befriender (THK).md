@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			To increase social engagement for our residents through 2 residents – 1 volunteer ratio arrangement. Engagement to be done through online games, or befriending role. 
 		</td>
 	</tr>
 </table>
