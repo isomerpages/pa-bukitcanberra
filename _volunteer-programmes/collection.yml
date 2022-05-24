@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Canberra Befrienders for the Elderly.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -11,5 +10,6 @@ collections:
       - Project Blue Wave.md
       - Garden Gives Back.md
       - Sembawang Heritage Ambassador.md
+      - Canberra Befrienders for the Elderly.md
       - Food from the Heart (SC).md
       - Join Us.md
