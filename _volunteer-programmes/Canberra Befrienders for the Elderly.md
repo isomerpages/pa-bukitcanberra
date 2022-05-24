@@ -75,7 +75,7 @@ description: ""
 		<td>
 			<b>Requirements:</b><br>
 			a) Able to speak mother tongue languages <br>
-b) Keen to work with seniors<br>
+b) Keen to work with seniors<br>c)	Must have compassion and patience<br>
 		</td>
 	</tr>
 </table>
