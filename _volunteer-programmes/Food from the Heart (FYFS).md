@@ -3,7 +3,7 @@ title: Food from the Heart (FYFS)
 permalink: /volunteer-programmes/Food-from-the-Heart-FYFS
 description: ""
 ---
-**Community Tuition**
+**Food from the Heart (FYFS)**
 
 <table border="0" width="100%">
 	<tr>
@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Food from the Heart (FYFS)
 					</td>
 				</tr>
 				<tr>
