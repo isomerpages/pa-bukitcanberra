@@ -2,13 +2,13 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Beach Cleaning & Environment Group.md
-      - Garden Gives Back.md
-      - M3 Homework Cafe.md
       - Volunteer Programmes.md
-      - Project Blue Wave.md
-      - Food from the Heart.md
+      - M3 Homework Cafe.md
       - It's Story Time.md
       - Community Tuition.md
+      - Beach Cleaning & Environment Group.md
+      - Project Blue Wave.md
+      - Garden Gives Back.md
+      - Food from the Heart.md
       - Test.md
       - Join Us.md
