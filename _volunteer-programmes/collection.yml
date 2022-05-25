@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Virtual Zumba or Exercise Instructors.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -24,4 +23,5 @@ collections:
       - Outreach & Public Education.md
       - Sewers' Community Initiative.md
       - Volunteering Initiatives@NKF.md
+      - Virtual Zumba or Exercise Instructors.md
       - Join Us.md
