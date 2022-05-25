@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Storytellers.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -26,4 +25,5 @@ collections:
       - Volunteering Initiatives@NKF.md
       - Virtual Zumba or Exercise Instructors.md
       - Arts and Crafts Instructors.md
+      - Storytellers.md
       - Join Us.md
