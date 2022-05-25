@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Monthly Birthday Celebrations.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -19,4 +18,5 @@ collections:
       - Hair Grooming or Cutting Services.md
       - Programme Coordinator.md
       - Medical Escort.md
+      - Monthly Birthday Celebrations.md
       - Join Us.md
