@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Sewers' Community Initiative.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
