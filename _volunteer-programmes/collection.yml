@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Teach a Language.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -20,4 +19,5 @@ collections:
       - Programme Coordinator.md
       - Medical Escort.md
       - Monthly Birthday Celebrations.md
+      - Teach a Language.md
       - Join Us.md
