@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Outreach & Public Education.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -21,4 +20,5 @@ collections:
       - Medical Escort.md
       - Monthly Birthday Celebrations.md
       - Teach a Language.md
+      - Outreach & Public Education.md
       - Join Us.md
