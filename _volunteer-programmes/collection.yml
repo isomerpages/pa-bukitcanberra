@@ -2,18 +2,18 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Hair Grooming or Cutting Services.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
       - Community Tuition.md
       - Beach Cleaning & Environment Group.md
-      - Protecting our Environment/Project Blue Wave.md
       - Protecting our Environment/.keep
+      - Protecting our Environment/Project Blue Wave.md
       - Garden Gives Back.md
       - Sembawang Heritage Ambassador.md
       - Canberra Befrienders for the Elderly.md
       - Food from the Heart (SC).md
       - Food from the Heart (FYFS).md
       - Be a Befriender (THK).md
+      - Hair Grooming or Cutting Services.md
       - Join Us.md
