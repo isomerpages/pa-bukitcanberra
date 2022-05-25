@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Hair Grooming or Cutting Services
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Once a month engagement
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						TBC
 					</td>
 				</tr>
 				<tr>
