@@ -53,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						TBC
 					</td>
 				</tr>
 			</table>
