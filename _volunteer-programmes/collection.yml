@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Arts and Crafts Instructors.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -25,4 +24,5 @@ collections:
       - Sewers' Community Initiative.md
       - Volunteering Initiatives@NKF.md
       - Virtual Zumba or Exercise Instructors.md
+      - Arts and Crafts Instructors.md
       - Join Us.md
