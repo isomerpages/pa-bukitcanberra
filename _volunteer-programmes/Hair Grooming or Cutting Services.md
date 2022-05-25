@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			To provide hair cutting services to our residents at least once every 2 months.
 		</td>
 	</tr>
 </table>
