@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Hawker Day.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -30,4 +29,5 @@ collections:
       - Art Performance  Volunteers.md
       - Activity Pack Designers.md
       - Morning Exercise Facilitators.md
+      - Hawker Day.md
       - Join Us.md
