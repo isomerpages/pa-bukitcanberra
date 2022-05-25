@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Volunteering Initiatives@NKF.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -23,4 +22,5 @@ collections:
       - Teach a Language.md
       - Outreach & Public Education.md
       - Sewers' Community Initiative.md
+      - Volunteering Initiatives@NKF.md
       - Join Us.md
