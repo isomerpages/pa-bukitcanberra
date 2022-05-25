@@ -2,7 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Intergeneration Programme Coordinator.md
       - Volunteer Programmes.md
       - M3 Homework Cafe.md
       - It's Story Time.md
@@ -31,4 +30,5 @@ collections:
       - Activity Pack Designers.md
       - Morning Exercise Facilitators.md
       - Hawker Day.md
+      - Intergeneration Programme Coordinator.md
       - Join Us.md
