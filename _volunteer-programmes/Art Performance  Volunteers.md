@@ -78,8 +78,15 @@ ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Experienced or interested in Art Performance
+<br>b)	Able to plan and propose Arts Performances (i.e. song items, dance items) for seniors to view 
+<br>c)	Able to create an audience engagement segment for each art performance session proposed (i.e. have a segment where, seniors can learn one of the dance move performed). 
+<br>d)	Able to conduct Art Performances over zoom or other online video conferencing platforms on weekly or bi-weekly basis
+<br>e)	Comfortable working with seniors
+<br>f)	Experienced in performing for seniors is preferred 
+<br>g)	Able to commit minimum 1 month (4 sessions)
+<br>h)	Min. age: 18
+ <br>
 		</td>
 	</tr>
 </table>
