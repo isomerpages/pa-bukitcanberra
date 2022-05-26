@@ -91,8 +91,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Interested or experienced in sewing. Volunteers who are keen to learn sewing are also welcome<br>
+b) Min. age: 18
 		</td>
 	</tr>
 </table>
