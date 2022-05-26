@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Pending information from GCDO
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,9 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						i) 6.30am to 8.00am<br>
+            ii) 11.00am to 1.30pm<br>
+            iii) 4.00pm to 6.00pm<br>
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +55,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						Pending information from GCDO
 					</td>
 				</tr>
 			</table>
