@@ -3,7 +3,7 @@ title: Monthly Birthday Celebrations
 permalink: /volunteer-programmes/Monthly-Birthday-Celebrations
 description: ""
 ---
-**Community Tuition**
+**Monthly Birthday Celebrations**
 
 <table border="0" width="100%">
 	<tr>
@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Monthly Birthday Celebrations
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Once a month engagement (for both female and male residents who are born in that month)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						TBC
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						TBC
 					</td>
 				</tr>
 			</table>
@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			To organize zoom birthday celebrations for residents born in the month.
 		</td>
 	</tr>
 </table>
@@ -74,8 +74,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Pending info fr GCDO <br>
+b) Pending info fr GCDO
 		</td>
 	</tr>
 </table>
@@ -109,4 +109,4 @@ b) Have the patience to teach and guide the students.
 	</tr>
 	</table>
 	
-	[Back to Volunteer Programme Listing](/volunteer-programmes/Programmes)
+	[Back to Volunteer Programme Listing](/volunteer-programmes/Programmes)**
