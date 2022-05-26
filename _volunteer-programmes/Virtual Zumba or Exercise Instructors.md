@@ -3,7 +3,7 @@ title: Virtual Zumba or Exercise Instructors
 permalink: /volunteer-programmes/Virtual-Zumba-or-Exercise-Instructors
 description: ""
 ---
-**Community Tuition**
+**Virtual Zumba or Exercise Instructors**
 
 <table border="0" width="100%">
 	<tr>
@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Virtual Zumba or Exercise Instructors
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						TBC
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						At timings suitable for volunteers but subjected to the availabilities of timings at the Nursing Home
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,8 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						i)	Zoom or Microsoft Teams
+<br>ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
 					</td>
 				</tr>
 			</table>
@@ -65,7 +66,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			Regular Physical Exercise is important to help seniors maintain their physical health, to enable them age healthily and lead fulfilling lives well into their old age.<br> 
+<br>We are looking for volunteers who can design, plan and conduct virtual or on-site Zumba/exercises and to conduct these exercises and dance-exercise programmes for our seniors.
 		</td>
 	</tr>
 </table>
@@ -74,7 +76,14 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
+			a) Must be physically fit.Experienced in conducting Zumba or Exercise
+c)	Able to design and propose an exercise programme (Zumba/ Other Types of Exercises) suitable for seniors who are ambulant, or wheelchair bound.
+d)	Able to conduct weekly or bi-weekly Zumba or other exercise programme for the seniors over zoom or other online video conferencing platforms
+e)	Comfortable working with seniors 
+f)	Experienced/have qualifications in designing and conducting exercise programmes for seniors is preferred
+g)	Able to commit min 3 months 
+h)	Min age: 18
+ <br>
 b) Have the patience to teach and guide the students.
 		</td>
 	</tr>
