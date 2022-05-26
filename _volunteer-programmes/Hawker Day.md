@@ -74,8 +74,12 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a)	Ensure food purchased is according to resident's preference
+<br>b)	Physically Fit to travel to nearby food outlets, eg Chong Pang Market, to purchase food, during lunch time
+<br>c)	Must be able to commit minimum 3 months
+<br>d)	Must be fully vaccinated and boostered
+<br>e)	Min age: 18
+.
 		</td>
 	</tr>
 </table>
