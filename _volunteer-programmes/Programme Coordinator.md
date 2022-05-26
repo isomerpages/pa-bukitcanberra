@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Programme Coordinator 
 					</td>
 				</tr>
 				<tr>
