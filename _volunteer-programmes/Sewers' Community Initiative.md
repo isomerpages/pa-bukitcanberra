@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Sewers’ Community Initiative
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						May 2022 to Dec 2022, Once a week on weekdays (AM/PM)
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						1.5-2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,11 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						1)	Pop-up Event:
+• Tzu Chi Humanistic Youth Centre
+   (30A Yishun Central 1, Singapore 
+    768796)<br>2)	Sewing Interest Group:
+• Sembawang Family Service Centre (Blk 326 Sembawang Crescent #01-52 Singapore 750326)
 					</td>
 				</tr>
 			</table>
