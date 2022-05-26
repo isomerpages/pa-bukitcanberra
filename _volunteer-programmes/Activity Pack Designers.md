@@ -54,7 +54,7 @@ description: ""
 					</td>
 					<td  width="75%">
 						i)	Send in through email  
-ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
+<br>ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
 					</td>
 				</tr>
 			</table>
