@@ -3,7 +3,6 @@ title: Hair Grooming or Cutting Services
 permalink: /volunteer-programmes/Hair-Grooming-or-Cutting-Services
 description: ""
 ---
-
 **Hair Grooming or Cutting Services**
 
 <table border="0" width="100%">
@@ -54,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						Pending info fr GCDO
 					</td>
 				</tr>
 			</table>
