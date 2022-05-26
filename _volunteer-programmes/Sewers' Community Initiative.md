@@ -69,7 +69,20 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			The Sewers’ Community Initiative was started by Sembawang Family Service Centre (SFSC) with the aim of providing women from lower-income families the opportunity to supplement their household income through sewing assignments. SFSC works towards helping clients learn sewing skills and capacity-build. Clients will learn how to use a sewing machine to make upcycled products such as tote bags, masks, pouches etc, from donated materials such as used banners.<br>
+<br>We are looking for volunteers for the following areas:<br> 
+1)	Ambassadors<br>
+•	To assist in managing physical pop-up booths to sell sewers’ items<br> 
+•	Mode: Physical<br>
+•	Time/Period: Apr – Dec 2022<br>
+•	Venue: Varying locations
+	Tzu Chi Humanistic Youth Centre (Yishun)
+	Schools, Ad-hoc Pop-up booths are different locations e.g. shopping malls and event spaces<br>
+<br>2)	Interest Group<br>
+•	Sewing enthusiasts who have interest or experience in sewing, to share their knowledge and skills with other volunteers/clients, and take on sewing projects. Through building this support network, we hope to help clients sew products for sale, with the proceeds going to support low-income families.<br>
+•	Mode: Physical<br>
+•	Venue: 
+	Primarily stationed at Sembawang Family Service  Centre<br>•	May require travelling to places to do market research or purchase sewing materials, etc
 		</td>
 	</tr>
 </table>
@@ -115,108 +128,4 @@ b) Have the patience to teach and guide the students.
 	
 	[Back to Volunteer Programme Listing](/volunteer-programmes/Programmes)**
 
-<table border="0" width="100%">
-	<tr>
-		<td width="40%">
-			<img src="/images/Events/finding%20love%20at%20chingay.png" style="width=200px;height=auto;"/>
-		</td>
-		<td width="60%">
-			<table border="0" width="100%">
-				<tr>
-					<td width="20%">
-						Programme Title
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td  width="75%">
-						Community Tuition Programme
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						Date
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td  width="75%">
-						Saturday or Sunday
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						Time
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
-					</td>
-				</tr>
-				<tr>
-					<td width="20%">
-						Venue
-					</td>
-					<td width="5%">
-						:
-					</td>
-					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
-					</td>
-				</tr>
-			</table>
-		</td>
-	</tr>
-</table>
 
-<table border="0" width="100%">
-	<tr>
-		<td>
-			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td>
-			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td>
-			<b>Jointly Organize with :</b><br>
-			&nbsp;
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td>
-			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
-		</td>
-	</tr>
-</table>
-
-<table border="0" width="100%">
-	<tr>
-		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
-		</td>
-		<td>
-			&nbsp;
-		</td>
-	</tr>
-	</table>
-	
-	[Back to Volunteer Programme Listing](/volunteer-programmes/Programmes)
