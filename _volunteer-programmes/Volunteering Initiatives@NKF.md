@@ -3,7 +3,7 @@ title: Volunteering Initiatives@NKF
 permalink: /volunteer-programmes/Volunteering-Initiatives-at-NKF
 description: ""
 ---
-**Community Tuition**
+**Volunteering Initiatives @NKF**
 
 <table border="0" width="100%">
 	<tr>
@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Volunteering Initiatives @NKF
 					</td>
 				</tr>
 				<tr>
