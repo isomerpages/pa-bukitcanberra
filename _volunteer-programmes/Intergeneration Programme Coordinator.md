@@ -65,7 +65,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			Intergeneration Programme Coordination covers many aspects including arranging for the programme, setting up equipment to preparing materials for the programme.<br> 
+<br>We are looking for people to volunteer as intergeneration programme coordinator to help with setting up devices and materials for student engagements.
 		</td>
 	</tr>
 </table>
@@ -74,8 +75,17 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a)	Interested in working with seniors and helping to do programme set up 
+<br>b)	Assist to setup devices for students’ engagement with residents
+<br>c)	Prepare materials for the respective sessions
+<br>d)	Able to engage the residents in the students’ planned activities
+<br>e)	Possess IT skills
+<br>f)	Must be patient with elderly
+<br>g)	Experienced in hosting programme for elderly
+<br>h)	Able to converse in at least 2 languages
+<br>i)	Able to commit minimum 3 months
+<br>j)	Must be fully vaccinated and boostered
+<br>k)	Min age: 18
 		</td>
 	</tr>
 </table>
