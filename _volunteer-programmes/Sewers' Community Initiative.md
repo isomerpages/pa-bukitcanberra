@@ -54,10 +54,10 @@ description: ""
 					</td>
 					<td  width="75%">
 						1)	Pop-up Event:<br>
-• Tzu Chi Humanistic Youth Centre
+• Tzu Chi Humanistic Youth Centre<br>
    (30A Yishun Central 1, Singapore 
     768796)<br><br>2)	Sewing Interest Group:<br>
-• Sembawang Family Service Centre (Blk 326 Sembawang Crescent #01-52 Singapore 750326)
+• Sembawang Family Service Centre<br>(Blk 326 Sembawang Crescent #01-52 Singapore 750326)
 					</td>
 				</tr>
 			</table>
