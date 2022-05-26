@@ -3,7 +3,7 @@ title: Teach a Language
 permalink: /volunteer-programmes/Teach-a-Language
 description: ""
 ---
-**Community Tuition**
+**Teach a Language**
 
 <table border="0" width="100%">
 	<tr>
@@ -20,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Teach a Language
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Once a week engagement
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						TBC
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						TBC
 					</td>
 				</tr>
 			</table>
@@ -65,7 +65,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			To teach foreign care staff to speak Mandarin, Malay, Hokkien, Teochew, Cantonese, English
+confidently and fluently.
 		</td>
 	</tr>
 </table>
@@ -74,8 +75,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Able to practice and teach local languages to foreign care staff<br>b)	Volunteers to ensure they have their personal laptop/ devices, a working video camera and microphone
 		</td>
 	</tr>
 </table>
