@@ -66,7 +66,8 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			Arts and Crafts workshops allows seniors to practise their hand eye coordination skills. Hand eye coordination skills are important in many daily activities.  Art and Craft Workshops also brings colours to the seniors’ lives. It keeps them engaged and dispel feelings of loneliness which seniors might feel.<br>
+<br>We are looking for Arts and Crafts Instructors (e.g. Zentangle, Simple Painting) to design and conduct Arts and Crafts Workshop for our seniors.
 		</td>
 	</tr>
 </table>
