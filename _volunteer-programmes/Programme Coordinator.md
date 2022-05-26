@@ -31,7 +31,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						Once or twice a month engagement
 					</td>
 				</tr>
 				<tr>
@@ -42,7 +42,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						TBC
 					</td>
 				</tr>
 				<tr>
@@ -53,7 +53,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						TBC
 					</td>
 				</tr>
 			</table>
@@ -65,7 +65,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide tuition for students from needy families.
+			To assist in conducting and executing recreational programmes that suit the needs of THK Home and its residents through online meeting platform. e.g. virtual tours to introduce different places of interest/ culture in Singapore to our residents, online dance and movement sessions, art & craft session etc
 		</td>
 	</tr>
 </table>
@@ -74,8 +74,7 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Ensure you have own personal laptop/ devices, a working video camera and microphone
 		</td>
 	</tr>
 </table>
