@@ -76,15 +76,14 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Must be physically fit.Experienced in conducting Zumba or Exercise
-c)	Able to design and propose an exercise programme (Zumba/ Other Types of Exercises) suitable for seniors who are ambulant, or wheelchair bound.
-d)	Able to conduct weekly or bi-weekly Zumba or other exercise programme for the seniors over zoom or other online video conferencing platforms
-e)	Comfortable working with seniors 
-f)	Experienced/have qualifications in designing and conducting exercise programmes for seniors is preferred
-g)	Able to commit min 3 months 
-h)	Min age: 18
+			a) Must be physically fit.<br>b) Experienced in conducting Zumba or Exercise
+<br>c)	Able to design and propose an exercise programme (Zumba/ Other Types of Exercises) suitable for seniors who are ambulant, or wheelchair bound.
+<br>d)	Able to conduct weekly or bi-weekly Zumba or other exercise programme for the seniors over zoom or other online video conferencing platforms
+<br>e)	Comfortable working with seniors 
+<br>f)	Experienced/have qualifications in designing and conducting exercise programmes for seniors is preferred
+<br>g)	Able to commit min 3 months 
+<br>h)	Min age: 18
  <br>
-b) Have the patience to teach and guide the students.
 		</td>
 	</tr>
 </table>
