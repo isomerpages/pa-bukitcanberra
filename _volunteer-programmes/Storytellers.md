@@ -76,8 +76,13 @@ We are looking for volunteers to curate and tell stories to our seniors to keep 
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
-b) Have the patience to teach and guide the students.
+			a) Interested in storytelling 
+<br>b)	Able to select simple and easy to understand stories to share with the seniors
+<br>c)	Able to create colourful and engaging visuals or media for the seniors to see alongside the storytelling
+<br>d)	Able to do storytelling with the seniors weekly/ bi-weekly/ monthly 
+<br>e)	Experienced in storytelling to seniors is preferred 
+<br>f)	Able to commit minimum 3 months
+<br>g)	Min age: 18
 		</td>
 	</tr>
 </table>
