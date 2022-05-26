@@ -76,7 +76,14 @@ description: ""
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
+			a) Interested in Art and Craft
+b)	Able to design and propose an easy to follow and learn Arts and Crafts programme for seniors 
+c)	Able to conduct weekly or bi-weekly Arts and Crafts Programme for the seniors over zoom or other online video conferencing platforms 
+d)	Comfortable working with seniors
+e)	Experienced/have qualifications in designing and conducting Arts and Crafts programmes is preferred
+f)	Able to commit minimum 1 month (4 sessions)  
+g)	Min age: 18
+ <br>
 b) Have the patience to teach and guide the students.
 		</td>
 	</tr>
