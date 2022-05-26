@@ -3,7 +3,7 @@ title: Programme Coordinator
 permalink: /volunteer-programmes/Programme-Coordinator
 description: ""
 ---
-**Programme Coordinator **
+**Programme Coordinator**
 
 <table border="0" width="100%">
 	<tr>
