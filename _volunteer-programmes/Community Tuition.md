@@ -8,8 +8,8 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 				<tr>
-		<td width="40%">/images/Events/finding%20love%20at%20chingay.png![](/images/jerry-wang-KV9F7Ypl2N0-unsplash.jpg)
-			<img src="/images/jerry-wang-KV9F7Ypl2N0-unsplash.jpg" style="width=200px;height=auto;"/>
+		<td width="40%">/images/Events/finding%20love%20at%20chingay.png![]
+			<img src="/images/Community%20Tuition%20Programme.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
