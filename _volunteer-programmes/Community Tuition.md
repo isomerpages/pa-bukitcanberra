@@ -8,7 +8,7 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 				<tr>
-		<td width="40%">/images/Events/finding%20love%20at%20chingay.png![]
+		<td width="40%">
 			<img src="/images/Community%20Tuition%20Programme.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
