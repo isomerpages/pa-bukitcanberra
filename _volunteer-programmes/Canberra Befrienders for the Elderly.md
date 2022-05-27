@@ -8,7 +8,8 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Events/finding%20love%20at%20chingay.png" style="width=200px;height=auto;"/>
+			<img src="/images/Befrienders.png" 
+					 style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
