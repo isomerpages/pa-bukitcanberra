@@ -2,16 +2,16 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Greening our Estate/Garden Gives Back.md
-      - Greening our Estate/.keep
+      - Volunteer Programmes.md
+      - Improving Children Literacy/.keep
       - Improving Children Literacy/M3 Homework Cafe.md
       - Improving Children Literacy/Community Tuition.md
       - Improving Children Literacy/It's Story Time.md
-      - Improving Children Literacy/.keep
-      - Volunteer Programmes.md
-      - Protecting our Environment/Beach Cleaning & Environment Group.md
       - Protecting our Environment/.keep
+      - Protecting our Environment/Beach Cleaning & Environment Group.md
       - Protecting our Environment/Project Blue Wave.md
+      - Greening our Estate/.keep
+      - Greening our Estate/Garden Gives Back.md
       - Sembawang Heritage Ambassador.md
       - Canberra Befrienders for the Elderly.md
       - Food from the Heart (SC).md
