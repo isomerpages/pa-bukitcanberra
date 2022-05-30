@@ -287,7 +287,7 @@ description: ""
 	<li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;">
-                    <img style="height:auto;width:228px;" src="/images/CardBlankPhoto.png">
+                    <img style="height:auto;width:228px;" src="/images/Teach%20a%20Language.png">
                     <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
 											<h3 style="font-size: 1em; margin: 0 0 .3em;">To allow our residents to be a part of any celebrations through donation in kind (meal donation), zoom activities</h3>
                     </div>
