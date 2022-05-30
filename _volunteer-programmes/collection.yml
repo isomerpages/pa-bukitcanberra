@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Greening our Estate/Garden Gives Back.md
       - Greening our Estate/.keep
       - Improving Children Literacy/M3 Homework Cafe.md
       - Improving Children Literacy/Community Tuition.md
