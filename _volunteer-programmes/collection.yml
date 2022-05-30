@@ -2,9 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Reaching Out to the Needy/.keep
-      - Reaching Out to the Needy/Food from the Heart (FYFS).md
-      - Reaching Out to the Needy/Food from the Heart (SC).md
       - Volunteer Programmes.md
       - Improving Children Literacy/.keep
       - Improving Children Literacy/M3 Homework Cafe.md
@@ -19,6 +16,9 @@ collections:
       - Preserving Our Heritage/Sembawang Heritage Ambassador.md
       - Elderly Programme/.keep
       - Elderly Programme/Canberra Befrienders for the Elderly.md
+      - Reaching Out to the Needy/.keep
+      - Reaching Out to the Needy/Food from the Heart (FYFS).md
+      - Reaching Out to the Needy/Food from the Heart (SC).md
       - Be a Befriender (THK).md
       - Hair Grooming or Cutting Services.md
       - Programme Coordinator.md
