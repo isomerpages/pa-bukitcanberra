@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Creating Inclusive Community/Teach a Language.md
       - Creating Inclusive Community/Monthly Birthday Celebrations.md
       - Creating Inclusive Community/Medical Escort.md
       - Creating Inclusive Community/Programme Coordinator.md
