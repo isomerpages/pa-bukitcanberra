@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Creating Inclusive Community/Be a Befriender (THK).md
       - Creating Inclusive Community/.keep
       - Volunteer Programmes.md
       - Improving Children Literacy/.keep
