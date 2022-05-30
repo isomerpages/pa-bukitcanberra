@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Improving Children Literacy/Community Tuition.md
       - Improving Children Literacy/It's Story Time.md
       - Improving Children Literacy/.keep
       - Volunteer Programmes.md
