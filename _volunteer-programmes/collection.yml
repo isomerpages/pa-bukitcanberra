@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Social Enterprise/.keep
       - Volunteer Programmes.md
       - Improving Children Literacy/.keep
       - Improving Children Literacy/M3 Homework Cafe.md
