@@ -2,8 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Elderly Programme/Canberra Befrienders for the Elderly.md
-      - Elderly Programme/.keep
       - Volunteer Programmes.md
       - Improving Children Literacy/.keep
       - Improving Children Literacy/M3 Homework Cafe.md
@@ -16,6 +14,8 @@ collections:
       - Greening our Estate/Garden Gives Back.md
       - Preserving Our Heritage/.keep
       - Preserving Our Heritage/Sembawang Heritage Ambassador.md
+      - Elderly Programme/.keep
+      - Elderly Programme/Canberra Befrienders for the Elderly.md
       - Food from the Heart (SC).md
       - Food from the Heart (FYFS).md
       - Be a Befriender (THK).md
