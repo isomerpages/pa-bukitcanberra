@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Preserving Our Heritage/Sembawang Heritage Ambassador.md
       - Preserving Our Heritage/.keep
       - Volunteer Programmes.md
       - Improving Children Literacy/.keep
