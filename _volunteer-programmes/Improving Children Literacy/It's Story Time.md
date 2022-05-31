@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/it-is-story-time
 description: ""
 third_nav_title: Improving Children Literacy
 ---
-
 **It's Story Time**
 
 <table border="0" width="100%">
@@ -33,7 +32,7 @@ third_nav_title: Improving Children Literacy
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						Weekend
 					</td>
 				</tr>
 				<tr>
@@ -44,7 +43,7 @@ third_nav_title: Improving Children Literacy
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						10-11am
 					</td>
 				</tr>
 				<tr>
@@ -55,7 +54,7 @@ third_nav_title: Improving Children Literacy
 						:
 					</td>
 					<td  width="75%">
-						Pending Info from GCDO
+						Virtual
 					</td>
 				</tr>
 			</table>
