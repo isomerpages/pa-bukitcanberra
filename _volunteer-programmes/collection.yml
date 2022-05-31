@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Volunteer Programmes.md
-      - Xxyy/.keep
       - Improving Children Literacy/.keep
       - Improving Children Literacy/M3 Homework Cafe.md
       - Improving Children Literacy/Community Tuition.md
@@ -41,3 +40,4 @@ collections:
       - Intergeneration Programme Coordinator.md
       - Befriender Programme.md
       - Join Us.md
+      - Xxyy/.keep
