@@ -4,13 +4,12 @@ permalink: /volunteer-programmes/Teach-a-Language
 description: ""
 third_nav_title: Creating Inclusive Community
 ---
-
 **Teach a Language**
 
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Community%20Tuition%20Programme.png" style="width=200px;height=auto;"/>
+			<img src="/images/Teach%20a%20Language%201.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
