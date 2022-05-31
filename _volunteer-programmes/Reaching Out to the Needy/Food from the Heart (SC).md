@@ -4,13 +4,12 @@ permalink: /volunteer-programmes/Food-from-the-Heart-SC
 description: ""
 third_nav_title: Reaching Out to the Needy
 ---
-
 **Food From the Heart (SC)**
 
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Food%20from%20the%20heart.png" style="width=200px;height=auto;"/>
+			<img src="/images/Food%20from%20the%20heart%20(SC)%201.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
