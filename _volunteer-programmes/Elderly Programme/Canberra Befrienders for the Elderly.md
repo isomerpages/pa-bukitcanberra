@@ -4,13 +4,12 @@ permalink: /volunteer-programmes/Canberra-Befrienders-for-the-Elderly
 description: ""
 third_nav_title: Elderly Programme
 ---
-
 **Canberra Befrienders for the Elderly**
 
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Befrienders.png" 
+			<img src="/images/Canberra%20Befrienders%20for%20the%20Elderly%201.png" 
 					 style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
