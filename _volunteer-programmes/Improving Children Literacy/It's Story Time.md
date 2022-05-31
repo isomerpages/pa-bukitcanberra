@@ -75,7 +75,8 @@ third_nav_title: Improving Children Literacy
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Pending information from GCDO
+			a) Able to read English/Malay story books<br>b)	Must be patient<br>
+c)	Min. age: 15
 		</td>
 	</tr>
 </table>
