@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Community-Tuition
 description: ""
 third_nav_title: Improving Children Literacy
 ---
-
-**Community Tuition**
+**Community Tuition Programme**
 
 <table border="0" width="100%">
 	<tr>
