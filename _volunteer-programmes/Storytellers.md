@@ -8,7 +8,7 @@ description: ""
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/It's%20Storytime.png" style="width=200px;height=auto;"/>
+			<img src="/images/Storytellers%201.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
