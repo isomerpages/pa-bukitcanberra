@@ -10,5 +10,5 @@ The area is also open to visitors where they can access the interactive touchscr
 
 
 **Seminar Room**<br> 
-
+![](/images/seminar%20Room.png)
 The modern seminar room is flexible and can be easily adapted to various types of events. Air-conditioned and furnished with presentation TV screen and projector, the room offers a comfortable space for discussions, holding workshops or training.
