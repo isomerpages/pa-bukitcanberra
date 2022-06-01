@@ -8,4 +8,4 @@ At SPARKS, we offer a myriad of volunteering opportunities that cater to your di
 Simply scan the QR code to fill up the form and we’ll get in touch with you.
  
 If you wish to support or contribute to the community in other ways (e.g cash/in-kind donation, sponsorship etc), we’ll be happy to hear from you too. 
-You can either contact us at tel. no. ________ or drop us an email at **sparks email address**
+You can either contact us at tel. no. ________ or drop us an email at ***sparks email address***
