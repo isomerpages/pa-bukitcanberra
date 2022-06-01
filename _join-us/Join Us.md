@@ -9,10 +9,10 @@ Simply scan the QR code to fill up the form and we’ll get in touch with you.
 
 <table border="0">
 	<tr>
-		<td width="50%">
+		<td width="50%" style="border: 0px;">
 			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
 		</td>
-		<td width="50%">
+		<td width="50%" style="border: 0px;">
 			&nbsp;
 		</td>
 		<tr>
