@@ -3,7 +3,6 @@ title: Virtual Art & Craft
 permalink: /volunteer-programmes/Virtua-Art-and-Craft
 description: ""
 ---
-
 **Virtual Art and Craft**
 
 <table border="0" width="100%">
@@ -21,7 +20,7 @@ description: ""
 						:
 					</td>
 					<td  width="75%">
-						Arts and Crafts Instructors
+						Virtual Art and Craft
 					</td>
 				</tr>
 				<tr>
