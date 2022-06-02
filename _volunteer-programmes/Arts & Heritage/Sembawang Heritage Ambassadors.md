@@ -4,10 +4,7 @@ permalink: /volunteer-programmes/Sembawang-Heritage-Ambassadors
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
-
-
-**Sembawang Heritage Ambassador**
+**Sembawang Heritage Ambassadors**
 
 <table border="0" width="100%">
 	<tr>
@@ -24,7 +21,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Sembawang Heritage Ambassador
+						Sembawang Heritage Ambassadors
 					</td>
 				</tr>
 				<tr>
