@@ -2,28 +2,28 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Smart Nation/.keep
-      - Health & Wellness/.keep
-      - Caring for Our Community/.keep
       - Volunteer Programmes.md
       - Nurturing Our Children/.keep
       - Nurturing Our Children/M3 Homework Cafe.md
       - Nurturing Our Children/Community Tuition.md
       - Nurturing Our Children/It's Story Time.md
-      - Protecting our Environment/.keep
-      - Going Green Together/Beach Cleaning & Environment.md
-      - Going Green Together/.keep
-      - Going Green Together/Garden Gives Back.md
-      - Arts & Heritage/Art Performance  Volunteers.md
       - Arts & Heritage/.keep
+      - Arts & Heritage/Art Performance  Volunteers.md
       - Arts & Heritage/Sembawang Heritage Ambassadors.md
+      - Going Green Together/.keep
+      - Going Green Together/Beach Cleaning & Environment.md
+      - Going Green Together/Garden Gives Back.md
+      - Caring for Our Community/.keep
+      - Health & Wellness/.keep
+      - Smart Nation/.keep
+      - Protecting our Environment/.keep
       - Elderly Programme/.keep
       - Elderly Programme/Canberra Befrienders for the Elderly.md
       - Reaching Out to the Needy/.keep
       - Reaching Out to the Needy/Food from the Heart (FYFS).md
       - Reaching Out to the Needy/Food from the Heart (SC).md
-      - Creating Inclusive Community/Virtual Zumba or Exercise Instructors.md
       - Creating Inclusive Community/.keep
+      - Creating Inclusive Community/Virtual Zumba or Exercise Instructors.md
       - Creating Inclusive Community/Be a Befriender (THK).md
       - Creating Inclusive Community/Hair Grooming or Cutting Services.md
       - Creating Inclusive Community/Programme Coordinator.md
