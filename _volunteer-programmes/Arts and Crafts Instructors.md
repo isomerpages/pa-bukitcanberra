@@ -3,7 +3,7 @@ title: Arts and Crafts Instructors
 permalink: /volunteer-programmes/Arts-and-Crafts-Instructors
 description: ""
 ---
-**Arts and Crafts Instructors**
+**Virtual Art and Craft**
 
 <table border="0" width="100%">
 	<tr>
