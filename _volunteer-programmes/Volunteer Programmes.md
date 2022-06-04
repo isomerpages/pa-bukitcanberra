@@ -37,14 +37,7 @@ description: ""
 	      <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/volunteer-programmes/Food-from-the-Heart-SC" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Food%20from%20the%20heart%20(SC)%201A.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
 	    <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Storytellers%201A.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
 	    <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Activity%20Pack%20Designers.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
-	      <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;">
-                    <img style="height:250px;width:228px;" src="/images/TemplatePreviewPhoto.png">
-                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-                    </div>
-                </a>
-            </div>
-        </li>
+	      <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;"src="/images/TemplatePreviewPhoto.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
     </ul>
 
 ### Reaching Out to the Needy
@@ -63,15 +56,7 @@ description: ""
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/volunteer-programmes/Teach-a-Language" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Teach%20a%20Language%201A.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/volunteer-programmes/Outreach-and-Public-Education" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Outreach & Public Education 1.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
 	<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Morning%20Exercise%20Facilitators.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">       </div></a></div></li>
-	<li>
-            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;">
-                    <img style="height:250px;width:228px;" src="/images/Virtual%20Zumba%20or%20Exercise%20Instructors%201A.png">
-                    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-                    </div>
-                </a>
-            </div>
-        </li>
+	<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Virtual%20Zumba%20or%20Exercise%20Instructors%201A.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
     </ul>
 		
 ### Community Outreach / Social Enterprise
