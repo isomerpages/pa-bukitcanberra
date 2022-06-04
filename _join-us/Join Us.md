@@ -9,15 +9,13 @@ Simply scan the QR code to fill up the form and we’ll get in touch with you.
 
 If you wish to support or contribute to the community in other ways (e.g cash/in-kind donation, sponsorship etc), we’ll be happy to hear from you too. 
 You can either contact us at tel. no. ________ or drop us an email at ***sparks email address***
-
-<table border="0">
+<table border="0" width="100%">
 	<tr>
-		<td width="50%" style="border: 0px;">
+		<td width="40%">
 			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
 		</td>
-		<td width="50%" style="border: 0px;">
+		<td>
 			&nbsp;
 		</td>
-		<tr>
+	</tr>
 	</table>
- 
