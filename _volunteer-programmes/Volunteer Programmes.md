@@ -44,8 +44,7 @@ description: ""
 	    <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/volunteer-programmes/Volunteering-Initiatives-at-NKF" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Volunteering Initiatives @NKF 1.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>    
 	    <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Storytellers%201A.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
 	     <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/volunteer-programmes/Volunteering-Initiatives-at-NKF" style="text-decoration:none;"><img style="height:250px;width:228px;" src="/images/Hawker%20Day%201.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
-	     <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><a href="/bukit-canberra/M3-Homework-Cafe" style="text-decoration:none;"><img style="height:250px;width:228px;"src="/images/TemplatePreviewPhoto.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div></a></div></li>
-    </ul>
+	     </ul>
 
 ### Health & Wellness
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
