@@ -2,8 +2,6 @@ collections:
   volunteer-programmes:
     output: true
     order:
-      - Food from the Heart (SC).md
-      - Food from the Heart (FYFS).md
       - Volunteer Programmes.md
       - Nurturing Our Children/.keep
       - Nurturing Our Children/M3 Homework Cafe.md
@@ -15,19 +13,19 @@ collections:
       - Going Green Together/.keep
       - Going Green Together/Beach Cleaning & Environment.md
       - Going Green Together/Garden Gives Back.md
+      - Caring for Our Community/.keep
       - Caring for Our Community/Monthly Birthday Celebrations.md
       - Caring for Our Community/Outreach & Public Education.md
       - Caring for Our Community/Hair Grooming or Cutting Services.md
       - Caring for Our Community/Volunteering Initiatives@NKF.md
       - Caring for Our Community/Sewers' Community Initiative.md
       - Caring for Our Community/Canberra Befrienders for the Elderly.md
-      - Caring for Our Community/.keep
+      - Health & Wellness/.keep
       - Health & Wellness/Medical Escort.md
       - Health & Wellness/Virtual Zumba or Exercise Instructors.md
-      - Health & Wellness/.keep
+      - Smart Nation/.keep
       - Smart Nation/Programme Coordinator.md
       - Smart Nation/Teach a Language.md
-      - Smart Nation/.keep
       - Reaching Out to the Needy/.keep
       - Creating Inclusive Community/.keep
       - Creating Inclusive Community/Be a Befriender (THK).md
@@ -39,4 +37,6 @@ collections:
       - Hawker Day.md
       - Intergeneration Programme Coordinator.md
       - Befriender Programme.md
+      - Food from the Heart (FYFS).md
+      - Food from the Heart (SC).md
       - Join Us.md
