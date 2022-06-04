@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Food from the Heart (SC).md
       - Food from the Heart (FYFS).md
       - Volunteer Programmes.md
       - Nurturing Our Children/.keep
