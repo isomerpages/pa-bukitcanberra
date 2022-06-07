@@ -4,10 +4,7 @@ permalink: /volunteer-programmes/Online-Befriender-Programme
 description: ""
 third_nav_title: Smart Nation
 ---
-
-
-
-**Be a Befriender (THK)**
+**Online Befriender Programme**
 
 <table border="0" width="100%">
 	<tr>
@@ -24,7 +21,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Be a Befriender (THK)
+						Online Befriender Programme
 					</td>
 				</tr>
 				<tr>
