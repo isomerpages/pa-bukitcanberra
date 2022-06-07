@@ -4,9 +4,7 @@ permalink: /volunteer-programmes/Teach-a-Local-Language-to-Foreign-Care-Staff
 description: ""
 third_nav_title: Smart Nation
 ---
-
-
-**Teach a Language**
+**Teach a Local Language to Foreign Care Staff**
 
 <table border="0" width="100%">
 	<tr>
@@ -23,7 +21,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Teach a Language
+						Teach a Local Language to Foreign Care Staff
 					</td>
 				</tr>
 				<tr>
