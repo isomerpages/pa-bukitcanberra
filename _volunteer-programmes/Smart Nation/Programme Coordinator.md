@@ -4,9 +4,7 @@ permalink: /volunteer-programmes/Programme-Coordinator
 description: ""
 third_nav_title: Smart Nation
 ---
-
-
-**Programme Coordinator**
+**Virtual Programme Coordinator**
 
 <table border="0" width="100%">
 	<tr>
@@ -23,7 +21,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Programme Coordinator 
+						Virtual Programme Coordinator 
 					</td>
 				</tr>
 				<tr>
