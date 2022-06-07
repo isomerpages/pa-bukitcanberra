@@ -76,7 +76,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with all Primary levels of current MOE syllabus like English, Maths & Science <br>
+			a) Familiar with current MOE syllabus for all primary levels like English, Maths & Science <br>
 b) Have the patience to teach and guide the students.
 		</td>
 	</tr>
