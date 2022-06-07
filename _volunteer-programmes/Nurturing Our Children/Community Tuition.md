@@ -4,10 +4,7 @@ permalink: /volunteer-programmes/Community-Tuition
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-
-
-
-**Community Tuition Programme**
+**Community Tuition**
 
 <table border="0" width="100%">
 	<tr>
@@ -25,7 +22,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition Programme
+						Community Tuition
 					</td>
 				</tr>
 				<tr>
