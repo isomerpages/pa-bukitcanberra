@@ -4,10 +4,7 @@ permalink: /volunteer-programmes/NKF-Volunteers
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-
-
-**Volunteering Initiatives @NKF**
+**NKF Volunteers**
 
 <table border="0" width="100%">
 	<tr>
@@ -24,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Volunteering Initiatives @NKF
+						NKF Volunteers
 					</td>
 				</tr>
 				<tr>
