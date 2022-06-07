@@ -4,10 +4,7 @@ permalink: /volunteer-programmes/Hair-Grooming-or-Cutting-Services
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-
-
-**Hair Grooming or Cutting Services**
+**Hair Grooming/Cutting Services**
 
 <table border="0" width="100%">
 	<tr>
@@ -24,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Hair Grooming or Cutting Services
+						Hair Grooming/Cutting Services
 					</td>
 				</tr>
 				<tr>
