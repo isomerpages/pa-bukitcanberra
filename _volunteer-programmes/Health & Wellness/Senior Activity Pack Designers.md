@@ -4,9 +4,7 @@ permalink: /volunteer-programmes/Senior-Activity-Pack-Designers
 description: ""
 third_nav_title: Health & Wellness
 ---
-
-
-**Activity Pack Designers**
+**Senior Activity Pack Designers**
 
 <table border="0" width="100%">
 	<tr>
@@ -23,7 +21,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						Activity Pack Designers
+						Senior Activity Pack Designers
 					</td>
 				</tr>
 				<tr>
