@@ -44,7 +44,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm/ Sun: 2-4pm
+						Sat: 10-12pm,  Sun: 2-4pm
 					</td>
 				</tr>
 				<tr>
