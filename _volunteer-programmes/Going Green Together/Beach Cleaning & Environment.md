@@ -75,7 +75,7 @@ third_nav_title: Going Green Together
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Physically fit<br>
+			a) Fit to work<br>
 b) Min. age:15
 		</td>
 	</tr>
