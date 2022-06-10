@@ -66,7 +66,7 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Form a group of residents who are interested to know and act as Sembawang Heritage Ambassadors. To equip them with knowledge, facilitation skills and info about Sembawang’s heritage. They can use this knowledge and information to share with residents who visit Sembawang GRC divisions. 
+			Form a group of residents who are interested to know and act as Sembawang Heritage Ambassadors. To equip them with knowledge, facilitation skills and information about Sembawang’s heritage. They can use this knowledge and information to share with residents who visit Sembawang GRC divisions. 
 		</td>
 	</tr>
 </table>
@@ -76,7 +76,7 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Requirements:</b><br>
 			a) Able to communicate in English<br>
-b) Physically fit to conduct heritage trails
+b) Fit to work and conduct heritage trails
 		</td>
 	</tr>
 </table>
