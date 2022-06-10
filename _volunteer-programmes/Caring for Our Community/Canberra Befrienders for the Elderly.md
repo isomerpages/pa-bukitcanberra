@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Canberra-Befrienders-for-the-Elderly
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Canberra Befrienders for the Elderly**
 
 <table border="0" width="100%">
@@ -68,7 +67,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Seniors residing within Canberra Zone 2 who need companionship, are welcome to approach the RN centre on the dates displayed on the poster from 1.30pm to 3.30pm. There will be activities organised by Canberra Secondary School's students
+			Seniors residing within Canberra Zone 2 who need companionship are welcome to approach the RN centre (on the dates displayed on the poster) and participate in activities organised by Canberra Secondary School's students.
 		</td>
 	</tr>
 </table>
@@ -78,7 +77,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements:</b><br>
 			a) Able to speak mother tongue languages <br>
-b) Keen to work with seniors<br>c)	Must have compassion and patience<br>d)	To commit at least once a week<br>e)	CPR & AED trained
+b) Must be patient 
 		</td>
 	</tr>
 </table>
