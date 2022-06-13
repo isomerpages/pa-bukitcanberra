@@ -102,7 +102,7 @@ b) Min. age: 13
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Online%20Befriender%20Programme-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
