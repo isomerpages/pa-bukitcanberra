@@ -85,7 +85,7 @@ b) Must be patient
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br> Canberra Zone 2 RN & Canberra Secondary School
 			&nbsp;
 		</td>
 	</tr>
