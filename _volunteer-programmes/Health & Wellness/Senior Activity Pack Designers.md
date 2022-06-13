@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Senior-Activity-Pack-Designers
 description: ""
 third_nav_title: Health & Wellness
 ---
-
 **Senior Activity Pack Designers**
 
 <table border="0" width="100%">
@@ -90,7 +89,7 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
