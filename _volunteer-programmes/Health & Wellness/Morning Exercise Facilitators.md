@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Morning-Exercise-Facilitators
 description: ""
 third_nav_title: Health & Wellness
 ---
-
 **Morning Exercise Facilitators**
 
 <table border="0" width="100%">
@@ -110,7 +109,7 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Morning%20Exercise%20Facilitators-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
