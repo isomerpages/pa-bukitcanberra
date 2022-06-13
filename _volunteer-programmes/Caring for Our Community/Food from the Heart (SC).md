@@ -4,8 +4,6 @@ permalink: /volunteer-programmes/Food-from-the-Heart-SC
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-
 **Food From the Heart (SC)**
 
 <table border="0" width="100%">
@@ -107,7 +105,7 @@ b) Able to converse in English
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Food%20from%20the%20Heart%20(SC)-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
