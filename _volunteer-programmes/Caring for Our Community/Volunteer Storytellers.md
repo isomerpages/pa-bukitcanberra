@@ -109,7 +109,7 @@ We are looking for volunteers to curate and tell stories to our seniors to keep 
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Volunteer%20Storytellers-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
