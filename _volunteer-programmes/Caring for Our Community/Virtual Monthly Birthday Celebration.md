@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Virtual-Monthly-Birthday-Celebration
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Virtual Monthly Birthday Celebration**
 
 <table border="0" width="100%">
@@ -85,7 +84,7 @@ b) Pending info fr GCDO
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
