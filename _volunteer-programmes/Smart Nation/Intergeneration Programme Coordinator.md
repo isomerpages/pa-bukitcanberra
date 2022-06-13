@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Intergeneration-Programme-Coordinator
 description: ""
 third_nav_title: Smart Nation
 ---
-
 **Intergeneration Programme Coordinator**
 
 <table border="0" width="100%">
@@ -113,7 +112,7 @@ third_nav_title: Smart Nation
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Intergeneration%20Programme%20Coordinator-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
