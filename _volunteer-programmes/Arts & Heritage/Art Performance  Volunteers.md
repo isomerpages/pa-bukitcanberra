@@ -95,7 +95,7 @@ ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
