@@ -102,7 +102,7 @@ c)	Min. age: 15
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/It's%20Storytime-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
