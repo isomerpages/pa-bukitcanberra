@@ -21,7 +21,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td>
-						Garden Gives Back 
+						Gardens Give Back 
 					</td>
 				</tr>
 				<tr>
