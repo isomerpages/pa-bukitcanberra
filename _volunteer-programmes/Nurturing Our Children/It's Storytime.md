@@ -85,6 +85,7 @@ c)	Min. age: 15
 	<tr>
 		<td>
 			<b>Jointly Organize with :</b><br>
+			M3@Woodlands
 			&nbsp;
 		</td>
 	</tr>
