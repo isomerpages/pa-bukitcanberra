@@ -4,8 +4,6 @@ permalink: /volunteer-programmes/Medical-Escort
 description: ""
 third_nav_title: Health & Wellness
 ---
-
-
 **Medical Escort**
 
 <table border="0" width="100%">
@@ -104,7 +102,7 @@ b) Pending information from GCDO
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Medical%20Escort-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
