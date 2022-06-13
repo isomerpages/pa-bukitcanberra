@@ -83,7 +83,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
