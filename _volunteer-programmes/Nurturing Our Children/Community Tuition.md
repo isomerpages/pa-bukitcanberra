@@ -86,6 +86,7 @@ b) Have the patience to teach and guide the students
 	<tr>
 		<td>
 			<b>Jointly Organize with :</b><br>
+			Admiralty YN
 			&nbsp;
 		</td>
 	</tr>
