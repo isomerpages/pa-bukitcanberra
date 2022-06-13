@@ -102,7 +102,7 @@ confidently and fluently.
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Teach%20a%20Local%20Language%20to%20Foreign%20Care%20Staff-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
