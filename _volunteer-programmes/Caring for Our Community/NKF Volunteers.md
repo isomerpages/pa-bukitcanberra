@@ -117,7 +117,7 @@ b)	Commit to at least 2 months and be able to perform at least 8 shifts (can eit
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/NKF%20Volunteers-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
