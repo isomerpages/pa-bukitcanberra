@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Garden-Gives-Back
 description: ""
 third_nav_title: Going Green Together
 ---
-
 **Gardens Give Back**
 
 <table width="100%" border="0">
@@ -104,7 +103,7 @@ b) To work with schools and stakeholders to set up new community gardens around 
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="40%">
-			<img style="width=200px;height=auto;" src="/images/qrcode.png">
+			<img style="width=200px;height=auto;" src="/images/Garden%20Gives%20Back-QR.png">
 		</td>
 		<td>
 			&nbsp;
