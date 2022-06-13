@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Virtual-Programme-Coordinator
 description: ""
 third_nav_title: Smart Nation
 ---
-
 **Virtual Programme Coordinator**
 
 <table border="0" width="100%">
@@ -84,7 +83,7 @@ third_nav_title: Smart Nation
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
