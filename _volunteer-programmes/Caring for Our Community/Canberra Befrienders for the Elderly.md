@@ -103,7 +103,7 @@ b) Must be patient
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Canberra%20Befrienders%20for%20the%20Elderly-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
