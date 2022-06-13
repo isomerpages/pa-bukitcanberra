@@ -101,7 +101,7 @@ b) Min. age: 18
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>Sembawang Family Service Centre (SFSC)
 			&nbsp;
 		</td>
 	</tr>
