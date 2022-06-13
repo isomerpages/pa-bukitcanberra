@@ -87,7 +87,7 @@ b) Able to converse in English
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br> Sembawang CC and Food from the Heart (FFTH)
 			&nbsp;
 		</td>
 	</tr>
