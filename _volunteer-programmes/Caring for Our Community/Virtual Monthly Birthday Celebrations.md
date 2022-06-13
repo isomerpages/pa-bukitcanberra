@@ -102,7 +102,7 @@ b) Pending info fr GCDO
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Virtual%20Monthly%20Birthday%20Celebrations-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
