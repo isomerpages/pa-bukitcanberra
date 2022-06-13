@@ -4,9 +4,6 @@ permalink: /volunteer-programmes/Food-from-the-Heart-FYFS
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-
-
 **Food from the Heart (FYFS)**
 
 <table border="0" width="100%">
@@ -105,7 +102,7 @@ b) Assist in packing food ration
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Food%20from%20the%20Heart%20(FYFS)-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
