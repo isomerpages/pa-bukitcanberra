@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Art-Performance-Volunteers
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
 **Art Performance 
 Volunteers**
 
@@ -114,7 +113,7 @@ ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Art%20Performance%20Volunteers.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
