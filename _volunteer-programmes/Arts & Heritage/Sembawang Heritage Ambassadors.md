@@ -84,7 +84,7 @@ b) Fit to work and conduct heritage trails
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br>Canberra GROs
 			&nbsp;
 		</td>
 	</tr>
