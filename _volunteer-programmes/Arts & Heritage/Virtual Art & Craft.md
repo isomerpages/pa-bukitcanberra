@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Virtua-Art-and-Craft
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
 **Virtual Art and Craft**
 
 <table border="0" width="100%">
@@ -111,7 +110,7 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Virtual%20Art%20&%20Craft-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
