@@ -103,7 +103,7 @@ b) Have the patience to teach and guide the students
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Community%20Tuition%20QR%20code.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
