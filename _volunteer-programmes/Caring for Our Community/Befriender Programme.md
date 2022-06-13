@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Befriender-Programme
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Befriender Programme**
 
 <table border="0" width="100%">
@@ -104,7 +103,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Befriender%20Programme-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
