@@ -102,7 +102,7 @@ b) Fit to work and conduct heritage trails
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sembawang%20Heritage%20Ambassadors-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
