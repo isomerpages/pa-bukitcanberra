@@ -84,7 +84,7 @@ b) Assist in packing food ration
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br> Fei Yue Family Service Centre (Champions Way)
 			&nbsp;
 		</td>
 	</tr>
