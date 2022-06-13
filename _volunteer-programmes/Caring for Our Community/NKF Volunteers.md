@@ -99,7 +99,7 @@ b)	Commit to at least 2 months and be able to perform at least 8 shifts (can eit
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organize with :</b><br> National Kidney Foundation (NKF)
 			&nbsp;
 		</td>
 	</tr>
