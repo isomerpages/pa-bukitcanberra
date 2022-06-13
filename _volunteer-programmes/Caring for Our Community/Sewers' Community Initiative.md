@@ -4,8 +4,6 @@ permalink: /volunteer-programmes/Sewers-Community-Initiative
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-
 **Sewers’ Community Initiative**
 
 <table border="0" width="100%">
@@ -121,7 +119,7 @@ b) Min. age: 18
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sewers'%20Community%20Initiative-QR.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
