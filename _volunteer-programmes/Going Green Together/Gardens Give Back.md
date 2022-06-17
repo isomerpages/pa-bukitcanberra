@@ -86,6 +86,7 @@ b) To work with schools and stakeholders to set up new community gardens around 
 	<tbody><tr>
 		<td>
 			<b>Jointly Organize with :</b><br>
+			   Woodlands Galaxy Community Club
 			&nbsp;
 		</td>
 	</tr>
