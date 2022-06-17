@@ -56,7 +56,7 @@ Volunteers
 						:
 					</td>
 					<td  width="75%">
-						i)	Zoom or Microsoft Teams
+						i)	   Virtual over Zoom or Microsoft Teams
 ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
 					</td>
 				</tr>
