@@ -26,13 +26,13 @@ third_nav_title: Smart Nation
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Pending info fr GCDO
+						Minimum 3 months, once a week, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Be available once a week
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						12 Yishun Avenue 5 Singapore 768992
+						12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
@@ -66,8 +66,8 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Intergeneration Programme Coordination covers many aspects including arranging for the programme, setting up equipment to preparing materials for the programme.<br> 
-<br>We are looking for people to volunteer as intergeneration programme coordinator to help with setting up devices and materials for student engagements.
+			Volunteer Programme Coordination covers many aspects from arranging programme to setting up equipment and preparing materials for the programme.<br>
+<br>We are looking for volunteers to help setting up devices and materials for student engagements.
 		</td>
 	</tr>
 </table>
@@ -76,17 +76,9 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	Interested in working with seniors and helping to do programme set up 
-<br>b)	Assist to setup devices for students’ engagement with residents
-<br>c)	Prepare materials for the respective sessions
-<br>d)	Able to engage the residents in the students’ planned activities
-<br>e)	Possess IT skills
-<br>f)	Must be patient with elderly
-<br>g)	Experienced in hosting programme for elderly
-<br>h)	Able to converse in at least 2 languages
-<br>i)	Able to commit minimum 3 months
-<br>j)	Must be fully vaccinated and boostered
-<br>k)	Min age: 18
+			a)	Possess IT skills and experience in hosting programme for elderly.<br>
+			b) Able to converse in at least 2 languages.
+<br>c)	Min age: 18
 		</td>
 	</tr>
 </table>
