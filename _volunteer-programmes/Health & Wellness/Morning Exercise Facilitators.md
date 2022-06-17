@@ -88,13 +88,8 @@ third_nav_title: Health & Wellness
 		<td>
 			<b>Requirements:</b><br>
 			a) Physically fit
-<br>b)	Able to manage the transferring of residents (from the ward to exercise venue) 
-<br>c)	Able to engage and demonstrate the exercises to the residents
-<br>d)	Ensure the safety of the residents during exercising
-<br>e)	Must be patient with residents
-<br>f)	Must be interested in exercises
-<br>g)	Must be fully vaccinated and boostered
-<br>h)	Min age: 18
+<br>b)	Able to engage and demonstrate the exercises to residents
+<br>c)	Min age: 18
 		</td>
 	</tr>
 </table>
