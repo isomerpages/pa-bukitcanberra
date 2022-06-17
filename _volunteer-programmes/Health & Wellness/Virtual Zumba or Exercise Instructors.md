@@ -43,7 +43,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						At timings suitable for volunteers but subjected to the availabilities of timings at the Nursing Home
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
@@ -54,8 +54,8 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						i)	Zoom or Microsoft Teams
-<br>ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
+						i)	   Virtual overZoom or Microsoft Teams
+<br>ii)	Physical: 12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
