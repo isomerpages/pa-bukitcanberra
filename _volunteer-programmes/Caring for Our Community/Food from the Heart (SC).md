@@ -50,6 +50,16 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
+						No. of Opening
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10
+					</td>
+				</tr>
+				<tr>
 						Venue
 					</td>
 					<td width="5%">
