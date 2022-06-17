@@ -78,7 +78,7 @@ third_nav_title: Health & Wellness
 		<td>
 			<b>Programme Description:</b><br>
 			Morning Exercise has been linked to many benefits like better muscle strength, muscle endurance, blood pressure management, blood glucose management and better stress relief.<br> 
-<br>We are looking for volunteers to help facilitate morning exercise.
+<br>We are looking for volunteers to facilitate morning exercise.
 		</td>
 	</tr>
 </table>
