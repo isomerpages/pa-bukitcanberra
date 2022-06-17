@@ -76,11 +76,9 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Interested in activity pack designing
-<br>b)	Able to curate interesting and simple to do word search, join the dots and colouring activities for seniors
-<br>c)	Able to put together at least one activity pack consisting of 7 to 8 activities during volunteering. Volunteers are welcomed to do more than one activity pack for the seniors.
-<br>d)	Experienced in designing activities for seniors to do would be helpful
-<br>e)	Min age: 18
+			a)    Experience in designing activities 
+<br>b)	To be comfortable working with seniors
+<br>c)	Min age: 18
 		</td>
 	</tr>
 </table>
