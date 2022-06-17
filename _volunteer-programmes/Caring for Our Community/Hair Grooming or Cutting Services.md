@@ -66,7 +66,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To provide hair cutting services to our residents at least once every 2 months.
+			THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br> 
+<br>We are looking for volunteers to provide free hair cutting services at least once every 2 months.
 		</td>
 	</tr>
 </table>
@@ -75,8 +76,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Volunteers with grooming services background preferred <br>	
-b)	Possess hair cutting/ grooming equipment
+			a)    Volunteers with grooming services background preferred
 		</td>
 	</tr>
 </table>
@@ -84,7 +84,7 @@ b)	Possess hair cutting/ grooming equipment
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
+			<b>Jointly Organize with :</b><br>Thye Hua Kwan Home (THK) for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
