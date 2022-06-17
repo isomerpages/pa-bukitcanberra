@@ -28,13 +28,13 @@ Volunteers
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   Minimum 4 sessions per month, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -45,7 +45,7 @@ Volunteers
 						:
 					</td>
 					<td  width="75%">
-						At timings suitable for volunteers but subjected to the availabilities of timings at the Nursing Home
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
