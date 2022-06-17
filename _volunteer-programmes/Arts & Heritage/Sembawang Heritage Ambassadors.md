@@ -76,8 +76,7 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Able to communicate in English<br>
-b) Fit to work and conduct heritage trails
+			a)    Able to communicate in English and walk for 2 hours continuously.<br>
 		</td>
 	</tr>
 </table>
