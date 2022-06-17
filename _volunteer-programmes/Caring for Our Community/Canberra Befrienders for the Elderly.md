@@ -70,7 +70,7 @@ BLK 478, #01-383, Sembawang Dr, S750478
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Seniors residing within Canberra Zone 2 who need companionship are welcome to approach the RN centre (on the dates displayed on the poster) and participate in activities organised by Canberra Secondary School's students.
+			   There are seniors who live alone with disabilities or issues caused by old age. We need volunteers taking the role as befriender to help them or listening to their problems.
 		</td>
 	</tr>
 </table>
@@ -79,8 +79,8 @@ BLK 478, #01-383, Sembawang Dr, S750478
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Able to speak mother tongue languages <br>
-b) Must be patient 
+			a)    Training will be provided by Yishun Health<br>
+b) Min. age : 15
 		</td>
 	</tr>
 </table>
