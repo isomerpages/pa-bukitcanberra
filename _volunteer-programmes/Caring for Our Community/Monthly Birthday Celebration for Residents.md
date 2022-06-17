@@ -67,7 +67,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To organize zoom birthday celebrations for residents born in the month.
+			THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
+<br>We are looking for volunteers to plan monthly birthday celebration for residents at THK Home.
 		</td>
 	</tr>
 </table>
