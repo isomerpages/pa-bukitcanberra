@@ -32,7 +32,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						Once a week engagement
+						Once a week
 					</td>
 				</tr>
 				<tr>
