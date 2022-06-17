@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Canberra-Befrienders-for-the-Elderly
 description: ""
 third_nav_title: Caring for Our Community
 ---
-**Canberra Befrienders for the Elderly**
+**Befrienders for the Elderly**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,7 +22,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Canberra Befrienders for the Elderly
+						Befrienders for the Elderly
 					</td>
 				</tr>
 				<tr>
