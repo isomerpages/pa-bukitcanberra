@@ -60,6 +60,7 @@ third_nav_title: Caring for Our Community
 					</td>
 				</tr>
 				<tr>
+					<td width="5%">
 						Venue
 					</td>
 					<td width="5%">
