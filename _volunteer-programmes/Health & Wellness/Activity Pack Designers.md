@@ -54,8 +54,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						i)	Send in through email  
-<br>ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
+						Physical: 12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
