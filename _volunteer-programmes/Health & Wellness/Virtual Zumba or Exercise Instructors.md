@@ -67,8 +67,8 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Regular Physical Exercise is important to help seniors maintain their physical health, to enable them age healthily and lead fulfilling lives well into their old age.<br> 
-<br>We are looking for volunteers who can design, plan and conduct virtual or on-site Zumba/exercises and to conduct these exercises and dance-exercise programmes for our seniors.
+			   Regular Physical Exercise is important to help seniors maintain their physical health, to enable the, age healthily and lead fulfilling lives well into their old age.<br>
+<br>We are looking for volunteers to carry out virtual exercise and dance-exercise programmes for our seniors. Able to commit minimum 3 months.
 		</td>
 	</tr>
 </table>
@@ -77,13 +77,9 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Must be physically fit.<br>b) Experienced in conducting Zumba or Exercise
-<br>c)	Able to design and propose an exercise programme (Zumba/ Other Types of Exercises) suitable for seniors who are ambulant, or wheelchair bound.
-<br>d)	Able to conduct weekly or bi-weekly Zumba or other exercise programme for the seniors over zoom or other online video conferencing platforms
-<br>e)	Comfortable working with seniors 
-<br>f)	Experienced/have qualifications in designing and conducting exercise programmes for seniors is preferred
-<br>g)	Able to commit min 3 months 
-<br>h)	Min age: 18
+			a)    Design and propose an exercise programme (Zumba/Other types of exercises) suitable for both seniors who are ambulant and seniors who are wheelchair bound. <br>
+			b) To be comfortable working with seniors.
+<br>c)	Min age: 18
  <br>
 		</td>
 	</tr>
