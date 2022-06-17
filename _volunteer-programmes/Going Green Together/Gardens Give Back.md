@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Gardens-Give-Back
 description: ""
 third_nav_title: Going Green Together
 ---
-
-**Garden Gives Back**
+**Gardens Give Back**
 
 <table width="100%" border="0">
 	<tbody><tr>
@@ -22,7 +21,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td>
-						Garden Gives Back 
+						Gardens Give Back 
 					</td>
 				</tr>
 				<tr>
