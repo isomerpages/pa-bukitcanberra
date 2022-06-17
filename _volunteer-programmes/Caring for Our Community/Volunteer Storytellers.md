@@ -78,8 +78,8 @@ i)	   Virtual over Zoom or Microsoft Teams
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Storytelling brings the stories to life and it brings the listeners on a journey of interesting experiences alongside the storyteller.     
-We are looking for volunteers to curate and tell stories to our seniors to keep them company and bring them on tour into the stories told.
+			Storytelling brings the stories to life and it brings the listeners on a journey of interesting experiences alongside the storyteller.<br>     
+<br>We are looking for volunteers to curate and tell stories to our seniors to keep them company and bring them on tour into the stories told.
 		</td>
 	</tr>
 </table>
