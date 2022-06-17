@@ -55,7 +55,10 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Canberra Zone 2 and 3 RN Centres
+						   1. Canberra Zone 2 Residents’ Network
+BLK 356A, #01-80, Admiralty Dr, S751356
+2. Canberra Zone 3 Residents’ Network
+BLK 478, #01-383, Sembawang Dr, S750478
 					</td>
 				</tr>
 			</table>
