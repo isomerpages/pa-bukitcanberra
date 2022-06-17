@@ -66,7 +66,8 @@ third_nav_title: Going Green Together
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Play your part in keeping our park or beach clean and safe for everyone through clean-ups.  
+			You can play a part in keeping our park or beach clean and safe for everyone through clean-ups.<br>
+<br>We are looking for volunteers to conduct briefing and guide residents on Dos and Don'ts. 
 		</td>
 	</tr>
 </table>
