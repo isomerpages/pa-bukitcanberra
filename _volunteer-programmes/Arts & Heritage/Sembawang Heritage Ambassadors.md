@@ -26,24 +26,24 @@ third_nav_title: Arts & Heritage
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Saturday
+						Once a month, 2 hours per session
 					</td>
 				</tr>
 				<tr>
 					<td width="20%">
-						Time
+						*Time*
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						8-10am
+						*8-10am*
 					</td>
 				</tr>
 				<tr>
