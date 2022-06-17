@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Food-from-the-Heart-SC
 description: ""
 third_nav_title: Caring for Our Community
 ---
-**Food From the Heart (SC)**
+**Food From the Heart**
 
 <table border="0" width="100%">
 	<tr>
