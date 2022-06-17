@@ -67,8 +67,7 @@ third_nav_title: Caring for Our Community
 					<td  width="75%">
 						1)	Pop-up Event:<br>
 • Tzu Chi Humanistic Youth Centre<br>
-   (30A Yishun Central 1, S768796)<br><br>2)	Sewing Interest Group:<br>
-• Sembawang Family Service Centre<br>(Blk 326 Sembawang Crescent #01-52 S750326)
+   (30A Yishun Central 1, S768796)<br><br>2)	Sewing Interest Group @ Sembawang Family Service Centre<br>(Blk 326 Sembawang Crescent #01-52 S750326)
 					</td>
 				</tr>
 			</table>
@@ -85,10 +84,7 @@ third_nav_title: Caring for Our Community
 <b>1)	Ambassador (Event-based volunteers)</b><br>
 •	To help manage physical pop-up booths to sell sewers’ items<br> 
 <br><b>2)	Interest Group</b><br>
-•	Sewing enthusiasts who have interest or experience in sewing, to share their knowledge and skills with other volunteers/clients, and take on sewing projects. Through building this support network, we hope to help clients sew products for sale, with the proceeds going to support low-income families.<br>
-•	Mode: Physical<br>
-•	Venue: 
-	Primarily stationed at Sembawang Family Service  Centre<br>•	May require travelling to places to do market research or purchase sewing materials, etc
+•	Sewing enthusiasts to share their knowledge and skills with other volunteers/clients and take on sewing projects, with the proceeds going to support low-income families.<br>
 		</td>
 	</tr>
 </table>
@@ -98,7 +94,8 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements:</b><br>
 			a) Interested or experienced in sewing<br>
-b) Min. age: 18
+b) Training will be provided<br>
+			c) Min. age: 18
 		</td>
 	</tr>
 </table>
