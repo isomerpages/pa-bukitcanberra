@@ -82,8 +82,7 @@ BLK 107A, #01-567, Canberra St, S751107
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Sembawang West Zone G Residents’ Network is working towards engaging the elderly and they are pairing activities/programmes with elderly, matching their needs based on the assessment conducted during the house visits.<br>
-			<br>We are looking for befrienders to visit and engage the vulnerable seniors, especially those residing alone, checking on their well-being regularly.
+						   The objective is to help the underprivileged and less fortunate in Sembawang. The initiative is donor driven with a mixture of food donations, cash donation as well as bread distribution to the needy. <br><br>We are looking for volunteers to scan collection and registration of residents, pack and distribute rations to resident.<br>
 		</td>
 	</tr>
 </table>
@@ -92,8 +91,8 @@ BLK 107A, #01-567, Canberra St, S751107
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Training will be provided<br>
-b) Min. age: 18
+			a) Assist in simple administrative work, packing and distributing rations<br>
+b) Min. age: 16
 		</td>
 	</tr>
 </table>
@@ -101,7 +100,8 @@ b) Min. age: 18
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br> Sembawang CC and Food from the Heart (FFTH)
+			<b>Jointly Organize with :</b><br>    
+			Sembawang Community Club and Food from the Heart (FFTH)
 			&nbsp;
 		</td>
 	</tr>
