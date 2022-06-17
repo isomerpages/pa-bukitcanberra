@@ -32,7 +32,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Twice a month engagement
+						Twice a month
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						To be confirmed
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Online
+Online/ Physical (7 Sembawang Walk, S756977)
 					</td>
 				</tr>
 			</table>
@@ -84,7 +84,7 @@ b) Min. age: 13
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
+			<b>Jointly Organize with :</b><br> Thye Hua Kwan Home (THK) for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
