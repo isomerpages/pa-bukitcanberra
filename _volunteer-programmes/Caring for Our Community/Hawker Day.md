@@ -86,12 +86,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	Ensure food purchased is according to resident's preference
-<br>b)	Physically Fit to travel to nearby food outlets, eg Chong Pang Market, to purchase food, during lunch time
-<br>c)	Must be able to commit minimum 3 months
-<br>d)	Must be fully vaccinated and boostered
-<br>e)	Min age: 18
-.
+			a)	Physically Fit to travel to nearby food outlets, eg Chong Pang Market, to purchase food, during lunch time
+<br>b)	Min age: 18
 		</td>
 	</tr>
 </table>
