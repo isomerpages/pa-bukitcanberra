@@ -77,6 +77,7 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Requirements:</b><br>
 			a)    Able to communicate in English and walk for 2 hours continuously.<br>
+			b) Min.age : 15
 		</td>
 	</tr>
 </table>
