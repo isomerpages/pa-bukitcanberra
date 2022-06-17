@@ -67,7 +67,8 @@ Blk 756, Woodlands Ave 4, S730756
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Sembawang West Zone G is working towards engaging the elderly and they are pairing activities/ programmes with elderly, matching their needs based on the assessment conducted during the house visits. Vulnerable seniors (especially those residing alone) will be assigned a befriender who will visit and engage them frequently to check on their well-being.
+			   Sembawang West Zone G Residents’ Network is working towards engaging the elderly and they are pairing activities/programmes with elderly, matching their needs based on the assessment conducted during the house visits. <br>
+			<br>We are looking for befrienders to visit and engage the vulnerable seniors, especially those residing alone, checking on their well-being regularly.
 		</td>
 	</tr>
 </table>
@@ -76,9 +77,8 @@ Blk 756, Woodlands Ave 4, S730756
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	Physically Fit
-<br>b)	Must be patient
-<br>c)	Min age: 18
+			a)	   Training will be provided
+<br>b)	Min age: 18
 		</td>
 	</tr>
 </table>
