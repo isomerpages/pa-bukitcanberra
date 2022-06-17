@@ -76,8 +76,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Able to help set up gardening plots around the estates<br>
-b) To work with schools and stakeholders to set up new community gardens around the estates<br>c)	Min. age: 18
+			a)    Interested in gardening<br>b)	Min. age: 18
 		</td>
 	</tr>
 </tbody></table>
