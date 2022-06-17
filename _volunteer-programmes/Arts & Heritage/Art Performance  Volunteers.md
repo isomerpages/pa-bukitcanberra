@@ -90,7 +90,7 @@ ii)	Physical: 12 Yishun Avenue 5 S768992
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Interested in storytelling<br>
+			a)       Interested or have experience in Art performance<br>
 			b) To be comfortable working with seniors
 <br>c)	Min. age: 18
  <br>
