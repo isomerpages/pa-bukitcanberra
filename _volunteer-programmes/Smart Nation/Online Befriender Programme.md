@@ -48,6 +48,17 @@ third_nav_title: Smart Nation
 				</tr>
 				<tr>
 					<td width="20%">
+						No. of Opening
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
 						Venue
 					</td>
 					<td width="5%">
@@ -76,7 +87,7 @@ THK Home for Disabled@Sembawang was established in April 2018 to provide long te
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Volunteers to ensure they have their personal laptops/ devices, a working video camera and microphone. <br>
+			a)    Training will be provided <br>
 b) Min. age: 13
 		</td>
 	</tr>
