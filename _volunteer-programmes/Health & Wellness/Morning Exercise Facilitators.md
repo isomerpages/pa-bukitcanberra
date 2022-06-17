@@ -26,13 +26,13 @@ third_nav_title: Health & Wellness
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Pending info fr GCDO
+						   Once a week, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						9am to 10am, Monday to Friday
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
