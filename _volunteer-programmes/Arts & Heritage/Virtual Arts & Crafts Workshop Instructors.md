@@ -65,8 +65,8 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						i)	   Virtual over Zoom or Microsoft Teams
-<br>ii)	Physical: 12 Yishun Avenue 5 S768992
+						1.	   Virtual over Zoom or Microsoft Teams
+<br>2.	Physical: 12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
