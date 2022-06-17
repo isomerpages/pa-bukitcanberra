@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Virtua-Arts-and-Crafts-Workshop-Instructors
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
-**Virtual Art and Craft**
+**Virtual Arts & Crafts Workshop Instructors**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,18 +21,18 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Virtual Art and Craft
+						Virtual Arts & Crafts Workshop Instructors
 					</td>
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   Minimum 4 sessions per month, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -44,7 +43,18 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						At timings suitable for volunteers but subjected to the availabilities of timings at the Nursing Home
+						Pending info fr GCDO
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						No. of Opening
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10
 					</td>
 				</tr>
 				<tr>
@@ -55,8 +65,8 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						i)	Zoom or Microsoft Teams
-<br>ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
+						i)	   Virtual over Zoom or Microsoft Teams
+<br>ii)	Physical: 12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
@@ -68,8 +78,8 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Arts and Crafts workshops allows seniors to practise their hand eye coordination skills. Hand eye coordination skills are important in many daily activities.  Art and Craft Workshops also brings colours to the seniors’ lives. It keeps them engaged and dispel feelings of loneliness which seniors might feel.<br>
-<br>We are looking for Arts and Crafts Instructors (e.g. Zentangle, Simple Painting) to design and conduct Arts and Crafts Workshop for our seniors.
+			   Arts and Craft workshops allows senior to practice their hand eye coordination skills. The workshops also bring colours to the seniors’ lives by keeping them engaged and dispel feelings of loneliness.<br>
+<br>We are looking for Arts and crafts instructors (e.g. Zentangle , Simple Painting) to design and conduct Arts and Craft workshop for our seniors.
 		</td>
 	</tr>
 </table>
@@ -79,12 +89,8 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Requirements:</b><br>
 			a) Interested in Art and Craft
-<br>b)	Able to design and propose an easy to follow and learn Arts and Crafts programme for seniors 
-<br>c)	Able to conduct weekly or bi-weekly Arts and Crafts Programme for the seniors over zoom or other online video conferencing platforms 
-<br>d)	Comfortable working with seniors
-<br>e)	Experienced/have qualifications in designing and conducting Arts and Crafts programmes is preferred
-<br>f)	Able to commit minimum 1 month (4 sessions)  
-<br>g)	Min age: 18
+<br>b)	   To be comfortable working with seniors
+<br>c)	Min age: 18
  <br>
 		</td>
 	</tr>
