@@ -27,13 +27,13 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Wednesdays
+						   Every Wednesday, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -44,7 +44,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						2-4pm
+						2pm - 4pm
 					</td>
 				</tr>
 				<tr>
@@ -85,7 +85,7 @@ b) Must be patient
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br> Canberra Zone 2 RN & Canberra Secondary School
+			<b>Jointly Organize with :</b><br>    Canberra Zone 2 Residents’ Network (RN) & Canberra Secondary School
 			&nbsp;
 		</td>
 	</tr>
