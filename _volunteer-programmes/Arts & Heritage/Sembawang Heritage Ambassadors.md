@@ -43,7 +43,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						8-10am
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
