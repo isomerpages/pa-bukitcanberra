@@ -86,7 +86,7 @@ b) Min. age : All ages
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
+			<b>Jointly Organize with :</b><br>Thye Hua Kwan Home (THK) for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
