@@ -26,13 +26,13 @@ third_nav_title: Nurturing Our Children
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Weekend
+						   Every weekend, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						10-11am
+						10am to 11am
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						Virtual
+						   Virtual / Physical (Sembawang Town/Woodlands Town)
 					</td>
 				</tr>
 			</table>
@@ -66,7 +66,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			This programme aims to improve children literacy and cultivate reading habits among young children.  Each session is 45minutes (with art and craft activities).
+			This programme aims to improve literacy and cultivate reading habits among young children. Volunteers are needed to read and conduct activities for children once a week.
 		</td>
 	</tr>
 </table>
@@ -75,17 +75,17 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Able to read English/Malay story books<br>b)	Must be patient<br>
+			a)    Able to read English/Malay story books.<br>b)	Training will be provided by National Library Board<br>
 c)	Min. age: 15
 		</td>
-	</tr>
+	</tr>   
 </table>
 
 <table border="0" width="100%">
 	<tr>
 		<td>
 			<b>Jointly Organize with :</b><br>
-			M3@Woodlands
+			   M3@Woodlands (A collaborative efforts between Muis, MENGDAKI and MESRA)
 			&nbsp;
 		</td>
 	</tr>
