@@ -26,13 +26,13 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Once a month engagement (for both female and male residents who are born in that month)
+						Once a month
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   To be confirmed
 					</td>
 				</tr>
 				<tr>
