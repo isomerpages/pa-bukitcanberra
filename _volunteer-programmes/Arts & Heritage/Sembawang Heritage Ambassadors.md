@@ -54,7 +54,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Meetin at void deck of Blk 364A Sembawang Crescent
+						Meeting at void deck of Blk 364A Sembawang Crescent
 					</td>
 				</tr>
 			</table>
@@ -66,7 +66,8 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Form a group of residents who are interested to know and act as Sembawang Heritage Ambassadors. To equip them with knowledge, facilitation skills and information about Sembawang’s heritage. They can use this knowledge and information to share with residents who visit Sembawang GRC divisions. 
+			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history and social memories of places in Singapore.</b><br>
+<br>We hope to recruit volunteers who can help to assist to organize regular heritage tours in order to create awareness of the Sembawang Heritage Trail to the residents, schools and community partners. Trainings will be conducted for the heritage guides. 
 		</td>
 	</tr>
 </table>
