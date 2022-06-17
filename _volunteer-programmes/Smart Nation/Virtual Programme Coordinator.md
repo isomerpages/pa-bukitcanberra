@@ -67,7 +67,8 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To assist in conducting and executing recreational programmes that suit the needs of THK Home and its residents through online meeting platform. e.g. virtual tours to introduce different places of interest/ culture in Singapore to our residents, online dance and movement sessions, art & craft session etc
+THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
+<br>We are looking for volunteers to conduct recreational programmes for the residents at THK Home. For example. Virtual tours to introduce residents to different places of interest/ culture in Singapore, dance and movement, art & craft session.
 		</td>
 	</tr>
 </table>
@@ -76,7 +77,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Ensure you have own personal laptop/ devices, a working video camera and microphone
+			a)    Training will be provided
 		</td>
 	</tr>
 </table>
@@ -84,7 +85,7 @@ third_nav_title: Smart Nation
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
+			<b>Jointly Organize with :</b><br>   Thye Hua Kwan Home (THK) for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
