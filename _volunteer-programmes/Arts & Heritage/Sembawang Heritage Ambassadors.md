@@ -54,7 +54,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Void Deck of Block 364A Sembawang Crescent
+						Meetin at void deck of Blk 364A Sembawang Crescent
 					</td>
 				</tr>
 			</table>
