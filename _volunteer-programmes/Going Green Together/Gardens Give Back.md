@@ -26,13 +26,13 @@ third_nav_title: Going Green Together
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td width="75%">
-						No fix date
+						   Weekly, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						To be confirmed
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
