@@ -26,13 +26,13 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Once a month engagement
+						Once a month
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,18 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						To be confirmed
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						No. of Opening
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +65,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Pending info fr GCDO
+						To be confirmed<br>
+7 Sembawang Walk, Singapore 756977
 					</td>
 				</tr>
 			</table>
