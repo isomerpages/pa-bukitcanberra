@@ -78,8 +78,8 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To teach foreign care staff to speak Mandarin, Malay, Hokkien, Teochew, Cantonese, English
-confidently and fluently.
+			   THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
+<br>We are looking for volunteers to conduct free language classes for our care staff with local dialect and/ or equip them to speak English confidently and fluently Mandarin, Malay Hokkien, Teochew, Cantonese and English.
 		</td>
 	</tr>
 </table>
@@ -88,7 +88,7 @@ confidently and fluently.
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Able to practice and teach local languages to foreign care staff<br>b)	Volunteers to ensure they have their personal laptop/ devices, a working video camera and microphone
+			a) Able to practice and teach local languages to foreign care staff<br>b)	Min. age: All ages
 		</td>
 	</tr>
 </table>
@@ -96,7 +96,7 @@ confidently and fluently.
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>THK Home for Disabled @ Sembawang
+			<b>Jointly Organize with :</b><br>Thye Hua Kwan Home (THK) for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
