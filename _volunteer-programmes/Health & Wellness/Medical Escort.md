@@ -67,7 +67,8 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To accompany residents with intellectual disabilities for medical appointment via our in-house transport. Volunteers will assist in medicine collection and to take down doctor’s instructions and disseminate the information to the home’s nursing team.
+			   THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
+<br>We are looking for volunteers to accompany THK Home residents with intellectual disabilities for medical appointment via our in-house transport. Volunteers will assist to take down Doctor’s instructions and medical collection before disseminating the info to the nursing team.
 		</td>
 	</tr>
 </table>
@@ -76,8 +77,8 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Pending information from GCDO <br>
-b) Pending information from GCDO
+			a)    Training will be provided<br>
+b) Min. age: 18
 		</td>
 	</tr>
 </table>
