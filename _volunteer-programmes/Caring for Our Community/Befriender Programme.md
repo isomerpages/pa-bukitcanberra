@@ -26,13 +26,13 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Weekdays
+						   Weekdays, 1.30 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Blk 751 Woodlands Ave 4
+						Sembawang West Zone G Residents’ Network
+Blk 756, Woodlands Ave 4, S730756
 					</td>
 				</tr>
 			</table>
@@ -85,7 +86,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>Woodlands Galaxy CC
+			<b>Jointly Organize with :</b><br>   Woodlands Galaxy Grassroots Organisations
 			&nbsp;
 		</td>
 	</tr>
