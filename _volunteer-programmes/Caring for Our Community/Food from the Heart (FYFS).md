@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Food-from-the-Heart-FYFS
 description: ""
 third_nav_title: Caring for Our Community
 ---
-**Food from the Heart (FYFS)**
+**Food from the Heart Distribution Programme**
 
 <table border="0" width="100%">
 	<tr>
@@ -21,18 +21,18 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Food from the Heart (FYFS)
+						Food from the Heart Distribution Programme
 					</td>
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						To be confirmed
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,18 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						To be confirmed
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						No. of Opening
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +65,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Blk 569A Champions Way #01-326 S731569
+						Fei Yue Family Service Centre (Champions Way) – Multi Purpose Hall
+Blk 569A Champions Way, #01-326, S731569
 					</td>
 				</tr>
 			</table>
@@ -66,7 +78,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Food from the Heart (a food distribution programme) distributes food ration packs (dry rations, fresh vegetables, eggs etc) to low-income clients on monthly basis. Distribution is done face-to-face at Fei Yue Family Service Centre (Champions Way), clients will come at a specific timing to collect their rations.
+			 The aim of this initiative is to offer monthly distribution of food ration packs like dry rations, fresh vegetables, eggs, etc to low-income clients.<br>
+<br>We are looking for volunteers to pack food rations and distribute to clients at the centre.
 		</td>
 	</tr>
 </table>
@@ -75,8 +88,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Min. age: 16 <br>
-b) Assist in packing food ration
+			a)    Training will be provided <br>
+b) Min. age: 16
 		</td>
 	</tr>
 </table>
