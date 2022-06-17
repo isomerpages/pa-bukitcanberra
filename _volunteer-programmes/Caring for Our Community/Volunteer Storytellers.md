@@ -26,13 +26,13 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   Minimum 3 months, 3 or more sessions per month, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						At timings suitable for volunteers but subjected to the availabilities of timings at the Nursing Home
+						Pending info fr GCDO
 					</td>
 				</tr>
 				<tr>
@@ -54,8 +54,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-i)	Zoom or Microsoft Teams
-<br>ii)	Physical: 12 Yishun Avenue 5 Singapore 768992
+i)	   Virtual over Zoom or Microsoft Teams
+<br>ii)	Physical: 12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
@@ -78,12 +78,8 @@ We are looking for volunteers to curate and tell stories to our seniors to keep 
 		<td>
 			<b>Requirements:</b><br>
 			a) Interested in storytelling 
-<br>b)	Able to select simple and easy to understand stories to share with the seniors
-<br>c)	Able to create colourful and engaging visuals or media for the seniors to see alongside the storytelling
-<br>d)	Able to do storytelling with the seniors weekly/ bi-weekly/ monthly 
-<br>e)	Experienced in storytelling to seniors is preferred 
-<br>f)	Able to commit minimum 3 months
-<br>g)	Min age: 18
+<br>b)	   To be comfortable working with seniors
+<br>c)	Min age: 18
 		</td>
 	</tr>
 </table>
