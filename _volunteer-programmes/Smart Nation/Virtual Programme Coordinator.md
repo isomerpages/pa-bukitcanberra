@@ -26,13 +26,13 @@ third_nav_title: Smart Nation
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Once or twice a month engagement
+						Once a month
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						To be confirmed
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,8 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						 To be confirmed
+						7 Sembawang Walk, S756977
 					</td>
 				</tr>
 			</table>
