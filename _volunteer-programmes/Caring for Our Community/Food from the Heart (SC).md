@@ -34,7 +34,7 @@ third_nav_title: Caring for Our Community
 					<td  width="75%">
 					2 hours per session, <br>
 						1. Every first to fourth Wednesday – Sembawang Central Zone B RN<br>
-2. Every first to fourth Thursday – East Canberra Zone 1 RN
+<br>2. Every first to fourth Thursday – East Canberra Zone 1 RN
 					</td>
 				</tr>
 				<tr>
@@ -56,7 +56,10 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Blk 107A Canberra Street<br>Blk 510B Wellington Circle
+						1. Sembawang Central Zone B Residents’ Network (RN)
+BLK 510B,  #01-77, Wellington Circle, S752510<br>
+<br>2. East Canberra Zone 1 Residents’ Network (RN)
+BLK 107A, #01-567, Canberra St, S751107
 					</td>
 				</tr>
 			</table>
