@@ -82,7 +82,8 @@ BLK 107A, #01-567, Canberra St, S751107
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Sembawang Central CO started the collaboration with FFTH, with the objective to help the underprivileged and less fortunate within the division. The collaboration with FFTH under the community food pack programme also enables willing resident volunteers to help out those who sought assistance, put food on their tables and offset their living expenses. The initiative is donor driven and the FFTH organisation is fuelled by a mix of food donations, cash donations, as well as bread distribution to the needy. The consistent and reliability of FFTH in providing food rations gives eligible residents continued food security on a monthly basis.
+			Sembawang West Zone G Residents’ Network is working towards engaging the elderly and they are pairing activities/programmes with elderly, matching their needs based on the assessment conducted during the house visits.<br>
+			<br>We are looking for befrienders to visit and engage the vulnerable seniors, especially those residing alone, checking on their well-being regularly.
 		</td>
 	</tr>
 </table>
@@ -91,8 +92,8 @@ BLK 107A, #01-567, Canberra St, S751107
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Good knowledge of the syllabus<br>
-b) Able to converse in English
+			a) Training will be provided<br>
+b) Min. age: 18
 		</td>
 	</tr>
 </table>
