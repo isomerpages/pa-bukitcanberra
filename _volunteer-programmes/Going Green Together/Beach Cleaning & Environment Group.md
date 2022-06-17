@@ -76,7 +76,7 @@ third_nav_title: Going Green Together
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Fit to work<br>
+			a)    Able to engage and guide residents<br>
 b) Min. age:15
 		</td>
 	</tr>
