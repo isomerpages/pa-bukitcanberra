@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Monthly-Birthday-Celebration-for-Residents
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-**Virtual Monthly Birthday Celebration**
+**Monthly Birthday Celebration for Residents**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Virtual Monthly Birthday Celebration
+						Monthly Birthday Celebration for Residents
 					</td>
 				</tr>
 				<tr>
