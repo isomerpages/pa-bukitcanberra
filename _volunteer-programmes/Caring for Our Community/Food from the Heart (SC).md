@@ -26,16 +26,15 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-					Every first to fourth Wednesday of    
-           the month (Zone B RN)<br>
-						Every first to fourth Thursday of the 
-          month (East Canberra Zone 1 RN)
+					2 hours per session, <br>
+						1. Every first to fourth Wednesday – Sembawang Central Zone B RN<br>
+2. Every first to fourth Thursday – East Canberra Zone 1 RN
 					</td>
 				</tr>
 				<tr>
