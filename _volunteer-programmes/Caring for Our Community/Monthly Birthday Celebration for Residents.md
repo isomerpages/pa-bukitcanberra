@@ -54,7 +54,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   To be confirmed
+7 Sembawang Walk, S756977
 					</td>
 				</tr>
 			</table>
