@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Language-Class-for-Foreign-Care-Staff
 description: ""
 third_nav_title: Smart Nation
 ---
-
-**Teach a Local Language to Foreign Care Staff**
+**Language Class for Foreign Care Staff**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,18 +21,18 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						Teach a Local Language to Foreign Care Staff
+						Language Class for Foreign Care Staff
 					</td>
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Once a week engagement
+						Once a week
 					</td>
 				</tr>
 				<tr>
@@ -44,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   To be confirmed
 					</td>
 				</tr>
 				<tr>
@@ -55,7 +54,8 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						TBC
+						   To be confirmed
+7 Sembawang Walk, S756977
 					</td>
 				</tr>
 			</table>
