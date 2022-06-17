@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Community-Tuition-Programme
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-
-**Community Tuition**
+**Community Tuition Programme**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,18 +21,18 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						Community Tuition
+						Community Tuition Programme
 					</td>
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Saturday or Sunday
+						   Every weekend, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -44,7 +43,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						Sat: 10-12pm,  Sun: 2-4pm
+						Saturday – 10am to 12pm Sunday – 2pm to 4pm
 					</td>
 				</tr>
 				<tr>
@@ -55,7 +54,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, Singapore 739069
+						ACE The Place CC, 120 Woodlands Ave 1, S739069
 					</td>
 				</tr>
 			</table>
@@ -86,7 +85,7 @@ b) Have the patience to teach and guide the students
 	<tr>
 		<td>
 			<b>Jointly Organize with :</b><br>
-			Admiralty YN
+			   Admiralty Youth Network
 			&nbsp;
 		</td>
 	</tr>
