@@ -37,7 +37,7 @@ third_nav_title: Arts & Heritage
 				</tr>
 				<tr>
 					<td width="20%">
-						~~Time~~
+						Time
 					</td>
 					<td width="5%">
 						:
