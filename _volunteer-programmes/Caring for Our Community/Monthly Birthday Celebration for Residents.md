@@ -77,8 +77,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Pending info fr GCDO <br>
-b) Pending info fr GCDO
+			a)    Training will be provided <br>
+b) Min. age : All ages
 		</td>
 	</tr>
 </table>
