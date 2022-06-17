@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Beach-Cleaning-and-Environment-Group
 description: ""
 third_nav_title: Going Green Together
 ---
-
-**Beach Cleaning & Environment**
+**Beach Cleaning & Environment Group**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,18 +21,18 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td  width="75%">
-						Beach Cleaning & Environment
+						Beach Cleaning & Environment Group
 					</td>
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Saturdays
+						   Every Saturday, 2 hours per session
 					</td>
 				</tr>
 				<tr>
