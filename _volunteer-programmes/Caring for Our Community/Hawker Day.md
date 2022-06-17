@@ -26,13 +26,13 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						Every 3rd Wednesday of the month
+						   Minimum 3 months, every 3rd Wednesday of the month, 1 hour per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,18 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10:30am - 11:30am
+						Pending info fr GCDO
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						No. of Opening
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						12 Yishun Avenue 5 Singapore 768992
+						12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
 			</table>
