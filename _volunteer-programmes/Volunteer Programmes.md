@@ -64,7 +64,7 @@ description: ""
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Beach-Cleaning-and-Environment" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Beach-Cleaning-and-Environment-Group" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Beach%20cleaning%20&%20envrionment%20Group%201.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -72,7 +72,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Garden-Gives-Back" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Gardens-Give-Back" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Gardens%20Give%20back%20.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
