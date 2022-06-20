@@ -121,7 +121,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Virtual-Monthly-Birthday-Celebration" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Birthday%20Celebration%201.png">
+      <img style="height:250px;width:228px;" src="/images/Monthly%20Birthday%20Celebration%20for%20Residents.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
