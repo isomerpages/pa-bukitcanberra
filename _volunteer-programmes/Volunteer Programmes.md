@@ -88,7 +88,7 @@ description: ""
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Canberra-Befrienders-for-the-Elderly" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Befrienders-for-the-Elderly" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Befrienders%20for%20the%20Elderly.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -96,7 +96,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Food-from-the-Heart-SC" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Food-from-the-Heart" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Food%20from%20the%20heart%20R1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -120,7 +120,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Virtual-Monthly-Birthday-Celebration" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Monthly-Birthday-Celebration-for-Residents" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Monthly%20Birthday%20Celebration%20for%20Residents.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -144,7 +144,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Food-from-the-Heart-FYFS" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Food-from-the-Heart-Distribution-Programme" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Food%20from%20the%20heart%20distribution%20programme.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -200,7 +200,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Senior-Activity-Pack-Designers" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Activity-Pack-Designers" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Activity%20Pack%20Designers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -234,7 +234,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Intergeneration-Programme-Coordinator" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Intergeneration-Programme-Coordina" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Intergeneration%20Programme%20Coordinator%201A.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -250,7 +250,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Teach-a-Local-Language-to-Foreign-Care-Staff" style="text-decoration:none;">
+    <a href="/volunteer-programmes/Language-Class-for-Foreign-Care-Staff" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Language%20Classes%20for%20Foreign%20Care%20Staff.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
