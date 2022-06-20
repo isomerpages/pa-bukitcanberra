@@ -73,7 +73,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Garden-Gives-Back" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Garden%20Gives%20back%201.png">
+      <img style="height:250px;width:228px;" src="/images/Gardens%20Give%20back%20.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -89,7 +89,7 @@ description: ""
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Canberra-Befrienders-for-the-Elderly" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Canberra%20Befrienders%20for%20the%20Elderly%201A.png">
+      <img style="height:250px;width:228px;" src="/images/Befrienders%20for%20the%20Elderly.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -97,7 +97,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Food-from-the-Heart-SC" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Food%20from%20the%20heart%20(SC)%201A.png">
+      <img style="height:250px;width:228px;" src="/images/Food%20from%20the%20heart%20R1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
