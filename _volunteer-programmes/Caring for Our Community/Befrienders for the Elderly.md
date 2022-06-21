@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Befrienders-for-the-Elderly
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Befrienders for the Elderly**
 
 <table border="0" width="100%">
@@ -68,9 +67,9 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						   1. Canberra Zone 2 Residents’ Network
-BLK 356A, #01-80, Admiralty Dr, S751356<br>
+Blk 356A, #01-80, Admiralty Dr, S751356<br>
 						<br>2. Canberra Zone 3 Residents’ Network
-BLK 478, #01-383, Sembawang Dr, S750478
+Blk 478, #01-383, Sembawang Dr, S750478
 					</td>
 				</tr>
 			</table>
@@ -91,7 +90,7 @@ BLK 478, #01-383, Sembawang Dr, S750478
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Training will be provided by Yishun Health<br>
+			a)    Training will be provided by Yishun Health.<br>
 b) Min. age : 15
 		</td>
 	</tr>
