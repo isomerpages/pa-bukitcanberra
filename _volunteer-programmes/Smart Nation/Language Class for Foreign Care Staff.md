@@ -88,7 +88,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Able to practice and teach local languages to foreign care staff<br>b)	Min. age: All ages
+			a) Pending info from GCDO<br>b)	Min. age: All ages
 		</td>
 	</tr>
 </table>
