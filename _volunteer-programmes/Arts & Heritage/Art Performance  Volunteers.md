@@ -90,8 +90,8 @@ Volunteers
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)       Interested or have experience in Art performance<br>
-			b) To be comfortable working with seniors
+			a)       Interested or have experience in Art performance.<br>
+			b) To be comfortable working with seniors.
 <br>c)	Min. age: 18
  <br>
 		</td>
