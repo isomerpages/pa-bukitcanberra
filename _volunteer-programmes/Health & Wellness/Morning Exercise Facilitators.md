@@ -87,8 +87,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Physically fit
-<br>b)	Able to engage and demonstrate the exercises to residents
+			a) Physically fit, able to engage and demonstrate the exercises to residents.
 <br>c)	Min age: 18
 		</td>
 	</tr>
