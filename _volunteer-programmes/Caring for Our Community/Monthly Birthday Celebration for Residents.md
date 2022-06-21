@@ -88,7 +88,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Training will be provided <br>
+			a)    Training will be provided. <br>
 b) Min. age : All ages
 		</td>
 	</tr>
