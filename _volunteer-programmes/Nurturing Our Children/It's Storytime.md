@@ -86,7 +86,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Able to read English/Malay story books.<br>b)	Training will be provided by National Library Board<br>
+			a)    Able to read English/Malay story books.<br>b)	Training will be provided by National Library Board.<br>
 c)	Min. age: 15
 		</td>
 	</tr>   
