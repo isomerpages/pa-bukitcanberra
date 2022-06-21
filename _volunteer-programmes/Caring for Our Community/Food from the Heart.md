@@ -68,9 +68,9 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						1. Sembawang Central Zone B Residents’ Network (RN)
-BLK 510B,  #01-77, Wellington Circle, S752510<br>
+Blk 510B,  #01-77, Wellington Circle, S752510<br>
 <br>2. East Canberra Zone 1 Residents’ Network (RN)
-BLK 107A, #01-567, Canberra St, S751107
+Blk 107A, #01-567, Canberra St, S751107
 					</td>
 				</tr>
 			</table>
@@ -91,7 +91,7 @@ BLK 107A, #01-567, Canberra St, S751107
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Assist in simple administrative work, packing and distributing rations<br>
+			a) Assist in simple administrative work, packing and distributing rations.<br>
 b) Min. age: 16
 		</td>
 	</tr>
