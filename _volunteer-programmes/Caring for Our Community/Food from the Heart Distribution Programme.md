@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Food-from-the-Heart-Distribution-Programme
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Food from the Heart Distribution Programme**
 
 <table border="0" width="100%">
@@ -89,7 +88,7 @@ Blk 569A Champions Way, #01-326, S731569
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Training will be provided <br>
+			a)    Training will be provided. <br>
 b) Min. age: 16
 		</td>
 	</tr>
