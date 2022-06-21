@@ -88,8 +88,8 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Interested in Art and Craft
-<br>b)	   To be comfortable working with seniors
+			a) Interested in Art and Craft.
+<br>b)	   To be comfortable working with seniors.
 <br>c)	Min age: 18
  <br>
 		</td>
