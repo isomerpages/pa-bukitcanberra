@@ -88,7 +88,7 @@ THK Home for Disabled@Sembawang was established in April 2018 to provide long te
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Training will be provided
+			a)    Training will be provided.
 		</td>
 	</tr>
 </table>
