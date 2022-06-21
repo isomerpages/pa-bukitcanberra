@@ -66,7 +66,7 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						To be confirmed<br>
-7 Sembawang Walk, Singapore 756977
+7 Sembawang Walk, S756977
 					</td>
 				</tr>
 			</table>
@@ -88,7 +88,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Volunteers with grooming services background preferred
+			a)    Volunteers with grooming services background preferred.
 		</td>
 	</tr>
 </table>
