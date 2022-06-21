@@ -88,7 +88,7 @@ Blk 756, Woodlands Ave 4, S730756
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	   Training will be provided
+			a)	   Training will be provided.
 <br>b)	Min age: 18
 		</td>
 	</tr>
