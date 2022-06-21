@@ -79,7 +79,7 @@ third_nav_title: Smart Nation
 		<td>
 			<b>Programme Description:</b><br>
 			   THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
-<br>We are looking for volunteers to conduct free language classes for our care staff with local dialect and/ or equip them to speak English confidently and fluently Mandarin, Malay Hokkien, Teochew, Cantonese and English.
+<br>We are looking for volunteers to conduct free language classes for our care staff with local dialect and/ or equip them to speak English, Mandarin, Malay, Hokkien, Teochew and Cantonese confidently and fluently.
 		</td>
 	</tr>
 </table>
