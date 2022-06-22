@@ -1,5 +1,4 @@
 collections:
   our-facilities:
     output: true
-    order:
-      - Facilities.md
+    order: []
