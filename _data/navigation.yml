@@ -4,9 +4,9 @@ links:
     collection: about-us
   - title: Volunteer Programmes
     collection: volunteer-programmes
-  - title: Join Us
-    collection: join-us
   - title: Our Facilities
     collection: our-facilities
   - title: Our Location
     url: /Our-Location
+  - title: Join Us
+    url: /permalink
