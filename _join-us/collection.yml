@@ -1,5 +1,4 @@
 collections:
   join-us:
     output: true
-    order:
-      - Join Us.md
+    order: []
