@@ -9,7 +9,7 @@ permalink: /privacy/
 3.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 4.   If you provide us with personally identifiable data
-<ol type="a">
+<ol type="a" start="a">
 			<li>We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.</li>
      <li>We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services. </li>
  		<li>For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</li>
