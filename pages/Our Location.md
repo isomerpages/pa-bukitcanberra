@@ -9,10 +9,7 @@ description: ""
         </tr>
         <tr>
 					  <td>21 Canberra Link, Bukit Canberra Singapore 756973
-            <td>&nbsp;</td>
-        </tr>
-    </tbody>
-</table>
+            <td>&nbsp;</td></tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
@@ -56,8 +53,7 @@ description: ""
                 Bus no.:<br>
                 Nearest MRT: Sembawang
             </td>
-        </tr>
-    </tbody></table>
+</tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
