@@ -72,5 +72,4 @@ Singapore 756973
                 <img src="/images/BukitCanberra.jpg" alt="Bukit Canberra"/>
 							</a>
             </td>
-        </tr>
-    </tbody></table>
+</tr></tbody></table>
