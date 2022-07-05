@@ -29,8 +29,7 @@ description: ""
                         <td width="85%"></td>
                     </tr>
                 </tbody></table>
-            </td>
-</tr></tbody></table>
+            </td></tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
@@ -41,8 +40,7 @@ description: ""
                 Mon - Fri: 10am - 6pm<br>
                 Sat &amp; Sun: 9am - 6pm<br>
                 PH Closed<p></p>
-            </td>
-</tr></tbody></table>
+            </td></tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
@@ -52,8 +50,7 @@ description: ""
             <td>
                 Bus no.:<br>
                 Nearest MRT: Sembawang
-            </td>
-</tr></tbody></table>
+            </td></tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
@@ -64,5 +61,4 @@ description: ""
 							<a href="https://www.onemap.gov.sg/amm/amm.html?mapStyle=Default&zoomLevel=15&marker=latLng:1.44826336410158,103.82276363189!colour:red&popupWidth=200">
                 <img src="/images/BukitCanberra.jpg" alt="Bukit Canberra"/>
 							</a>
-            </td>
-</tr></tbody></table>
+            </td></tr></tbody></table>
