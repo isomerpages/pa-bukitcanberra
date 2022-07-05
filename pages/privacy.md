@@ -19,7 +19,9 @@ permalink: /privacy/
 <li>This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 	</li>
 <li>Please contact (insert SPARKS email) if you:
-	  a. have any enquires or feedback on our data protection policies and procedures,
-     b. need more information on or access to data which you have provided to us in the past.
+	<ol type="a">
+		<li>have any enquires or feedback on our data protection policies and procedures,</li>
+		<li>need more information on or access to data which you have provided to us in the past.</li>
+	</ol>
 	</li>
 </ol>
