@@ -8,7 +8,7 @@ description: ""
             <td><b>Address</b></td>
         </tr>
         <tr>
-					   <td>21 Canberra Link, Bukit Canberra         
+					  <td>21 Canberra Link, Bukit Canberra         
 
 Singapore 756973
             <td>&nbsp;</td>
