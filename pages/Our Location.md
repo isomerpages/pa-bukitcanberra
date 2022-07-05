@@ -33,8 +33,7 @@ description: ""
                     </tr>
                 </tbody></table>
             </td>
-        </tr>
-    </tbody></table>
+</tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
@@ -46,8 +45,7 @@ description: ""
                 Sat &amp; Sun: 9am - 6pm<br>
                 PH Closed<p></p>
             </td>
-        </tr>
-    </tbody></table>
+</tr></tbody></table>
     
 <table border="0" width="100%">
         <tbody><tr>
