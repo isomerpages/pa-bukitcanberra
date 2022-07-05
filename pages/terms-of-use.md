@@ -8,11 +8,11 @@ permalink: /terms-of-use/
 
 ##### **About**
 
-Thank you for visiting the onePA website. By accessing and using this onePA website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
+Thank you for visiting the SPARKS website. By accessing and using this SPARKS website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
 ##### **General**
 
-PA reserves the right to make changes to these Terms of Use from time to time at its sole discretion. If any of these terms shall be deemed invalid, void, or for any reason unenforceable, that term shall be deemed severable and shall not affect the validity and enforceability of any remaining term. Changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+SPARKS reserves the right to make changes to these Terms of Use from time to time at its sole discretion. If any of these terms shall be deemed invalid, void, or for any reason unenforceable, that term shall be deemed severable and shall not affect the validity and enforceability of any remaining term. Changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
 ##### **Proprietary Rights**
 
