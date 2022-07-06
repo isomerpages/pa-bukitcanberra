@@ -3,7 +3,7 @@ title: Our Location
 permalink: /ourlocation
 description: ""
 ---
-<table border="0" width="100%">
+<table width="100%" border="0">
 <tbody>
 <tr>
 <td>
@@ -12,7 +12,7 @@ description: ""
 </tr>
 <tr>
 <td>21 Canberra Link, Bukit Canberra Singapore 756973
-<td>&nbsp;</td>
+</td><td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
