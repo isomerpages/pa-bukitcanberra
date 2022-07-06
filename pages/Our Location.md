@@ -6,7 +6,7 @@ description: ""
 <table width="100%" border="0">
 <tbody>
 <tr>
-<td>
+<td colspan="2">
 <b>Address</b>
 </td>
 </tr>
