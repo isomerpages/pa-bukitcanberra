@@ -14,8 +14,13 @@ description: ""
       <td>21 Canberra Link, Bukit Canberra Singapore 756973</td>
       <td>&nbsp;</td>
     </tr>
+		<tr>
+			<td colspan="2" style="border-top:0;">
+        &nbsp;
+      </td>
+		</tr>
   </tbody>
-</table><br>
+</table>
 <table border="0" width="100%">
   <tbody>
     <tr>
