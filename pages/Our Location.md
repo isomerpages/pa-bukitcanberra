@@ -34,14 +34,14 @@ description: ""
                 <b>Tel</b>
               </td>
               <td width="5%">:</td>
-              <td width="85%"></td>
+              <td width="85%">&nbsp;</td>
             </tr>
             <tr>
               <td width="10%">
                 <b>Email</b>
               </td>
               <td width="5%">:</td>
-              <td width="85%"></td>
+              <td width="85%">&nbsp;</td>
             </tr>
           </tbody>
         </table>
