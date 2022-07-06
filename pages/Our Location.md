@@ -20,7 +20,7 @@ description: ""
   <tbody>
     <tr>
       <td>
-        <b style="padding-top: 50px;">General Enquires &amp; Feedback</b>
+        <b style="padding-top: 20px;">General Enquires &amp; Feedback</b>
       </td>
     </tr>
     <tr>
