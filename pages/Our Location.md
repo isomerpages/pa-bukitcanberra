@@ -16,7 +16,6 @@ description: ""
     </tr>
   </tbody>
 </table>
-<br>
 <table border="0" width="100%">
   <tbody>
     <tr>
