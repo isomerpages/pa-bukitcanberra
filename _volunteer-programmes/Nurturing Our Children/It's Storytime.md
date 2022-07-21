@@ -95,8 +95,8 @@ c)	Min. age: 15
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
-			   M3@Woodlands (A collaborative efforts between Muis, MENGDAKI and MESRA)
+			<b>Jointly Organized with :</b><br>
+			   M3@Woodlands (A collaborative effort between Muis, MENGDAKI and MESRA)
 			&nbsp;
 		</td>
 	</tr>
