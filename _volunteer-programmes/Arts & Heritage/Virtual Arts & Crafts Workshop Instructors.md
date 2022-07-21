@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Virtua-Arts-and-Crafts-Workshop-Instructors
 description: ""
 third_nav_title: Arts & Heritage
 ---
-**Virtual Arts & Crafts Workshop Instructors**
+**Virtual Art & Crafts Workshop Instructors**
 
 <table border="0" width="100%">
 	<tr>
