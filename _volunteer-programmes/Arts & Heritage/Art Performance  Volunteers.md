@@ -80,7 +80,7 @@ Volunteers
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Seniors who viewed art performances like music or dance performances regularly were found to have lower rates of depression, anxiety, and stress.<br>
+			Seniors who viewed artistic performances like music or dance performances regularly were found to have lower rates of depression, anxiety and stress.<br>
 <br>We are looking for volunteers to bring enthralling art performances (i.e. music, dance or other suitable art performances) for our seniors to enjoy.
 		</td>
 	</tr>
