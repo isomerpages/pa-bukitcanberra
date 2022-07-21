@@ -77,8 +77,8 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history and social memories of places in Singapore.<br>
-<br>We hope to recruit volunteers who can help to assist to organize regular heritage tours in order to create awareness for the Sembawang Heritage Trail for the residents, schools and community partners. Trainings will be conducted for the heritage guides. 
+			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history and social memories of various places in Singapore.<br>
+<br>We hope to recruit volunteers who can help to assist in organizing regular heritage tours in order to create awareness for the Sembawang Heritage Trail for the residents, schools and community partners. Training will be conducted for the heritage guides. 
 		</td>
 	</tr>
 </table>
@@ -87,7 +87,7 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Able to communicate in English and walk for 2 hours continuously.<br>
+			a)    Able to communicate in English and walk for 2 hours at a time.<br>
 			b) Min.age : 15
 		</td>
 	</tr>
@@ -96,7 +96,7 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>   
+			<b>Jointly Organized with :</b><br>   
 Canberra Grassroots Organisations
 			&nbsp;
 		</td>
