@@ -79,7 +79,7 @@ third_nav_title: Nurturing Our Children
 		<td>
 			<b>Programme Description:</b><br>
 			   Our committed and experienced volunteer tutors have been providing free tuition to students especially from less fortunate families. <br> 
-			<br>We are looking for more compassionate volunteers to join our tutoring passion. More tutors means that more students can be given a chance to learn and grow like the more fortunate students. Thus, by giving tuition, you are actually giving back to the community.
+			<br>We are looking for compassionate volunteers to join our tutoring passion. More tutors means that more students can be given a chance to learn and grow like the more fortunate students. Thus, by giving tuition, you are actually giving back to the community.
 		</td>
 	</tr>
 </table>
@@ -97,7 +97,7 @@ b) Min age: 17
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organized with :</b><br>
 			   Admiralty Youth Network
 			&nbsp;
 		</td>
