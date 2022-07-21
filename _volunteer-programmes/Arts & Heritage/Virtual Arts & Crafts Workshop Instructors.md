@@ -78,8 +78,8 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Art and Craft workshops allows senior to practice their hand eye coordination skills. The workshops also bring colours to the seniors’ lives by keeping them engaged and dispel feelings of loneliness.<br>
-<br>We are looking for Arts and crafts instructors (e.g. Zentangle , Simple Painting) to design and conduct Arts and Craft workshop for our seniors.
+			   Art and Craft workshops allows seniors to practice their hand eye coordination skills. The workshops also bring colours to the seniors’ lives by keeping them engaged and by dispelling feelings of loneliness.<br>
+<br>We are looking for Art and crafts instructors (e.g. Zentangle , Simple Painting) to design and conduct Art and Craft workshops for our seniors.
 		</td>
 	</tr>
 </table>
@@ -99,7 +99,7 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>Sree Narayana Mission (Singapore)
+			<b>Jointly Organized with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
