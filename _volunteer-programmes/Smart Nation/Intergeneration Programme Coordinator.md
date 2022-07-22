@@ -78,7 +78,7 @@ third_nav_title: Smart Nation
 		<td>
 			<b>Programme Description:</b><br>
 			Volunteer Programme Coordination covers many aspects from arranging programme to setting up equipment and preparing materials for the programme.<br>
-<br>We are looking for volunteers to help with setting up devices and materials for student engagements.
+<br>We are looking for volunteers to help with the setting up of devices and preparation of materials for student engagements.
 		</td>
 	</tr>
 </table>
