@@ -86,7 +86,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	Physically Fit to travel to nearby food outlets, eg Chong Pang Market, to purchase food, during lunch time
+			a)	Physically fit to travel to nearby food outlets, eg Chong Pang Market, to purchase food during lunch time
 <br>b)	Min age: 18
 		</td>
 	</tr>
