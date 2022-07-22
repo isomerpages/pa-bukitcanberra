@@ -79,7 +79,7 @@ Blk 756, Woodlands Ave 4, S730756
 		<td>
 			<b>Programme Description:</b><br>
 			   Sembawang West Zone G Residents’ Network is working towards engaging the elderly and they are pairing activities/programmes for  the elderly, and matching their needs based on the assessment conducted during the house visits. <br>
-			<br>We are looking for befrienders to visit and engage the vulnerable seniors, especially those residing alone, checking on their well-being regularly.
+			<br>We are looking for befrienders to visit and engage the vulnerable seniors, especially those residing alone, and to check on their well-being regularly.
 		</td>
 	</tr>
 </table>
@@ -97,7 +97,7 @@ Blk 756, Woodlands Ave 4, S730756
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>   Woodlands Galaxy Grassroots Organisations
+			<b>Jointly Organized with :</b><br>   Woodlands Galaxy Grassroots Organisations
 			&nbsp;
 		</td>
 	</tr>
