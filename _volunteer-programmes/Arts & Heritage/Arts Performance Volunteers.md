@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Arts-Performance-Volunteers
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
 **Arts Performance 
 Volunteers**
 
@@ -23,7 +22,7 @@ Volunteers**
 						:
 					</td>
 					<td  width="75%">
-						Art Performance 
+						Arts Performance 
 Volunteers
 					</td>
 				</tr>
