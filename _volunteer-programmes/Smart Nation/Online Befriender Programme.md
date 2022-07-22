@@ -77,7 +77,7 @@ Online/ Physical (7 Sembawang Walk, S756977)
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
+THK Home for Disabled@Sembawang was established in April 2018 to provide long-term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
 <br>We are looking for volunteers to engage them through online games or befriending role.
 		</td>
 	</tr>
