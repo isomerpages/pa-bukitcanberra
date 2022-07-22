@@ -78,8 +78,8 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Regular Physical Exercise is important to help seniors maintain their physical health, to enable the, age healthily and lead fulfilling lives well into their old age.<br>
-<br>We are looking for volunteers to carry out virtual exercise and dance-exercise programmes for our seniors. Able to commit minimum 3 months.
+			   Regular Physical Exercise is important to help seniors maintain their physical health, to enable them to age healthily, and lead fulfilling lives well into their old age.<br>
+<br>We are looking for volunteers to carry out virtual exercise and dance-exercise programmes for our seniors. Able to commit a minimum of 3 months.
 		</td>
 	</tr>
 </table>
