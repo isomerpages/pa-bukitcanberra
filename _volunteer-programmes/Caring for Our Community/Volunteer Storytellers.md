@@ -78,8 +78,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Storytelling brings the stories to life and it brings the listeners on a journey of interesting experiences alongside the storyteller.<br>     
-<br>We are looking for volunteers to curate and tell stories to our seniors to keep them company and bring them on tour into the stories told.
+			Storytelling brings stories to life. It also brings the listeners on an interesting journey alongside the storyteller.<br>     
+<br>We are looking for volunteers to curate stories and to tell stories to our seniors to keep them company. 
 		</td>
 	</tr>
 </table>
@@ -98,7 +98,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>Sree Narayana Mission (Singapore)
+			<b>Jointly Organized with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
