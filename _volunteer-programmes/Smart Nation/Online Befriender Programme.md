@@ -96,7 +96,7 @@ b) Min. age: 13
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br> Thye Hua Kwan Home (THK) for Disabled @ Sembawang
+			<b>Jointly Organized with :</b><br> Thye Hua Kwan (THK) Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
