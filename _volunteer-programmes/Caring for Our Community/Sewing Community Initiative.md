@@ -84,7 +84,7 @@ Tzu Chi Humanistic Youth Centre<br>
 <b>1)	Ambassadors (Event-based volunteers)</b><br>
 •	To help manage physical pop-up booths to sell the upcycled products<br> 
 <br><b>2)	Interest Group</b><br>
-•	Sewing enthusiasts to share their knowledge and skills with other volunteers/clients and take on sewing projects, with the proceeds going to support low-income families.<br>
+•	Sewing enthusiasts to share their knowledge and skills with other volunteers/participants and to take on sewing projects, with the proceeds going to support low-income families.<br>
 		</td>
 	</tr>
 </table>
