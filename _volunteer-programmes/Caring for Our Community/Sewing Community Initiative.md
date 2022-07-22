@@ -21,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Sewers’ Community Initiative
+						Sewing Community Initiative
 					</td>
 				</tr>
 				<tr>
