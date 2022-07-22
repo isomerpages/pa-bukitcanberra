@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Sewing-Community-Initiative
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-**Sewers’ Community Initiative**
+**Sewing Community Initiative**
 
 <table border="0" width="100%">
 	<tr>
