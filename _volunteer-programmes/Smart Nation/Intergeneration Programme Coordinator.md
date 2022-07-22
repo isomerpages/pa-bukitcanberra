@@ -87,7 +87,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	Possess IT skills and experience in hosting programme for elderly.<br>
+			a)	Possess IT skills and experience in hosting programmes for the elderly.<br>
 			b) Able to converse in at least 2 languages.
 <br>c)	Min age: 18
 		</td>
