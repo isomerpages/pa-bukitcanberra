@@ -81,7 +81,7 @@ Blk 478, #01-383, Sembawang Dr, S750478
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   There are seniors who live alone with disabilities or issues caused by old age. We need volunteers taking the role as befriender to help them or listening to their problems.
+			   There are seniors who live alone with disabilities or issues caused by old age. We need volunteers to take on the role of befriender to help them or listen to their problems.
 		</td>
 	</tr>
 </table>
@@ -99,7 +99,7 @@ b) Min. age : 15
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>    Canberra Zone 2 Residents’ Network (RN) & Canberra Secondary School
+			<b>Jointly Organized with :</b><br>    Canberra Zone 2 Residents’ Network (RN) & Canberra Secondary School
 			&nbsp;
 		</td>
 	</tr>
