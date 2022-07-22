@@ -66,7 +66,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			To work with THK Home for Disabled @ Sembawang to promote an inclusive community and deepen the relationship with the neighbours.
+			To work with THK Home for Disabled @ Sembawang to promote an inclusive community and to deepen the relationship with neighbours.
 		</td>
 	</tr>
 </table>
@@ -75,7 +75,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Volunteers with marketing background will be an added advantage <br>
+			a) Volunteers with marketing background will be an advantage <br>
 		</td>
 	</tr>
 </table>
