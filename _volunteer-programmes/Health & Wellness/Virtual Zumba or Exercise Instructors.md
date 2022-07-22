@@ -65,7 +65,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						1.	   Virtual overZoom or Microsoft Teams
+						1.	   Virtual over Zoom or Microsoft Teams
 <br>2.	Physical: 12 Yishun Avenue 5 S768992
 					</td>
 				</tr>
