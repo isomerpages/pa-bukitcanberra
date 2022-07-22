@@ -100,7 +100,7 @@ b) Min. age: 16
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>    
+			<b>Jointly Organized with :</b><br>    
 			Sembawang Community Club and Food from the Heart (FFTH)
 			&nbsp;
 		</td>
