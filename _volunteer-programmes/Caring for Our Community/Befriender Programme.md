@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   Weekdays, 1.30 hours per session
+						   Weekdays, 1.5 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						7.30pm to 9.30pm
+						7.30pm to 9.00pm
 					</td>
 				</tr>
 				<tr>
