@@ -78,7 +78,7 @@ third_nav_title: Going Green Together
 		<td>
 			<b>Programme Description:</b><br>
 			You can play a part in keeping our park or beach clean and safe for everyone through clean-ups.<br>
-<br>We are looking for volunteers to conduct briefing and guide residents on Dos and Don'ts. 
+<br>We are looking for volunteers to conduct briefings and to guide residents on Dos and Don'ts. 
 		</td>
 	</tr>
 </table>
@@ -88,7 +88,7 @@ third_nav_title: Going Green Together
 		<td>
 			<b>Requirements:</b><br>
 			a)    Able to engage and guide residents<br>
-b) Min. age:15
+b) Min. age: 15
 		</td>
 	</tr>
 </table>
@@ -96,7 +96,7 @@ b) Min. age:15
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>Canberra Grassroots Organisations       
+			<b>Jointly Organized with :</b><br>Canberra Grassroots Organisations       
 			&nbsp;
 		</td>
 	</tr>
