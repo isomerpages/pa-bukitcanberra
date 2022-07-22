@@ -3,11 +3,9 @@ title: Facilities
 permalink: /our-facilities
 description: ""
 ---
-
-
 **Community Lounge**<br>
 <br>![](/images/Sparks%201.png)
-<br>The Community Lounge is both cosy and funky at the same time. It is the perfect spot to spark off creative ideas, have an impromptu meeting or hold mobile exhibitions. An ideal venue for volunteers to gather for discussions, share ideas or simply to unwind.
+<br>The Community Lounge is both cosy and funky at the same time. It is the perfect spot to spark off creative ideas, have an impromptu meeting or to hold mobile exhibitions. An ideal venue for volunteers to gather for discussions, share ideas or simply to unwind.
 The area is also open to visitors where they can access the interactive touchscreens to find out more about SPARKS and the list of volunteering opportunities. 
 
 
