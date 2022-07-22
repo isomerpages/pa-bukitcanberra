@@ -95,7 +95,7 @@ third_nav_title: Going Green Together
 <table width="100%" border="0">
 	<tbody><tr>
 		<td>
-			<b>Jointly Organize with :</b><br>
+			<b>Jointly Organized with :</b><br>
 			   Woodlands Galaxy Community Club
 			&nbsp;
 		</td>
