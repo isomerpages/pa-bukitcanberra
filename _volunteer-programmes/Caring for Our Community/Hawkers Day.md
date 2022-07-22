@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Hawkers-Day
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-**Hawker Day**
+**Hawkers Day**
 
 <table border="0" width="100%">
 	<tr>
@@ -22,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Hawker Day
+						Hawkers Day
 					</td>
 				</tr>
 				<tr>
