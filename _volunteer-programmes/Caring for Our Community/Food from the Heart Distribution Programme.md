@@ -78,8 +78,8 @@ Blk 569A Champions Way, #01-326, S731569
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			 The aim of this initiative is to offer monthly distribution of food ration packs like dry rations, fresh vegetables, eggs, etc to low-income clients.<br>
-<br>We are looking for volunteers to pack food rations and distribute to clients at the centre.
+			 The aim of this initiative is to offer monthly distribution of food ration packs like dry rations, fresh vegetables, eggs etc to low-income residents.<br>
+<br>We are looking for volunteers to pack food rations and distribute them to residents at the centre.
 		</td>
 	</tr>
 </table>
@@ -97,7 +97,7 @@ b) Min. age: 16
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br> Fei Yue Family Service Centre (Champions Way)
+			<b>Jointly Organized with :</b><br> Fei Yue Family Service Centre (Champions Way)
 			&nbsp;
 		</td>
 	</tr>
