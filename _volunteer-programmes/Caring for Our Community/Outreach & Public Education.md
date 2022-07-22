@@ -83,7 +83,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>THK Home for Disabled @ Sembawang
+			<b>Jointly Organized with :</b><br>Thye Hua Kwan (THK) Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
