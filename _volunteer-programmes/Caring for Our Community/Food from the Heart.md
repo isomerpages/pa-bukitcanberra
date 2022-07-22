@@ -82,7 +82,7 @@ Blk 107A, #01-567, Canberra St, S751107
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-						   The objective is to help the underprivileged and less fortunate in Sembawang. The initiative is donor-driven with a mixture of food donations, cash donation as well as bread distribution to the needy. <br><br>We are looking for volunteers to scan collection and registration of residents, pack and distribute rations to resident.<br>
+						   The objective is to help the underprivileged and less fortunate in Sembawang. The initiative is donor-driven with a mixture of food donation, cash donation and bread distribution to the needy. <br><br>We are looking for volunteers to handle registration of residents, check food collections, pack and distribute rations to residents.<br>
 		</td>
 	</tr>
 </table>
