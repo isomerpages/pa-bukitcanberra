@@ -78,8 +78,8 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   THK Home for Disabled@Sembawang was established in April 2018 to provide long-term residential care for adults aged between 17 and 55 years old  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
-<br>We are looking for volunteers to accompany THK Home residents with intellectual disabilities for medical appointment via our in-house transport. Volunteers will assist to take down doctor’s instructions and medical collection before disseminating the info to the nursing team.
+			   THK Home for Disabled@Sembawang was established in April 2018 to provide long-term residential care for adults (aged between 17 and 55 years old)  diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
+<br>We are looking for volunteers to accompany THK Home residents with intellectual disabilities for medical appointments via our in-house transport. Volunteers will assist to take down doctor’s instructions, collect medicines, and to disseminate the info to the nursing team.
 		</td>
 	</tr>
 </table>
@@ -97,7 +97,7 @@ b) Min. age: 18
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organize with :</b><br>   Thye Hua Kwan Home (THK) for Disabled @ Sembawang
+			<b>Jointly Organized with :</b><br>   Thye Hua Kwan (THK) Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
