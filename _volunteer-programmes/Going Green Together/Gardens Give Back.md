@@ -43,7 +43,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						<b>(Pending info fr GCDO)</b>
+						<b>(Pending infor fr GCDO)</b>
 					</td>
 				</tr>
 				<tr>
