@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						To be confirmed
+						<b>(To be confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						To be confirmed
+						<b>(To be confirmed)</b>
 					</td>
 				</tr>
 				<tr>
