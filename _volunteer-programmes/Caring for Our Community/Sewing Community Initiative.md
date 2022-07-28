@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						To be confirmed
+						<b>(To be confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -67,7 +67,7 @@ third_nav_title: Caring for Our Community
 					<td  width="75%">
 						1)	Pop-up Event:<br>
 Tzu Chi Humanistic Youth Centre<br>
-   (30A Yishun Central 1, S768796)<br><br>2)	Sewing Interest Group @ Sembawang Family Service Centre<br>(Blk 326 Sembawang Crescent #01-52 S750326)
+   [30A Yishun Central 1, S768796)]<br><br>2)	Sewing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S750326]
 					</td>
 				</tr>
 			</table>
