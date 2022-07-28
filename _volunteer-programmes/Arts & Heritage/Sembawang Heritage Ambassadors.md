@@ -43,7 +43,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Pending info fr GCDO
+						<b>Pending info fr GCDO</b>
 					</td>
 				</tr>
 				<tr>
