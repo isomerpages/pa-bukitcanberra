@@ -87,7 +87,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Pending info from GCDO<br>b)	Min. age: No minimum age
+			a) <b>Pending info from GCDO</b><br>b)	Min. age: No minimum age
 		</td>
 	</tr>
 </table>
