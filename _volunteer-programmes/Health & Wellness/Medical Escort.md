@@ -43,7 +43,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						To be confirmed
+						<b>(To be confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -65,8 +65,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-					To be confirmed<br>
-7 Sembawang Walk, S756977
+						7 Sembawang Walk, S756977 <b>(To be confirmed)</b><br>
 					</td>
 				</tr>
 			</table>
