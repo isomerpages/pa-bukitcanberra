@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Virtua-Art-and-Crafts-Workshop-Instructors
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
 **Virtual Art & Crafts Workshop Instructors**
 
 <table border="0" width="100%">
@@ -44,7 +43,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Pending info fr GCDO
+						<b>Pending info fr GCDO</b>
 					</td>
 				</tr>
 				<tr>
