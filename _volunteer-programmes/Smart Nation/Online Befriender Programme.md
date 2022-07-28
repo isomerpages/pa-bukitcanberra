@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						To be confirmed
+						<b>(To be confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +65,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-Online/ Physical (7 Sembawang Walk, S756977)
+7 Sembawang Walk, S(756977) [For Physical Programme]
 					</td>
 				</tr>
 			</table>
