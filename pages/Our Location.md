@@ -38,7 +38,7 @@ description: ""
               <td width="10%">
                 <b>Email</b>
               </td>
-              <td width="5%">: (indicate SPARKS Tel No.)</td>
+              <td width="5%">: (indicate SPARKS Email Add)</td>
               <td width="85%">&nbsp;</td>
             </tr>
           </tbody>
