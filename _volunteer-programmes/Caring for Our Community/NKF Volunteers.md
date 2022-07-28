@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Pending information from GCDO
+						<b>(Pending infor from GCDO)</b>
 					</td>
 				</tr>
 				<tr>
@@ -56,7 +56,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Pending information from GCDO
+						<b>(Pending infor from GCDO)</b>
 					</td>
 				</tr>
 			</table>
