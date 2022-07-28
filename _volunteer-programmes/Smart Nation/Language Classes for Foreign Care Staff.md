@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Language-Classes-for-Foreign-Care-Staff
 description: ""
 third_nav_title: Smart Nation
 ---
-
 **Language Classes for Foreign Care Staff**
 
 <table border="0" width="100%">
@@ -44,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						   To be confirmed
+						<b>To be confirmed</b>
 					</td>
 				</tr>
 				<tr>
