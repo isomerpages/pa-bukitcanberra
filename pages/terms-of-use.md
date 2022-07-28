@@ -2,8 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-#### **[TO CHECK WITH PA ICT - ALBERT SUN]**
-
 
 
 ##### **About**
