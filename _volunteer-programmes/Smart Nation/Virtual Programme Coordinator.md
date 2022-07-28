@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						To be confirmed
+						<b>(To be confirmed)</b>
 					</td>
 				</tr>
 				<tr>
