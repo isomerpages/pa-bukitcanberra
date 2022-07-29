@@ -66,7 +66,7 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						Fei Yue Family Service Centre (Champions Way) – Multi Purpose Hall
-Blk 569A Champions Way, #01-326, S731569
+Blk 569A Champions Way, #01-326, S(731569)
 					</td>
 				</tr>
 			</table>
