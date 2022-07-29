@@ -66,7 +66,7 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						Sembawang West Zone G Residents’ Network
-Blk 756, Woodlands Ave 4, S730756
+Blk 756, Woodlands Ave 4, S(730756)
 					</td>
 				</tr>
 			</table>
