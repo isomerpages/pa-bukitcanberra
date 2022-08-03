@@ -78,7 +78,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Regular Physical Exercise is important to help seniors maintain their physical health, to enable them to age healthily, and lead fulfilling lives well into their old age.<br>
+			   Regular physical exercise is important to help seniors maintain their physical health, to enable them to age healthily, and lead fulfilling lives well into their old age.<br>
 <br>We are looking for volunteers to carry out virtual exercise and dance-exercise programmes for our seniors. Able to commit a minimum of 3 months.
 		</td>
 	</tr>
@@ -90,7 +90,7 @@ third_nav_title: Health & Wellness
 			<b>Requirements:</b><br>
 			a)    Design and propose an exercise programme (Zumba/Other types of exercises) suitable for both seniors who are ambulant, and seniors who are wheelchair-bound. <br>
 			b) To be comfortable working with seniors.
-<br>c)	Min age: 18
+<br>c)	Min Age: 18
  <br>
 		</td>
 	</tr>
