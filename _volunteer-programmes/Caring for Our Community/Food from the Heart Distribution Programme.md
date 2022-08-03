@@ -48,7 +48,7 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
@@ -65,7 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Fei Yue Family Service Centre (Champions Way) – Multi Purpose Hall
+						Fei Yue Family Service Centre (Champions Way) – Multi Purpose Hall,
 Blk 569A Champions Way, #01-326, S(731569)
 					</td>
 				</tr>
