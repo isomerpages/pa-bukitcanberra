@@ -55,7 +55,7 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td> Mon - Fri: 10am - 6pm <br> Sat &amp; Sun: 9am - 6pm <br> PH Closed <p></p>
+      <td> Daily : 10.00am - 6.00pm <br>Closed on Public Holidays </p>
       </td>
     </tr>
   </tbody>
