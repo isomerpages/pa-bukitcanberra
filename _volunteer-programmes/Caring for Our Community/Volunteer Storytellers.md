@@ -65,8 +65,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-1.	   Virtual over Zoom or Microsoft Teams
-<br>2.	Physical: 12 Yishun Avenue 5 S(768992)
+(a)   Virtual: Zoom or Microsoft Teams
+<br>(b)	Physical: 12 Yishun Avenue 5 S(768992)
 					</td>
 				</tr>
 			</table>
