@@ -72,12 +72,12 @@ third_nav_title: Caring for Our Community
 <br><b>1.	Helping out at the triage counter</b><br>
 •	Temperature-taking for patients, caregivers and visitors<br>
 •	Assist patients, caregivers and visitors with health declaration<br>
-•	Assist to check patients and caregivers’ ART results<br>
+•	Assist to check patients' and caregivers’ ART results<br>
 <br><b>2.	Providing logistical support:</b><br>
 •	Crowd control when patients queue for their dialysis session<br>
 •	Assist with patient card distribution<br>
 •	Assist patients to their dialysis chair<br> 
-•	Assist patients on wheelchair to designated public transport area and to escort them safely onto their vehicles home<br>
+•	Assist patients on wheelchairs to designated public transport area and to escort them safely onto their vehicles home<br>
 •	Assisting patients at the weighing scale counter pre and post dialysis sessions<br>
 •	Assisting patients with blood pressure measurements<br>
 <br><b>3.	Administrative/packing duties</b> e.g. simple paperwork, packing of ART kits for patients etc
