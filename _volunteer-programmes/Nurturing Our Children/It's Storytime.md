@@ -87,7 +87,7 @@ third_nav_title: Nurturing Our Children
 		<td>
 			<b>Requirements:</b><br>
 			a)    Able to read English/Malay story books.<br>b)	Training will be provided by National Library Board.<br>
-c)	Min. age: 15
+c)	Min. Age: 15
 		</td>
 	</tr>   
 </table>
@@ -96,7 +96,7 @@ c)	Min. age: 15
 	<tr>
 		<td>
 			<b>Jointly Organized with :</b><br>
-			   M3@Woodlands (A collaborative effort between Muis, MENGDAKI and MESRA)
+			   M3@Woodlands (A collaborative effort between MUIS, MENGDAKI and MESRA)
 			&nbsp;
 		</td>
 	</tr>
