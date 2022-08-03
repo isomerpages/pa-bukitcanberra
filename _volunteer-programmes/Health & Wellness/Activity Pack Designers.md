@@ -48,7 +48,7 @@ third_nav_title: Health & Wellness
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
@@ -65,7 +65,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						Physical: 12 Yishun Avenue 5 S(768992)
+						12 Yishun Avenue 5 S(768992)
 					</td>
 				</tr>
 			</table>
