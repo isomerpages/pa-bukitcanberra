@@ -91,7 +91,7 @@ Blk 478, #01-383, Sembawang Dr, S(750478)
 		<td>
 			<b>Requirements:</b><br>
 			a)    Training will be provided by Yishun Health.<br>
-b) Min. age : 15
+b) Min. Age: 15
 		</td>
 	</tr>
 </table>
