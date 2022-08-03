@@ -89,7 +89,7 @@ Blk 569A Champions Way, #01-326, S(731569)
 		<td>
 			<b>Requirements:</b><br>
 			a)    Training will be provided. <br>
-b) Min. age: 16
+b) Min. Age: 16
 		</td>
 	</tr>
 </table>
