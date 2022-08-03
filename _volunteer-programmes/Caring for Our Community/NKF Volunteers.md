@@ -77,9 +77,9 @@ third_nav_title: Caring for Our Community
 •	Crowd control when patients queue for their dialysis session<br>
 •	Assist with patient card distribution<br>
 •	Assist patients to their dialysis chair<br> 
-•	Assist patients on wheelchairs to designated public transport area and to escort them safely onto their vehicles home<br>
-•	Assisting patients at the weighing scale counter pre and post dialysis sessions<br>
-•	Assisting patients with blood pressure measurements<br>
+•	Assist patients on wheelchairs to designated public transport areas and escort them safely onto their vehicles<br>
+•	Assist patients at the weighing scale counter before and after their dialysis sessions<br>
+•	Assist patients with blood pressure measurements<br>
 <br><b>3.	Administrative/packing duties</b> e.g. simple paperwork, packing of ART kits for patients etc
 		</td>
 	</tr>
