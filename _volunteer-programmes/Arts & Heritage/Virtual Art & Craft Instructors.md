@@ -78,8 +78,8 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Art and Craft workshops allows seniors to practice their hand eye coordination skills. The workshops also bring colours to the seniors’ lives by keeping them engaged and by dispelling feelings of loneliness.<br>
-<br>We are looking for Art and crafts instructors (e.g. Zentangle , Simple Painting) to design and conduct Art and Craft workshops for our seniors.
+			   Art and Craft workshops provide seniors with an opportunity to practice their hand-eye coordination skills. The workshops also bring colours to the seniors’ lives by keeping them engaged and by dispelling feelings of loneliness.<br>
+<br>We are looking for Art and Craft instructors (e.g. Zentangle , Simple Painting) to design and conduct Art and Craft workshops for our seniors.
 		</td>
 	</tr>
 </table>
