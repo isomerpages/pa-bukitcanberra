@@ -87,7 +87,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Interested in gardening<br>b)	Min. age: 18
+			a)    Interested in gardening<br>b)	Min. Age: 18
 		</td>
 	</tr>
 </tbody></table>
