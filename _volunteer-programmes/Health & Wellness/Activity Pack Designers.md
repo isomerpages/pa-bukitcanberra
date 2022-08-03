@@ -79,7 +79,7 @@ third_nav_title: Health & Wellness
 			<b>Programme Description:</b><br>
 			Activities like "word search", "sudoku" and "spot-the-difference" help the seniors keep their brains active and prevent cognitive decline.
 			<br>
-<br>We are looking for volunteers to design activity packs containing activities like "word search", "spot-the-difference", simple "sudoku", "join- the-dots" and "colouring-sheets" for the seniors.
+<br>We are looking for volunteers to design activity packs containing "word search", "spot-the-difference", simple "sudoku", "join- the-dots" and colouring sheets, etc for the seniors.
 		</td>
 	</tr>
 </table>
