@@ -48,7 +48,7 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
@@ -88,7 +88,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements:</b><br>
 			a)    Training will be provided. <br>
-b) Min. age : No minimum age
+b) Min. Age : No minimum age
 		</td>
 	</tr>
 </table>
