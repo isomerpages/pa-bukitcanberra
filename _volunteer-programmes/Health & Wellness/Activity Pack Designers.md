@@ -88,9 +88,9 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Experience in designing activities. 
+			a)    Have some experience in designing activities. 
 <br>b)	To be comfortable working with seniors.
-<br>c)	Min age: 18
+<br>c)	Min. Age: 18
 		</td>
 	</tr>
 </table>
