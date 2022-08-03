@@ -79,7 +79,7 @@ third_nav_title: Nurturing Our Children
 		<td>
 			<b>Programme Description:</b><br>
 			   Our committed and experienced volunteer tutors have been providing free tuition to students especially those from less fortunate families. <br> 
-			<br>We are looking for compassionate volunteers to join our tutoring passion. More tutors means that more students can be given a chance to learn and grow like the more fortunate students. Thus, by giving tuition, you are actually giving back to the community.
+			<br>We are looking for compassionate volunteers to join our tutoring passion. With more tutors, more students can be given a chance to learn and grow like the more fortunate students. Thus, by giving tuition, you are actually giving back to the community.
 		</td>
 	</tr>
 </table>
@@ -88,8 +88,8 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with current MOE syllabus for primary levels English, Maths & Science. <br>
-b) Min age: 17
+			a) Familiar with current MOE syllabus for English, Maths & Science (Primary Levels) <br>
+b) Min Age: 17
 		</td>
 	</tr>
 </table>
