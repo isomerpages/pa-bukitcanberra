@@ -33,8 +33,8 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 					2 hours per session, <br>
-						1. Every first to fourth Wednesday – Sembawang Central Zone B RN<br>
-<br>2. Every first to fourth Thursday – East Canberra Zone 1 RN
+						(a) Every first to fourth Wednesday – Sembawang Central Zone B RN<br>
+<br>(b) Every first to fourth Thursday – East Canberra Zone 1 RN
 					</td>
 				</tr>
 				<tr>
@@ -50,7 +50,7 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
