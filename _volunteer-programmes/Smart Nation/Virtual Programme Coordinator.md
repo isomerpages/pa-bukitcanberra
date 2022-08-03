@@ -78,7 +78,7 @@ third_nav_title: Smart Nation
 		<td>
 			<b>Programme Description:</b><br>
 THK Home for Disabled@Sembawang was established in April 2018 to provide long-term residential care for adults (aged between 17 and 55 years old) diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other  co-morbidities.<br>
-<br>We are looking for volunteers to conduct recreational programmes for the residents at THK Home. For example, virtual tours to introduce residents to different places of interest/ culture in Singapore, or conduct dance and movement lessons, or engage them in art & crafts sessions.
+<br>We are looking for volunteers to conduct recreational programmes for the residents at THK Home. For example, virtual tours to introduce residents to different places of interest in Singapore, or conduct dance and movement lessons, or engage them in art & craft sessions.
 		</td>
 	</tr>
 </table>
