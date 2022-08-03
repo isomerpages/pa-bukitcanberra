@@ -48,7 +48,7 @@ third_nav_title: Arts & Heritage
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
