@@ -78,7 +78,7 @@ Blk 756, Woodlands Ave 4, S(730756)
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Sembawang West Zone G Residents’ Network is working towards engaging the elderly and they are pairing activities/programmes for  the elderly, and matching their needs based on the assessment conducted during the house visits. <br>
+			   Sembawang West Zone G Residents’ Network is working towards engaging the elderly, matching them with relevant activities/programmes; and assessing their needs (during house visits) so that their needs could be met. <br>
 			<br>We are looking for befrienders to visit and engage the vulnerable seniors, especially those residing alone, and to check on their well-being regularly.
 		</td>
 	</tr>
