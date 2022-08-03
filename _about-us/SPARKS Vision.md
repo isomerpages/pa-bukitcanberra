@@ -4,7 +4,7 @@ permalink: /vision
 description: ""
 ---
 <b>**About SPARKS@Bukit Canberra**</b><br>
-SPARKS@Bukit Canberra is a one-stop centre for residents, local community partners, corporate partners/SMEs to come together to do good for the community.  Residents can either volunteer with existing list of programmes such as elderly befriending, animal welfare, protect the green environment, children literacy, if you wish, you may even spark off new innovative ideas.  SPARKS@Bukit Canberra aims to promote community volunteerism among like-minded residents to discover and ignite the kampong spirt in our community.
+SPARKS@Bukit Canberra is a one-stop centre for residents, local community partners, corporate partners/SMEs to come together to do good for the community.  Residents may volunteer with the existing list of programmes such as elderly befriending, animal welfare, protect the green environment and children literacy. Residents may also spark off new innovative ideas.  SPARKS@Bukit Canberra aims to promote community volunteerism among like-minded residents to discover and ignite the kampong spirt in our community.
 
 
 <b>**Our belief – 2:168**</b><br>
