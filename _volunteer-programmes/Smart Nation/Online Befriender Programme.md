@@ -88,7 +88,7 @@ THK Home for Disabled@Sembawang was established in April 2018 to provide long-te
 		<td>
 			<b>Requirements:</b><br>
 			a)    Training will be provided. <br>
-b) Min. age: 13
+b) Min. Age: 13
 		</td>
 	</tr>
 </table>
