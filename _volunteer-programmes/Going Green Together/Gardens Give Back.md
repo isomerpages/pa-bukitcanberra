@@ -77,7 +77,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Gardens around the estates beautify the environment and allow residents with a common interest to have a platform to share gardening skills and bond with one another. Through Gardening, we also help the needy families in the estates by pledging our harvest back to the community. Gardening also improves the well being of the residents as the vegetables harvested are organic and fresh.<br>
+			   Gardens around the estates beautify the environment. They also provide residents (interested in gardening) with a platform to share gardening skills and bond with one another. In addition,  we help the needy families by pledging our harvest back to the community. Gardening also improves the well-being of the residents as the vegetables harvested are organic and fresh.<br>
 <br>We are looking for volunteers to set up more gardening plots in the estates. We will also be working with schools and stakeholders regarding the setting up of community gardens.
 		</td>
 	</tr>
