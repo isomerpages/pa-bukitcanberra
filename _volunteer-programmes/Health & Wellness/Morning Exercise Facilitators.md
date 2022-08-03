@@ -48,7 +48,7 @@ third_nav_title: Health & Wellness
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
@@ -77,8 +77,8 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Morning exercise has been linked to many benefits like better muscle strength, muscle endurance, better blood pressure management, blood glucose management and stress relief.<br> 
-<br>We are looking for volunteers to facilitate morning exercise.
+			Morning exercise has been linked to many benefits like better muscle strength and muscle endurance, better blood pressure and blood glucose management, and stress relief.<br> 
+<br>We are looking for volunteers to facilitate morning exercises.
 		</td>
 	</tr>
 </table>
@@ -88,7 +88,7 @@ third_nav_title: Health & Wellness
 		<td>
 			<b>Requirements:</b><br>
 			a) Physically fit, able to engage and demonstrate the exercises to residents.
-<br>c)	Min age: 18
+<br>c)	Min. Age: 18
 		</td>
 	</tr>
 </table>
