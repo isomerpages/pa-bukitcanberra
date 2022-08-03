@@ -48,7 +48,7 @@ third_nav_title: Health & Wellness
 				</tr>
 				<tr>
 					<td width="20%">
-						No. of Opening
+						No. of Openings
 					</td>
 					<td width="5%">
 						:
@@ -65,8 +65,8 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						1.	   Virtual over Zoom or Microsoft Teams
-<br>2.	Physical: 12 Yishun Avenue 5 S(768992)
+						(a)	   Virtual: Zoom or Microsoft Teams
+<br>(b)	Physical: 12 Yishun Avenue 5 S(768992)
 					</td>
 				</tr>
 			</table>
