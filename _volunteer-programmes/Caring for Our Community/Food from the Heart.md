@@ -92,7 +92,7 @@ Blk 107A, #01-567, Canberra St, S(751107)
 		<td>
 			<b>Requirements:</b><br>
 			a) Assist in simple administrative work, packing and distributing rations.<br>
-b) Min. age: 16
+b) Min. Age: 16
 		</td>
 	</tr>
 </table>
