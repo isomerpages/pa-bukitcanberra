@@ -48,7 +48,7 @@ third_nav_title: Arts & Heritage
 				</tr>
 				<tr>
 					<td width="20%">
-					No. of Opening
+					No. of Openings
 					</td>
 					<td width="5%">
 						:
@@ -78,7 +78,7 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Programme Description:</b><br>
 			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history and social memories of various places in Singapore.<br>
-<br>We hope to recruit volunteers who can help to assist in organizing regular heritage tours in order to create awareness for the Sembawang Heritage Trail for the residents, schools and community partners. Training will be conducted for the heritage guides. 
+<br>We hope to recruit volunteers who can assist in organizing regular heritage tours to increase awareness for Sembawang Heritage Trail among the residents, schools and community partners. Training will be conducted for the heritage guides. 
 		</td>
 	</tr>
 </table>
@@ -88,7 +88,7 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Requirements:</b><br>
 			a)    Able to communicate in English and walk for 2 hours at a time.<br>
-			b) Min.age : 15
+			b) Min.Age: 15
 		</td>
 	</tr>
 </table>
