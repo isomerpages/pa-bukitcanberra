@@ -79,7 +79,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Programme Description:</b><br>
 			Storytelling brings stories to life. It also brings the listeners on an interesting journey alongside the storyteller.<br>     
-<br>We are looking for volunteers to curate stories and to tell stories to our seniors to keep them company. 
+<br>We are looking for volunteers to curate stories and tell stories to our seniors. 
 		</td>
 	</tr>
 </table>
@@ -90,7 +90,7 @@ third_nav_title: Caring for Our Community
 			<b>Requirements:</b><br>
 			a) Interested in storytelling. 
 <br>b)	   To be comfortable working with seniors.
-<br>c)	Min age: 18
+<br>c)	Min Age: 18
 		</td>
 	</tr>
 </table>
