@@ -90,7 +90,7 @@ third_nav_title: Caring for Our Community
 			<b>Requirements:</b><br>
 			a) Interested in storytelling. 
 <br>b)	   To be comfortable working with seniors.
-<br>c)	Min Age: 18
+<br>c)	Min. Age: 18
 		</td>
 	</tr>
 </table>
