@@ -16,7 +16,4 @@ permalink: /privacy/
 <li>To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.</li>
  
 <li>This digital service  may contain links to non-Government digital services  whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services  and encourage you to consult the privacy notices of those digital services.
-	</li>
-
-	</ol>
-	
+	</li>	</ol>
