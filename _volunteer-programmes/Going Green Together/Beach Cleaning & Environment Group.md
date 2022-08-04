@@ -87,7 +87,7 @@ third_nav_title: Going Green Together
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Able to engage and guide residents<br>
+			a)    Able to engage and guide residents.<br>
 b) Min. Age: 15
 		</td>
 	</tr>
