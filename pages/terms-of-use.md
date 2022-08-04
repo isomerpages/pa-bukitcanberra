@@ -40,6 +40,7 @@ PA shall also not be liable for any damage or loss of any kind caused as a resul
 This Website contains hyperlinks to websites which are not maintained by PA. PA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those Websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
 Links from this Website to other Websites
+
 PA reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without ascribing any reasons whatsoever.
 
 Hyperlinks to other Websites are provided as a convenience. In no circumstances shall PA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Website is linked.
