@@ -8,13 +8,13 @@ Thank you for visiting the PA Website. By accessing and using this website, you 
 
 ##### **General**
 
-SPARKS reserves the right to make changes to these Terms of Use from time to time at its sole discretion. If any of these terms shall be deemed invalid, void, or for any reason unenforceable, that term shall be deemed severable and shall not affect the validity and enforceability of any remaining term. Changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
 ##### **Proprietary Rights**
 
 This Website is maintained by the People’s Association (PA).
 
-All the materials located in this Website including but not limited to all information and software programs (collectively, the "contents"), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PA.
+The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PA.
 
 ##### **Privacy Policy**
 
@@ -22,9 +22,9 @@ All the materials located in this Website including but not limited to all infor
 
 ##### **Restrictions on use of Materials**
 
-Except as otherwise provided, no part(s) of this Website shall be reproduced, republished, uploaded, posted, transmitted, adapted, modified, displayed, broadcast, hyperlinked, framed or otherwise distributed in any way, or stored in an information retrieval system, without the prior written permission of PA.
+Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PA.sion of PA.
 
-Modification of any of the Contents or use of the Contents for any other purpose will be a violation of PA\\'s copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of PA.
+Modification of any of the Contents or use of the Contents for any other purpose will be a violation of PA's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of PA.
 
 ##### **Disclaimer of Warranties and Liability**
 
