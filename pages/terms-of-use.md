@@ -59,5 +59,7 @@ PA reserves all rights to disable any links to, or frames of any site containing
 
 PA reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Website or any of the contents.
 
-Governing Law
+##### **Governing Law**
+
+
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
