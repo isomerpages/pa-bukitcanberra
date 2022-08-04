@@ -88,7 +88,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Familiar with current MOE syllabus for English, Maths & Science (Primary Levels) <br>
+			a) Familiar with current MOE syllabus for English, Maths & Science (Primary Levels). <br>
 b) Min. Age: 17
 		</td>
 	</tr>
