@@ -87,7 +87,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Volunteers to ensure they have their personal laptop/devices, a working video camera including microphone<br>b)	Min. Age: No minimum age
+			a) Volunteers to ensure they have their personal laptop/devices, a working video camera including microphone<br>b)	Min. Age: No minimum age.
 		</td>
 	</tr>
 </table>
