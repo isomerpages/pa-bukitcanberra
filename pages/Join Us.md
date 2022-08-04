@@ -11,7 +11,7 @@ You can either contact us at tel. no. ________ **(pls indicate Sparks tel number
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/qrcode.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sparks%20Volunteer%20Recruitment%20Form%20(Don).png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
