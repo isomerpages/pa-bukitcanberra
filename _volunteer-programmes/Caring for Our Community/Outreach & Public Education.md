@@ -75,7 +75,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Volunteers with marketing background will be an advantage <br>
+			a) Volunteers with marketing background will be an advantage. <br>
 		</td>
 	</tr>
 </table>
