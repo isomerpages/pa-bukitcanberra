@@ -2,11 +2,9 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-
-
 ##### **About**
 
-Thank you for visiting the SPARKS website. By accessing and using this SPARKS website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
+Thank you for visiting the PA Website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
 ##### **General**
 
