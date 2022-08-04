@@ -2,7 +2,6 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-###Government of Singapore Privacy Statement###
 <ol>
 	<li>This is a Government Agency digital service. We adopt the same principles relating to your privacy as other Government of Singapore digital services.</li>
 <li>If you are only browsing this digital service, we do not capture data that allows us to identify you individually.</li>
