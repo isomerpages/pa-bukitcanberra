@@ -93,8 +93,8 @@ Tzu Chi Humanistic Youth Centre<br>
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Interested or experienced in sewing<br>
-b) Training will be provided<br>
+			a) Interested or experienced in sewing.<br>
+b) Training will be provided.<br>
 			c) Min. Age: 18
 		</td>
 	</tr>
