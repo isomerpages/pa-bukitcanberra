@@ -65,7 +65,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						12 Yishun Avenue 5 S(768992)
+						12, Yishun Avenue 5, S(768992)
 					</td>
 				</tr>
 			</table>
