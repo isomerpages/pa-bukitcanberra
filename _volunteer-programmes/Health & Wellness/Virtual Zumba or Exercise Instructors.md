@@ -66,7 +66,7 @@ third_nav_title: Health & Wellness
 					</td>
 					<td  width="75%">
 						(a)	   Virtual: Zoom or Microsoft Teams
-<br>(b)	Physical: 12 Yishun Avenue 5 S(768992)
+<br>(b)	Physical: 12, Yishun Avenue 5, S(768992)
 					</td>
 				</tr>
 			</table>
