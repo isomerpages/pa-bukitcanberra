@@ -65,7 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						12 Yishun Avenue 5 S(768992)
+						12, Yishun Avenue 5, S(768992)
 					</td>
 				</tr>
 			</table>
@@ -86,7 +86,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)	Physically fit to travel to nearby food outlets (e.g. Chong Pang Market) to purchase food during lunch time
+			a)	Physically fit to travel to nearby food outlets (e.g. Chong Pang Market) to purchase food during lunch time.
 <br>b)	Min. Age: 18
 		</td>
 	</tr>
