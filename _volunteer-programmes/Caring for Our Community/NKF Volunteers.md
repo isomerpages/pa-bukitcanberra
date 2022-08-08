@@ -43,9 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						i) 6.30am to 8.00am<br>
-            ii) 11.00am to 1.30pm<br>
-            iii) 4.00pm to 6.00pm<br>
+						<b>(Pending infor from GCDO)</b><br>
 					</td>
 				</tr>
 				<tr>
@@ -56,7 +54,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						<b>(Pending infor from GCDO)</b>
+						The Hour Glass-NKF Dialysis Centre (Admiralty Branch) Blk 761 Woodlands Ave 6, #01-108 S(730761)
 					</td>
 				</tr>
 			</table>
