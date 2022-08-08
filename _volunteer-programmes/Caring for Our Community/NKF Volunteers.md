@@ -26,7 +26,7 @@ third_nav_title: Caring for Our Community
 				</tr>
 				<tr>
 					<td width="20%">
-						Date
+						Commitment
 					</td>
 					<td width="5%">
 						:
