@@ -81,9 +81,9 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			a) Attend a compulsory 1-day in-person training on either a Thursday or Saturday.<br>
-b)	Commit to at least 2 months and be able to perform at least 8 shifts (can choose to perform one or multiple shifts on the same day).<br>c)	Maximum of 2 volunteers to be assigned for each shift. Registration is on first come, first served basis.
-<br>d)	3 shifts to choose from: <br>i) 6.30am to 8.00am <br>ii) 11.00am to 1.30pm <br>iii) 4.00pm to 6.00pm. <br>Volunteers are welcome to sign up for multiple shifts on the same day. 
+			a) Brefriending Sessions in Dialysis Centres 
+			Individuals must be at least 16 years old and be fully vaccinated.<br>        <br>·       Students, regardless of age, are welcome to participate in this activity as school volunteers.<br><br>
+b)	Dialysis Centre Volunteer <br>16 years old and be fully vaccinated. 
 		</td>
 	</tr>
 </table>
