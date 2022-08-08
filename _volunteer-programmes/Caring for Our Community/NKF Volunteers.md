@@ -67,12 +67,12 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Programme Description:</b><br>
 			NKF offers a myriad of volunteering opportunities for volunteers to contribute.<br><br>They can give back to the community in the following areas:<br>
-<br><b>       
-(a) Befriending Sessions in Dialysis Centres</b><br>
+<br>
+			<b>(a) Befriending Sessions in Dialysis Centres</b><br>
 Kidney failure patients have to undergo four-hour dialysis treatments thrice weekly.<br>
 			<br>Volunteers can help lighten their burden of treatment by befriending them in the dialysis centre while they are undergoing dialysis. Bring warmth to kidney failure patients and help brighten their days now!<br>
 <br><b>(b) Dialysis Centre Volunteer </b><br>
-         To ensure our patient continue to receive uninterrupted dialysis in a  safe environment, our frontline healthcare workers have to step up even  further to ensure the safety of our patients. <br><br>We are looking for volunteers to stand at the frontline alongside our nurses to safeguard our patients' well-being. Your role would include logistical support such as crowd control, patient card distribution, assist patient at weighing scale, etc.<br><br><b>
+         To ensure our patient continue to receive uninterrupted dialysis in a  safe environment, our frontline healthcare workers have to step up even  further to ensure the safety of our patients. <br><br>We are looking for volunteers to stand at the frontline alongside our nurses to safeguard our patients' well-being. Your role would include logistical support such as crowd control, patient card distribution, assist patient at weighing scale, etc.<br>
 		</td>
 	</tr>
 </table>
@@ -81,8 +81,8 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			<b>a) Brefriending Sessions in Dialysis Centres</b><br>Individuals must be at least 16 years old and be fully vaccinated.<br><br>·       Students, regardless of age, are welcome to participate in this activity as school volunteers.<br><br>
-			<b>b)	Dialysis Centre Volunteer</b><br>16 years old and be fully vaccinated. 
+			<b>a) Brefriending Sessions in Dialysis Centres</b><br>• Individuals must be at least 16 years old and be fully vaccinated.<br><br>• Students, regardless of age, are welcome to participate in this activity as school volunteers.<br><br>
+			<b>b)	Dialysis Centre Volunteer</b><br>• 16 years old and be fully vaccinated. 
 		</td>
 	</tr>
 </table>
