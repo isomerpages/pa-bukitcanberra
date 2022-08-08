@@ -72,8 +72,7 @@ third_nav_title: Caring for Our Community
 Kidney failure patients have to undergo four-hour dialysis treatments thrice weekly.<br>
 			<br>Volunteers can help lighten their burden of treatment by befriending them in the dialysis centre while they are undergoing dialysis. Bring warmth to kidney failure patients and help brighten their days now!<br>
 <br><b>(b) Dialysis Centre Volunteer </b><br>
-         To ensure our patient continue to receive uninterrupted  surements<br>
-<br><b>3.	Administrative/packing duties</b> e.g. simple paperwork, packing of ART kits for patients etc
+         To ensure our patient continue to receive uninterrupted dialysis in a  safe environment, our frontline healthcare workers have to step up even  further to ensure the safety of our patients. <br><br>We are looking for volunteers to stand at the frontline alongside our nurses to safeguard our patients' well-being. Your role would include logistical support such as crowd control, patient card distribution, assist patient at weighing scale, etc.<br><br><b>
 		</td>
 	</tr>
 </table>
