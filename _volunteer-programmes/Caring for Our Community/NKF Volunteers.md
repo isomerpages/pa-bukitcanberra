@@ -81,7 +81,7 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 	<tr>
 		<td>
 			<b>Requirements:</b><br>
-			<b>a) Brefriending Sessions in Dialysis Centres</b><br>• Individuals must be at least 16 years old and be fully vaccinated.<br><br>• Students, regardless of age, are welcome to participate in this activity as school volunteers.<br><br>
+			<b>a) Brefriending Sessions in Dialysis Centres</b><br>• Individuals must be at least 16 years old and be fully vaccinated.<br>• Students, regardless of age, are welcome to participate in this activity as school volunteers.<br><br>
 			<b>b)	Dialysis Centre Volunteer</b><br>• 16 years old and be fully vaccinated. 
 		</td>
 	</tr>
