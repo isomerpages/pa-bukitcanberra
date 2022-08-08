@@ -71,13 +71,8 @@ third_nav_title: Caring for Our Community
 (a) Befriending Sessions in Dialysis Centres</b><br>
 Kidney failure patients have to undergo four-hour dialysis treatments thrice weekly.<br>
 			<br>Volunteers can help lighten their burden of treatment by befriending them in the dialysis centre while they are undergoing dialysis. Bring warmth to kidney failure patients and help brighten their days now!<br>
-<br><b>2.	Providing logistical support:</b><br>
-•	Crowd control when patients queue for their dialysis session<br>
-•	Assist with patient card distribution<br>
-•	Assist patients to their dialysis chair<br> 
-•	Assist patients on wheelchairs to designated public transport areas and escort them safely onto their vehicles<br>
-•	Assist patients at the weighing scale counter before and after their dialysis sessions<br>
-•	Assist patients with blood pressure measurements<br>
+<br><b>(b) Dialysis Centre Volunteer </b><br>
+         To ensure our patient continue to receive uninterrupted  surements<br>
 <br><b>3.	Administrative/packing duties</b> e.g. simple paperwork, packing of ART kits for patients etc
 		</td>
 	</tr>
