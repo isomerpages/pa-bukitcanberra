@@ -69,9 +69,8 @@ third_nav_title: Caring for Our Community
 			NKF offers a myriad of volunteering opportunities for volunteers to contribute.<br><br>They can give back to the community in the following areas:<br>
 <br><b>       
 (a) Befriending Sessions in Dialysis Centres</b><br>
-Kidney failure patients have to undergo four-hour dialysis treatments thrice weekly.
-
-Volunteers can help lighten their burden of treatment by befriending them in the dialysis centre while they are undergoing dialysis. Bring warmth to kidney failure patients and help brighten their days now!<br>
+Kidney failure patients have to undergo four-hour dialysis treatments thrice weekly.<br>
+			<br>Volunteers can help lighten their burden of treatment by befriending them in the dialysis centre while they are undergoing dialysis. Bring warmth to kidney failure patients and help brighten their days now!<br>
 <br><b>2.	Providing logistical support:</b><br>
 •	Crowd control when patients queue for their dialysis session<br>
 •	Assist with patient card distribution<br>
