@@ -55,7 +55,7 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td> Daily : 10.00am - 6.00pm <br>Closed on Public Holidays </p>
+      <td> Daily : 10.00am - 6.00pm <br>Closed on Public Holidays 
       </td>
     </tr>
   </tbody>
