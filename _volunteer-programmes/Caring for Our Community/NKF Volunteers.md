@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						<b>(Pending infor from GCDO)</b>
+						<b>To Be Confirmed</b>
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						<b>(Pending infor from GCDO)</b><br>
+						<b>To Be Confirmed</b><br>
 					</td>
 				</tr>
 				<tr>
