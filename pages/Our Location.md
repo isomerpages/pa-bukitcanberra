@@ -61,7 +61,7 @@ description: ""
       </td>
     </tr>
     <tr>
-      <td> Bus no.: <br> Nearest MRT: Sembawang </td>
+      <td> Bus no.: 167, 856, 858, 858A, 980, 117, 117M, 883, 883M <br> Nearest MRT: Sembawang </td>
     </tr>
   </tbody>
 </table>
