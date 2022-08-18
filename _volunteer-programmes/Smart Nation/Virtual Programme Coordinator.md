@@ -65,7 +65,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td  width="75%">
-						7 Sembawang Walk, S(756977) <b>[To be confirmed]</b>
+						7 Sembawang Walk, S(756977) <b>[To Be Confirmed]</b>
 					</td>
 				</tr>
 			</table>
