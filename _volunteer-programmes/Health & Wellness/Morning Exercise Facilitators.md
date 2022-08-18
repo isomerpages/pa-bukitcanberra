@@ -43,7 +43,7 @@ third_nav_title: Health & Wellness
 						:
 					</td>
 					<td  width="75%">
-						<b>(Pending info fr GCDO)</b>
+						<b>To Be Confirmed</b>
 					</td>
 				</tr>
 				<tr>
