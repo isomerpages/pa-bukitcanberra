@@ -45,7 +45,7 @@ Volunteers
 						:
 					</td>
 					<td  width="75%">
-						<b>(Pending infor fr GCDO)</b>
+						To Be Confirmed
 					</td>
 				</tr>
 				<tr>
