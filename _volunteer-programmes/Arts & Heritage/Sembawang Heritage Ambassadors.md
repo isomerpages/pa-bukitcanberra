@@ -43,7 +43,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						<b>(Pending infor fr GCDO)</b>
+						To Be Confirmed</b>
 					</td>
 				</tr>
 				<tr>
