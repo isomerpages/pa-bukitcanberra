@@ -43,7 +43,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						To Be Confirmed
+						<b>To Be Confirmed</b>
 					</td>
 				</tr>
 				<tr>
