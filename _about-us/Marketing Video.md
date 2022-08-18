@@ -3,4 +3,4 @@ title: Marketing Video
 permalink: /about-us/Marketing-Video
 description: ""
 ---
-**Pending Marketing Video Production**
+**Coming Soon! Do look out for our video!**
