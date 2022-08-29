@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@abc.gov.sg
+      - email: sparks@pa.gov.sg
       - other: ""
     title: "General Enquiries "
 ---
