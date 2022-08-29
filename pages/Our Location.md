@@ -28,7 +28,7 @@ description: ""
         <table border="0" width="100%">
           <tbody>
             <tr>
-              <td width="10%">
+              <td width="5%">
                 <b>Email</b>
               </td>
               <td width="100%">: &nbsp;sparks@pa.gov.sg</td>
