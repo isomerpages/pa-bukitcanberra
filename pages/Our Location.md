@@ -31,7 +31,7 @@ description: ""
               <td width="10%">
                 <b>Email</b>
               </td>
-              <td width="5%">: sparks@pa.gov.sg</td>
+              <td width="100%">: sparks@pa.gov.sg</td>
               <td width="85%">&nbsp;</td>
             </tr>
           </tbody>
