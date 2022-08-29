@@ -28,10 +28,10 @@ description: ""
         <table border="0" width="100%">
           <tbody>
             <tr>
-              <td width="5%">
+              <td width="10%">
                 <b>Email</b>
               </td>
-              <td width="2%">: sparks@pa.gov.sg</td>
+              <td width="5%">: sparks@pa.gov.sg</td>
               <td width="85%">&nbsp;</td>
             </tr>
           </tbody>
