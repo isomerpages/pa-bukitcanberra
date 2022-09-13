@@ -1,6 +1,6 @@
 ---
 title: Virtual Art & Craft Instructors
-permalink: /volunteer-programmes/Virtua-Art-and-Craft-Instructors
+permalink: /volunteer-programmes/Virtua-Art-and-Craft-Instructors/
 description: ""
 third_nav_title: Arts & Heritage
 ---
@@ -21,7 +21,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Virtual Arts & Craft Instructors
+						Virtual Art & Craft Instructors
 					</td>
 				</tr>
 				<tr>
