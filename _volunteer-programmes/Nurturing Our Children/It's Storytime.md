@@ -1,6 +1,6 @@
 ---
 title: It's Storytime
-permalink: /volunteer-programmes/it-is-storytime
+permalink: /volunteer-programmes/it-is-storytime/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
@@ -96,7 +96,7 @@ c)	Min. Age: 15
 	<tr>
 		<td>
 			<b>Jointly Organized with :</b><br>
-			   M3@Woodlands (A collaborative effort between MUIS, MENGDAKI and MESRA)
+			   M3@Woodlands (A collaborative effort between MUIS, MENDAKI and MESRA)
 			&nbsp;
 		</td>
 	</tr>
