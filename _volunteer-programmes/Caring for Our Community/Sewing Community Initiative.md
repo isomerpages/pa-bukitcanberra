@@ -1,6 +1,6 @@
 ---
 title: Sewing Community Initiative
-permalink: /volunteer-programmes/Sewing-Community-Initiative
+permalink: /volunteer-programmes/Sewing-Community-Initiative/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -113,7 +113,7 @@ b) Training will be provided.<br>
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/zkzcq8)<br>
 		</td>
 	</tr>
 </table>
