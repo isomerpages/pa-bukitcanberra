@@ -1,6 +1,6 @@
 ---
 title: Activity Pack Designers
-permalink: /volunteer-programmes/Activity-Pack-Designers
+permalink: /volunteer-programmes/Activity-Pack-Designers/
 description: ""
 third_nav_title: Health & Wellness
 ---
@@ -108,7 +108,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/yhe55y)<br>
 		</td>
 	</tr>
 </table>
