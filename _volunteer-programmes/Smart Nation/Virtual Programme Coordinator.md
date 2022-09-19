@@ -1,6 +1,6 @@
 ---
 title: Virtual Programme Coordinator
-permalink: /volunteer-programmes/Virtual-Programme-Coordinator
+permalink: /volunteer-programmes/Virtual-Programme-Coordinator/
 description: ""
 third_nav_title: Smart Nation
 ---
@@ -105,7 +105,7 @@ THK Home for Disabled@Sembawang was established in April 2018 to provide long-te
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/3l0s1f)<br>
 		</td>
 	</tr>
 </table>
