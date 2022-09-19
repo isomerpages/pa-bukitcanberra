@@ -1,6 +1,6 @@
 ---
 title: Online Befriender Programme
-permalink: /volunteer-programmes/Online-Befriender-Programme
+permalink: /volunteer-programmes/Online-Befriender-Programme/
 description: ""
 third_nav_title: Smart Nation
 ---
@@ -106,7 +106,7 @@ b) Min. Age: 13
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/kjf9rb)<br>
 		</td>
 	</tr>
 </table>
