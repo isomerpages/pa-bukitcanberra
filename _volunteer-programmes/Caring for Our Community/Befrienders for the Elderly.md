@@ -1,6 +1,6 @@
 ---
 title: Befrienders for the Elderly
-permalink: /volunteer-programmes/Befrienders-for-the-Elderly
+permalink: /volunteer-programmes/Befrienders-for-the-Elderly/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -109,7 +109,7 @@ b) Min. Age: 15
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form(https://go.gov.sg/bd06qi)<br>
 		</td>
 	</tr>
 </table>
