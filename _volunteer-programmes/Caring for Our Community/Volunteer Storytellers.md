@@ -1,6 +1,6 @@
 ---
 title: Volunteer Storytellers
-permalink: /volunteer-programmes/Volunteer-Storytellers
+permalink: /volunteer-programmes/Volunteer-Storytellers/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -108,7 +108,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/vbw5hb)<br>
 		</td>
 	</tr>
 </table>
