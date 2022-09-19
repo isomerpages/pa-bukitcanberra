@@ -1,6 +1,6 @@
 ---
 title: Sembawang Heritage Ambassadors
-permalink: /volunteer-programmes/Sembawang-Heritage-Ambassadors
+permalink: /volunteer-programmes/Sembawang-Heritage-Ambassadors/
 description: ""
 third_nav_title: Arts & Heritage
 ---
@@ -107,7 +107,7 @@ Canberra Grassroots Organisations
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/jd46s0)<br>
 		</td>
 	</tr>
 </table>
