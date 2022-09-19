@@ -1,6 +1,6 @@
 ---
 title: Befriender Programme
-permalink: /volunteer-programmes/Befriender-Programme
+permalink: /volunteer-programmes/Befriender-Programme/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -107,7 +107,7 @@ Blk 756, Woodlands Ave 4, S(730756)
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/qbg1ll)<br>
 		</td>
 	</tr>
 </table>
