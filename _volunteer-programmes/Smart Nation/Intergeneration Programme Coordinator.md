@@ -1,6 +1,6 @@
 ---
 title: Intergeneration Programme Coordinator
-permalink: /volunteer-programmes/Intergeneration-Programme-Coordinator
+permalink: /volunteer-programmes/Intergeneration-Programme-Coordinator/
 description: ""
 third_nav_title: Smart Nation
 ---
@@ -107,7 +107,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/ivqnwa)<br>
 		</td>
 	</tr>
 </table>
