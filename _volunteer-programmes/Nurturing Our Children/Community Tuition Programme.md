@@ -1,6 +1,6 @@
 ---
 title: Community Tuition Programme
-permalink: /volunteer-programmes/Community-Tuition-Programme
+permalink: /volunteer-programmes/Community-Tuition-Programme/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
@@ -108,7 +108,7 @@ b) Min. Age: 17
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/bf0h7g)<br>
 		</td>
 	</tr>
 </table>
