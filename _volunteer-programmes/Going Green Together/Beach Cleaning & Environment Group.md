@@ -1,6 +1,6 @@
 ---
 title: Beach Cleaning & Environment Group
-permalink: /volunteer-programmes/Beach-Cleaning-and-Environment-Group
+permalink: /volunteer-programmes/Beach-Cleaning-and-Environment-Group/
 description: ""
 third_nav_title: Going Green Together
 ---
@@ -106,7 +106,7 @@ b) Min. Age: 15
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form(https://go.gov.sg/sxrqid)<br>
 		</td>
 	</tr>
 </table>
