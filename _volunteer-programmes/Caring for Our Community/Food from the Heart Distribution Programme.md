@@ -1,6 +1,6 @@
 ---
 title: Food from the Heart Distribution Programme
-permalink: /volunteer-programmes/Food-from-the-Heart-Distribution-Programme
+permalink: /volunteer-programmes/Food-from-the-Heart-Distribution-Programme/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -107,7 +107,7 @@ b) Min. Age: 16
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/4ei02j)<br>
 		</td>
 	</tr>
 </table>
