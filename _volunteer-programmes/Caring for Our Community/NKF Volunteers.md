@@ -100,7 +100,7 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/rn2vxg)<br>
 		</td>
 	</tr>
 </table>
