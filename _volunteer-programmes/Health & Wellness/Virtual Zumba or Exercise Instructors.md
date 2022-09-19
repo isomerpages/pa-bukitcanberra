@@ -1,6 +1,6 @@
 ---
 title: Virtual Zumba or Exercise Instructors
-permalink: /volunteer-programmes/Virtual-Zumba-or-Exercise-Instructors
+permalink: /volunteer-programmes/Virtual-Zumba-or-Exercise-Instructors/
 description: ""
 third_nav_title: Health & Wellness
 ---
@@ -109,7 +109,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/oh3x46)<br>
 		</td>
 	</tr>
 </table>
