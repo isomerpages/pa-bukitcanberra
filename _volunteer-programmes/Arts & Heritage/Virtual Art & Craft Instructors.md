@@ -109,7 +109,7 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form(https://go.gov.sg/p1rstr)<br>
 		</td>
 	</tr>
 </table>
