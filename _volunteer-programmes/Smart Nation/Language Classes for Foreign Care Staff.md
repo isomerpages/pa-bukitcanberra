@@ -1,6 +1,6 @@
 ---
 title: Language Classes for Foreign Care Staff
-permalink: /volunteer-programmes/Language-Classes-for-Foreign-Care-Staff
+permalink: /volunteer-programmes/Language-Classes-for-Foreign-Care-Staff/
 description: ""
 third_nav_title: Smart Nation
 ---
@@ -105,7 +105,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/so37i3)<br>
 		</td>
 	</tr>
 </table>
