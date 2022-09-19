@@ -1,6 +1,6 @@
 ---
 title: Hair Grooming or Cutting Services
-permalink: /volunteer-programmes/Hair-Grooming-or-Cutting-Services
+permalink: /volunteer-programmes/Hair-Grooming-or-Cutting-Services/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -105,7 +105,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/73upqg)<br>
 		</td>
 	</tr>
 </table>
