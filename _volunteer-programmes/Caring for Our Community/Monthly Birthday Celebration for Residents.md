@@ -1,6 +1,6 @@
 ---
 title: Monthly Birthday Celebration for Residents
-permalink: /volunteer-programmes/Monthly-Birthday-Celebration-for-Residents
+permalink: /volunteer-programmes/Monthly-Birthday-Celebration-for-Residents/
 description: ""
 third_nav_title: Caring for Our Community
 ---
@@ -106,7 +106,7 @@ b) Min. Age : No minimum age
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/1g7i95)<br>
 		</td>
 	</tr>
 </table>
