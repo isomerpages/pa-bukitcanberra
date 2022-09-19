@@ -1,6 +1,6 @@
 ---
 title: Arts Performance Volunteers
-permalink: /volunteer-programmes/Arts-Performance-Volunteers
+permalink: /volunteer-programmes/Arts-Performance-Volunteers/
 description: ""
 third_nav_title: Arts & Heritage
 ---
@@ -111,7 +111,7 @@ Volunteers
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form(https://go.gov.sg/qgklsm)<br>
 		</td>
 	</tr>
 </table>
