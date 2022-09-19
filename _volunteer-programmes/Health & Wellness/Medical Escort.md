@@ -1,6 +1,6 @@
 ---
 title: Medical Escort
-permalink: /volunteer-programmes/Medical-Escort
+permalink: /volunteer-programmes/Medical-Escort/
 description: ""
 third_nav_title: Health & Wellness
 ---
@@ -106,7 +106,7 @@ b) Min. Age: 18
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/uudadw)<br>
 		</td>
 	</tr>
 </table>
