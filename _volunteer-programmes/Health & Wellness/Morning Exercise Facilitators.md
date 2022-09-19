@@ -1,6 +1,6 @@
 ---
 title: Morning Exercise Facilitators
-permalink: /volunteer-programmes/Morning-Exercise-Facilitators
+permalink: /volunteer-programmes/Morning-Exercise-Facilitators/
 description: ""
 third_nav_title: Health & Wellness
 ---
@@ -106,7 +106,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form<br>
+			Scan QR code and fill out the form (https://go.gov.sg/t0zwnd)<br>
 		</td>
 	</tr>
 </table>
