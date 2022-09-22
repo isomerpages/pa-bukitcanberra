@@ -108,7 +108,7 @@ b) Min. Age: 17
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/bf0h7g)<br>
+			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
 </table>
@@ -123,7 +123,8 @@ b) Min. Age: 17
 		</td>
 	</tr>
 	</table>
-	
+	(https://go.gov.sg/bf0h7g)<br>
+	<br>
 <a href="/volunteer-programmes/Programmes">
 	Back to Volunteer Programme Listing
 	</a>
