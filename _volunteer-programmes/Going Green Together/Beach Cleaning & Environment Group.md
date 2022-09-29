@@ -32,7 +32,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td  width="75%">
-						   Every Saturday, 2 hours per session
+						   Every Saturday, 2 hours per session <b>(From Jan 2023 onwards)</b>
 					</td>
 				</tr>
 				<tr>
