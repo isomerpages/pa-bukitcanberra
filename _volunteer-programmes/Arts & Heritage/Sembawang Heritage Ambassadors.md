@@ -96,7 +96,7 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>   
+			<b>Jointly Organised with :</b><br>   
 Canberra Grassroots Organisations
 			&nbsp;
 		</td>
