@@ -88,7 +88,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a) Assist in simple administrative work, packing and distributing rations.<br>
 b) Min. Age: 13
 		</td>
@@ -98,8 +98,8 @@ b) Min. Age: 13
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>    
-			Sembawang Community Club and Food from the Heart (FFTH)
+			<b>Jointly Organised with :</b><br>    
+			Sembawang Central Grassroots Organistaions and Food from the Heart
 			&nbsp;
 		</td>
 	</tr>
