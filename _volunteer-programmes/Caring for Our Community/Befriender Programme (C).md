@@ -33,7 +33,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   Every Wednesday, 2 hours per session
+						   Refer to details below
 					</td>
 				</tr>
 				<tr>
@@ -44,7 +44,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						2pm - 4pm
+						Refer to details below
 					</td>
 				</tr>
 				<tr>
@@ -55,7 +55,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10
+						100 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -66,10 +66,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   (a) Canberra Zone 2 Residents’ Network, 
-Blk 356A, #01-80, Admiralty Dr, S(751356)<br>
-						<br>(b) Canberra Zone 3 Residents’ Network,
-Blk 478, #01-383, Sembawang Dr, S(750478)
+						   Refer to details below
 					</td>
 				</tr>
 			</table>
@@ -81,7 +78,8 @@ Blk 478, #01-383, Sembawang Dr, S(750478)
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   There are seniors who live alone with disabilities or issues caused by old age. We need volunteers to take on the role of befriender to help them or listen to their problems.
+			   There are seniors who live alone with disabilities, medical or chronic conditions. The Sembawang Grassroots Organisations are working towards engaging the elderly, matching them with releveant activities/programmes; and assessing their need (during house visits) so that their needs could be met.
+			We are looking for volunteers to take on the role of befriender to help & engage the vulnerable seniors, especially those residing alone, and to check on their well-being regularly. or issues caused by old age. We need volunteers to take on the role of befriender to help them or listen to their problems.
 		</td>
 	</tr>
 </table>
