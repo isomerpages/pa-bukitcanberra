@@ -92,14 +92,15 @@ third_nav_title: Caring for Our Community
 Blk 356A, #01-80, Admiralty Dr, S(751356)<br>Commitment: Every Wednesay, 2 hours per session<br>Time: 2pm - 4pm<br>
 						<br>b) Canberra Zone 3 Residents’ Network,
 Blk 478, #01-383, Sembawang Dr, S(750478) <br>Commitment: Every Wednesay, 2 hours per session<br>Time: 2pm - 4pm<br>
-<br>c) Weekdays, 1.5 hours per session
+<br>c) Sembawang West Zone G Residents’ Network,
+			Blk 756, Woodlands Ave 4, S(730756)<br>Commitment: Weekdays <b>(Specific Day To Be Confirmed)</b>, 1.5 hours per session<br>Time: 7.30pm - 9.00pm<br>
 		</td>
 	</tr>
 </table>
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a)    Training will be provided by Yishun Health.<br>
 b) Min. Age: 15
 		</td>
