@@ -55,7 +55,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -81,7 +81,7 @@ Blk 478, #01-383, Sembawang Dr, S(750478)
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   There are seniors who live alone with disabilities or issues caused by old age. We need volunteers to take on the role of befriender to help them or listen to their problems.
+			   There are seniors who live alone with disabilities, medical or chronic conditions. We need volunteers to take on the role of befriender to help them or listen to their problems.
 		</td>
 	</tr>
 </table>
