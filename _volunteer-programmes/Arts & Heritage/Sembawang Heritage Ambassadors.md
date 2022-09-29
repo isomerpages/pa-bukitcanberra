@@ -86,8 +86,8 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
-			a)    Able to communicate in English and walk for 2 hours at a time.<br>
+			<b>Requirements for volunteers:</b><br>
+			a)    Able to communicate in English and to walk continuously for 2 hours.<br>
 			b) Min. Age: 15
 		</td>
 	</tr>
