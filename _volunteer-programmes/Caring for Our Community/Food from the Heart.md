@@ -80,7 +80,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-						   The objective is to help the underprivileged and less fortunate in Sembawang. The initiative is donor-driven with a mixture of food donation, cash donation and bread distribution to the needy. <br><br>We are looking for volunteers to handle registration of residents, check food collections, pack and distribute rations to residents.<br>
+						   The objective is to help the underprivileged and less fortunate in Sembawang. The initiative is donor-driven with a mixture of food donation, cash donation and bread distribution to the needy. <br><br>We are looking for volunteers to scan collection and handle registration of residents, pack and distribute rations to residents at the RN centre.<br>
 		</td>
 	</tr>
 </table>
