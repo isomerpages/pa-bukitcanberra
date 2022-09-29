@@ -34,7 +34,7 @@ Volunteers
 						:
 					</td>
 					<td  width="75%">
-						   Minimum 4 sessions per month, 2 hours per session
+						   Minimum 4 sessions per month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -56,7 +56,7 @@ Volunteers
 						:
 					</td>
 					<td  width="75%">
-						10
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
