@@ -82,7 +82,7 @@ Tzu Chi Humanistic Youth Centre<br>
 			   The aim of this initiative is to provide women from lower-income families with an opportunity to supplement their household income through sewing assignments. We work towards helping women from lower-income families pick up sewing skills. They will learn how to use a sewing machine to make upcycled products such as tote bags, masks and pouches from donated materials (e.g. used banners).<br>
 <br>We are looking for volunteers in the following areas:<br> 
 <b>(a)	Ambassadors (Event-based volunteers)</b><br>
-•	To help manage physical pop-up booths to sell the upcycled products<br> 
+•	To help manage physical pop-up booths to sell the upcycled products made by women from lower-income families.<br> 
 <br><b>(b)	Interest Group</b><br>
 •	Sewing enthusiasts to share their knowledge and skills with other volunteers/participants and to take on sewing projects, with the proceeds going to support low-income families.<br>
 		</td>
