@@ -65,7 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						7 Sembawang Walk, S(756977) <b>[To Be Confirmed]</b><br>
+						Thye Hua Kwan Home (THK) for Disabled @ Sembawang, 7 Sembawang Walk, S(756977) 
 					</td>
 				</tr>
 			</table>
