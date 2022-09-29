@@ -56,7 +56,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -67,10 +67,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						(a) Sembawang Central Zone B Residents’ Network (RN)
-Blk 510B,  #01-77, Wellington Circle, S(752510)<br>
-<br>(b) East Canberra Zone 1 Residents’ Network (RN)
-Blk 107A, #01-567, Canberra St, S(751107)
+						(a) Sembawang Central Zone B RN Blk 510B,  #01-77, Wellington Circle, S(752510)<br>
+<br>(b) East Canberra Zone 1 RN Blk 107A, #01-567, Canberra St, S(751107)
 					</td>
 				</tr>
 			</table>
