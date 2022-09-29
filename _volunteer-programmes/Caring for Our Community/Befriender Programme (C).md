@@ -92,7 +92,7 @@ third_nav_title: Caring for Our Community
 Blk 356A, #01-80, Admiralty Dr, S(751356)<br>Commitment: Every Wednesay, 2 hours per session<br>Time: 2pm - 4pm<br>
 						<br>b) Canberra Zone 3 Residents’ Network,
 Blk 478, #01-383, Sembawang Dr, S(750478) <br>Commitment: Every Wednesay, 2 hours per session<br>Time: 2pm - 4pm<br>
-<br>c) Min. Age: 15
+<br>c) Weekdays, 1.5 hours per session
 		</td>
 	</tr>
 </table>
