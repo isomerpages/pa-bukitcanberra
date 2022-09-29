@@ -85,9 +85,9 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a)    Able to read English/Malay story books.<br>b)	Training will be provided by National Library Board.<br>
-c)	Min. Age: 15
+c)	Min. Age: 15 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>   
 </table>
@@ -95,7 +95,7 @@ c)	Min. Age: 15
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>
+			<b>Jointly Organised with :</b><br>
 			   M3@Woodlands (A collaborative effort between MUIS, MENDAKI and MESRA)
 			&nbsp;
 		</td>
