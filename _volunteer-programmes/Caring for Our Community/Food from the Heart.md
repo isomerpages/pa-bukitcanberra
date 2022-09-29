@@ -90,7 +90,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements:</b><br>
 			a) Assist in simple administrative work, packing and distributing rations.<br>
-b) Min. Age: 16
+b) Min. Age: 13
 		</td>
 	</tr>
 </table>
