@@ -78,8 +78,9 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Programme Description:</b><br>
 			THK Home for Disabled@Sembawang was established in April 2018 to provide long-term residential care for adults (aged between 17 and 55 years old) diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other co-morbidities.<br> 
-<br>We are looking for group volunteers to co-curate programmes for THK Home residents in these 2 areas:
-			provide free hair-cutting services at least once every 2 months.
+<br>We are looking for group volunteers to co-curate programmes for THK Home residents in these 2 areas:<br>
+			a) Activities of Daily Living - routine activities such as eating, dressing etc 
+			<br>b) Community Living Skills - basic skills such as ability to take care of oneself in terms of living, diet etc
 		</td>
 	</tr>
 </table>
