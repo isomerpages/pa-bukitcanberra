@@ -32,7 +32,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Once a month, 2 hours per session
+						Once a month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -48,7 +48,7 @@ third_nav_title: Arts & Heritage
 				</tr>
 				<tr>
 					<td width="20%">
-					No. of Openings
+					No. of Openings (To Be Confirmed)
 					</td>
 					<td width="5%">
 						:
