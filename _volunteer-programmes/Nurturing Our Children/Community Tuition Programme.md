@@ -87,9 +87,9 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a) Familiar with current MOE syllabus for English, Maths & Science (Primary Levels). <br>
-b) Min. Age: 17
+b) Min. Age: 17 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 </table>
@@ -97,7 +97,7 @@ b) Min. Age: 17
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>
+			<b>Jointly Organised with :</b><br>
 			   Admiralty Youth Network
 			&nbsp;
 		</td>
