@@ -87,10 +87,10 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a)    Have some experience in designing activities. 
 <br>b)	To be comfortable working with seniors.
-<br>c)	Min. Age: 18
+<br>c)	Min. Age: 18 <b>(To be Confirmed)
 		</td>
 	</tr>
 </table>
