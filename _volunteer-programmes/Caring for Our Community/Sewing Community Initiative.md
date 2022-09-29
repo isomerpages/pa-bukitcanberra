@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   Once a week on weekdays (AM/PM), 1.5 to 2 hours
+						Once a week on weekdays (AM/PM), 1.5 to 2 hours <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
