@@ -78,12 +78,21 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   There are seniors who live alone with disabilities, medical or chronic conditions. The Sembawang Grassroots Organisations are working towards engaging the elderly, matching them with releveant activities/programmes; and assessing their need (during house visits) so that their needs could be met.
-			We are looking for volunteers to take on the role of befriender to help & engage the vulnerable seniors, especially those residing alone, and to check on their well-being regularly. or issues caused by old age. We need volunteers to take on the role of befriender to help them or listen to their problems.
+			   There are seniors who live alone with disabilities, medical or chronic conditions. The Sembawang Grassroots Organisations are working towards engaging the elderly, matching them with releveant activities/programmes; and assessing their need (during house visits) so that their needs could be met.<br>
+			<br>We are looking for volunteers to take on the role of befriender to help & engage the vulnerable seniors, especially those residing alone, and to check on their well-being regularly. 
 		</td>
 	</tr>
 </table>
 
+<table border="0" width="100%">
+	<tr>
+		<td>
+			<b>Venue:</b><br>
+			a)    Training will be provided by Yishun Health.<br>
+b) Min. Age: 15
+		</td>
+	</tr>
+</table>
 <table border="0" width="100%">
 	<tr>
 		<td>
