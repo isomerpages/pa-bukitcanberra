@@ -87,10 +87,10 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
-			a)    Design and propose an exercise programme (Zumba/Other types of exercises) suitable for both seniors who are ambulant, and seniors who are wheelchair-bound. <br>
+			<b>Requirements for volunteers:</b><br>
+			a)    Design and propose an exercise programme (Zumba/other types of exercises) suitable for both seniors who are ambulant, and seniors who are wheelchair-bound. <br>
 			b) To be comfortable working with seniors.
-<br>c)	Min. Age: 18
+			<br>c)	Min. Age: 18 <b>(To Be Confirmed)</b>
  <br>
 		</td>
 	</tr>
@@ -99,7 +99,7 @@ third_nav_title: Health & Wellness
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>Sree Narayana Mission (Singapore)
+			<b>Jointly Organised with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
