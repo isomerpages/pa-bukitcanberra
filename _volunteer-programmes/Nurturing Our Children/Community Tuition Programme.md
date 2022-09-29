@@ -19,7 +19,7 @@ third_nav_title: Nurturing Our Children
 					</td>
 					<td width="5%">
 						:
-					</td>
+					</td><
 					<td  width="75%">
 						Community Tuition Programme
 					</td>
@@ -31,8 +31,8 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
-						   Every Sat/Sun **OR** Every Sat & Sun (To Be Confirmed), 2 hours per session
+					<td  width="75b>%">
+						Every Sat/Sun <b>OR</b> Every Sat & Sun (To Be Confirmed), 2 hours per session
 					</td>
 				</tr>
 				<tr>
