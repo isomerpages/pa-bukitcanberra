@@ -88,8 +88,9 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
-			a)    Volunteers with experience in hair grooming/cutting services preferred.
+			<b>Requirements for volunteers:</b><br>
+			a)    Interested or experiences in sewing <b>(To Be Confirmed)</b><br>
+			b) Training  will be provided<br> c) Min. Age: 18 <b>(To Be Confirmed)</b> 
 		</td>
 	</tr>
 </table>
@@ -97,7 +98,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>Thye Hua Kwan (THK) Home for Disabled @ Sembawang
+			<b>Jointly Organised with :</b><br>Thye Hua Kwan (THK) Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
@@ -107,7 +108,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/73upqg)<br>
+			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
 </table>
