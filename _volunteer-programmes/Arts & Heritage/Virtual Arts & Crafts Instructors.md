@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Virtua-Arts-and-Crafts-Instructors/
 description: ""
 third_nav_title: Arts & Heritage
 ---
-
 **Virtual Arts & Crafts Instructors**
 
 <table border="0" width="100%">
@@ -90,7 +89,7 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) To be comfortable working with seniors.
-<br>b)	Min. Age: 18
+<br>b)	Min. Age: 18 <b>(To Be Confirmed)</b>
  <br>
 		</td>
 	</tr>
