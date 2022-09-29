@@ -48,13 +48,13 @@ third_nav_title: Arts & Heritage
 				</tr>
 				<tr>
 					<td width="20%">
-					No. of Openings (To Be Confirmed)
+					No. of Openings 
 					</td>
 					<td width="5%">
 						:
 					</td>
 					<td  width="75%">
-						10
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
