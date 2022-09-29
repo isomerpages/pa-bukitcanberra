@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/National-Kidney-Foundation-NKF-Volunteer-Progra
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **National Kidney Foundation (NKF) Volunteer Programme at Dialysis Centre**
 
 <table border="0" width="100%">
@@ -45,6 +44,17 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						<b>To Be Confirmed</b><br>
+					</td>
+				</tr>
+				<tr>
+					<td width="20%">
+						No. of Openings:
+					</td>
+					<td width="5%">
+						:
+					</td>
+					<td  width="75%">
+						10 <b>(To Be Confirmed)</b><br>
 					</td>
 				</tr>
 				<tr>
