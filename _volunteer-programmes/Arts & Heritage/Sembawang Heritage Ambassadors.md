@@ -32,7 +32,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Once a month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session
+						Once a month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session <b>(From Jan 2023 onwards)</b>
 					</td>
 				</tr>
 				<tr>
