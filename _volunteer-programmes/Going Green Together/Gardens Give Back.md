@@ -32,7 +32,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						   Weekly, 2 hours per session
+						   Weekly <b>(Specific Day To Be Confirmed)</b>, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						10
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
