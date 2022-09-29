@@ -33,7 +33,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   Every Wednesday, 2 hours per session
+						   Every Wednesday, 2 hours per session <b>(From Jan 2023 onwards)</b>
 					</td>
 				</tr>
 				<tr>
