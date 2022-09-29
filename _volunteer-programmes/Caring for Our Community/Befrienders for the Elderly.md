@@ -99,7 +99,7 @@ b) Min. Age: 15 <b>(To Be Confirmed)</b>
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>    Canberra Zone 2 Residents’ Network (RN) & Canberra Secondary School
+			<b>Jointly Organized with :</b><br>    Canberra Zone 2 Residents’ Network & Canberra Secondary School
 			&nbsp;
 		</td>
 	</tr>
