@@ -87,7 +87,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a) Interested in storytelling. 
 <br>b)	   To be comfortable working with seniors.
 <br>c)	Min. Age: 18
