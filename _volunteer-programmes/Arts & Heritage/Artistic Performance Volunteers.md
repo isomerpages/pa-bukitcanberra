@@ -93,7 +93,7 @@ Volunteers
 			a)       Interested / Have experience in artistic performances.<br>
 			b) To be comfortable working with seniors.
 <br>c)	Min. Age: 18 <b>(To Be Confirmed)</b>
- <br>
+ <br>d) Training may be provided <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 </table>
@@ -101,7 +101,7 @@ Volunteers
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>Sree Narayana Mission (Singapore)
+			<b>Jointly Organised with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
