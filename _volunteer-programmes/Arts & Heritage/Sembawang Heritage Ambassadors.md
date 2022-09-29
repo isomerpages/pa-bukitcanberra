@@ -65,7 +65,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Meeting at void deck of Blk 364A Sembawang Crescent
+						Meeting at void deck of Blk 364A Sembawang Crescent <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 			</table>
