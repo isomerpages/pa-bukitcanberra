@@ -92,10 +92,10 @@ Tzu Chi Humanistic Youth Centre<br>
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Requirements:</b><br>
+			<b>Requirements for volunteers:</b><br>
 			a) Interested or experienced in sewing.<br>
 b) Training will be provided.<br>
-			c) Min. Age: 18
+			c) Min. Age: 18 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 </table>
@@ -103,7 +103,7 @@ b) Training will be provided.<br>
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>Sembawang Family Service Centre (SFSC)
+			<b>Jointly Organised with :</b><br>Sembawang Family Service Centre
 			&nbsp;
 		</td>
 	</tr>
