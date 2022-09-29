@@ -43,7 +43,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						10am to 11am
+						10am to 12 noon (To Be Confirmed)
 					</td>
 				</tr>
 				<tr>
