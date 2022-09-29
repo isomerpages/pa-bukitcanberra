@@ -4,8 +4,7 @@ permalink: /volunteer-programmes/Programme-Curators/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
-**Hair Grooming/Cutting Services**
+**Programme Curators**
 
 <table border="0" width="100%">
 	<tr>
