@@ -86,8 +86,8 @@ third_nav_title: Going Green Together
 <table width="100%" border="0">
 	<tbody><tr>
 		<td>
-			<b>Requirements:</b><br>
-			a)    Interested in gardening.<br>b)	Min. Age: 18
+			<b>Requirements for volunteers:</b><br>
+			a)    Interested in gardening.<br>b)	Min. Age: 18 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 </tbody></table>
@@ -95,7 +95,7 @@ third_nav_title: Going Green Together
 <table width="100%" border="0">
 	<tbody><tr>
 		<td>
-			<b>Jointly Organized with :</b><br>
+			<b>Jointly Organised with :</b><br>
 			   Woodlands Galaxy Community Club
 			&nbsp;
 		</td>
