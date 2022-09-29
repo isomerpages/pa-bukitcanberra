@@ -115,9 +115,8 @@ third_nav_title: Caring for Our Community
 
 <table border="0" width="100%">
 	<tr>
-		<td width="40%">
-			<img 
-					 src="/images/Programme%20Curators.png" style="width=200px;height=auto;"/>
+		<td width="40%"> 
+			<img src="/images/Programme%20Curators.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
