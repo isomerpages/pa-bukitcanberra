@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Virtua-Art-and-Craft-Instructors/
 description: ""
 third_nav_title: Arts & Heritage
 ---
-**Virtual Art & Craft Instructors**
+**Virtual Arts & Crafts Instructors**
 
 <table border="0" width="100%">
 	<tr>
@@ -21,7 +21,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Virtual Art & Craft Instructors
+						Virtual Arts & Crafts Instructors
 					</td>
 				</tr>
 				<tr>
@@ -32,7 +32,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						   Minimum 4 sessions per month, 2 hours per session
+						   Minimum 4 sessions per month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						10
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
