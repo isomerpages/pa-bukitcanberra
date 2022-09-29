@@ -67,7 +67,7 @@ Volunteers
 						:
 					</td>
 					<td  width="75%">
-						(a)	   Virtual: Zoom or Microsoft Teams<br>
+						(a)	   Virtual: Zoom or Microsoft Teams <b>(To Be Confirmed - Virtual Platform may not be necessary)</b><br>
 (b) Physical: 12 Yishun Avenue 5 S(768992)
 					</td>
 				</tr>
