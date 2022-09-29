@@ -89,7 +89,7 @@ third_nav_title: Smart Nation
 			<b>Requirements for volunteers:</b><br>
 			a)	Possess IT skills and experience in hosting programmes for the elderly.<br>
 			b) Able to converse in at least 2 languages.
-<br>c)	Min. Age: 18
+<br>c)	Min. Age: 18 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 </table>
