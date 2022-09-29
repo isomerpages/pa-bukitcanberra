@@ -101,7 +101,7 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br> National Kidney Foundation (NKF)
+			<b>Jointly Organised with :</b><br> National Kidney Foundation (NKF)
 			&nbsp;
 		</td>
 	</tr>
