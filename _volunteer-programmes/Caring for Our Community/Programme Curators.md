@@ -21,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Hair Grooming/Cutting Services
+						Programme Curators
 					</td>
 				</tr>
 				<tr>
@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Once a month
+						<b>To Be Confirmed</b>
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10
+						NA
 					</td>
 				</tr>
 				<tr>
