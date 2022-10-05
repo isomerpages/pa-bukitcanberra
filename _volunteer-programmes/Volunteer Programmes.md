@@ -112,6 +112,14 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+    <a href="/volunteer-programmes/Sewers-Community-Initiative" style="text-decoration:none;">
+      <img style="height:250px;width:228px;" src="/images/Programme%20Curators%203-1.png">
+      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
+    </a>
+  </div>
+</li>
+<li>
+	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/NKF-Volunteers" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/NKF%20Volunteers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
