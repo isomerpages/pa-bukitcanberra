@@ -1,4 +1,5 @@
 collections:
   unwanted:
     output: true
-    order: []
+    order:
+      - Befriender Programme (C).md
