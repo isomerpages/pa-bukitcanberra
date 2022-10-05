@@ -9,7 +9,7 @@ third_nav_title: Arts & Heritage
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Sembawang%20Heritage%20Ambasador.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sembawang%20Heritage%20Ambassadors%203.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
