@@ -1,0 +1,4 @@
+collections:
+  unwanted:
+    output: true
+    order: []
