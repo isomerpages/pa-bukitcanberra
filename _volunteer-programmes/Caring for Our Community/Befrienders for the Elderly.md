@@ -9,7 +9,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Canberra%20Befrienders%20for%20the%20Elderly%201.png" 
+			<img src="/images/Befrienders%20for%20the%20Elderly%202-1.png" 
 					 style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
