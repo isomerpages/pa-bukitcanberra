@@ -107,7 +107,7 @@ Canberra Grassroots Organisations
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/jd46s0)<br>
+			Scan QR code and fill out the form <a href="https://go.gov.sg/jd46s0">https://go.gov.sg/jd46s0</a><br>
 		</td>
 	</tr>
 </table>
