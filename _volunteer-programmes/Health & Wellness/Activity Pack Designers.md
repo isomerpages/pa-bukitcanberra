@@ -108,7 +108,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/yhe55y)<br>
+			Scan QR code and fill out the form <a href="https://go.gov.sg/yhe55y">https://go.gov.sg/yhe55y</a><br>
 		</td>
 	</tr>
 </table>
