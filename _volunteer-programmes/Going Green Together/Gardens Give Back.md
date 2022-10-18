@@ -106,7 +106,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/nr3six)<br>
+			Scan QR code and fill out the form <a href="https://go.gov.sg/nr3six">https://go.gov.sg/nr3six</a><br>
 		</td>
 	</tr>
 </tbody></table>
