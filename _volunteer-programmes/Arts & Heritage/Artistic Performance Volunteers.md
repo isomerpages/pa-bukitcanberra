@@ -111,7 +111,7 @@ Volunteers
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/qgklsm)<br>
+			Scan QR code and fill out the form <a href="https://go.gov.sg/qgklsm">https://go.gov.sg/qgklsm</a><br>
 		</td>
 	</tr>
 </table>
