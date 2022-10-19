@@ -105,7 +105,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/s2l08n)<br>
+			Scan QR code and fill out the form <a href="https://go.gov.sg/bf0h7g">https://go.gov.sg/bf0h7g</a>(https://go.gov.sg/s2l08n)<br>
 		</td>
 	</tr>
 </table>
