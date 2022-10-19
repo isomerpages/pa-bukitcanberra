@@ -113,7 +113,7 @@ b) Training will be provided.<br>
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form (https://go.gov.sg/zkzcq8)<br>
+			Scan QR code and fill out the form (https:/<a href="https://go.gov.sg/bf0h7g">https://go.gov.sg/bf0h7g</a>/go.gov.sg/zkzcq8)<br>
 		</td>
 	</tr>
 </table>
