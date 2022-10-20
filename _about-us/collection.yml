@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - SPARKS Mission.md
-      - SPARKS Vision.md
       - Our Success Stories.md
       - Marketing Video.md
