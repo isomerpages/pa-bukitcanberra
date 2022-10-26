@@ -96,7 +96,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>
-			   Woodlands Galaxy Community Club
+			            Sembawang West Zone J Residents Network
 			&nbsp;
 		</td>
 	</tr>
