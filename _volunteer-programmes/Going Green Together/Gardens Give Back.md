@@ -96,7 +96,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>
-			            Sembawang West Zone J Residents Network
+			            Sembawang West Zone J Residents' Network
 			&nbsp;
 		</td>
 	</tr>
