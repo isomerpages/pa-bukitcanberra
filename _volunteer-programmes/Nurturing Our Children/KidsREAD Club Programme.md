@@ -19,7 +19,7 @@ third_nav_title: Nurturing Our Children
 					</td>
 					<td width="5%">
 						:
-					</td><
+					</td>
 					<td  width="75%">
 						KidsRead Club Programme
 					</td>
