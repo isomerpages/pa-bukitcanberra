@@ -116,7 +116,7 @@ b) Min. Age: 17 <b>(To Be Confirmed)</b>
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Community%20Tuition%20QR%20code.png" style="width=200px;height=auto;"/>
+			<img src="/images/KidsRead%20Club%20Programme.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
