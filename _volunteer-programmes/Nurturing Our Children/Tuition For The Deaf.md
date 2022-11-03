@@ -96,7 +96,8 @@ c)	Min. Age: 15 <b>(To Be Confirmed)</b>
 	<tr>
 		<td>
 			<b>Jointly Organised with :</b><br>
-			   M3@Woodlands (A collaborative effort between MUIS, MENDAKI and MESRA)
+			   Sembawang West Zone E Residents’ Network (RN) / NTU Welfare Service Club 
+
 			&nbsp;
 		</td>
 	</tr>
