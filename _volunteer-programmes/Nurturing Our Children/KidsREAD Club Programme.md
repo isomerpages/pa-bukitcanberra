@@ -87,7 +87,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a) Familiar with current MOE syllabus for English, Maths & Science (Primary Levels). <br>
+			a) Able to read English story books, able to conduct activity sessions such as handicraft or worksheets. <br>
 b) Min. Age: 17 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
