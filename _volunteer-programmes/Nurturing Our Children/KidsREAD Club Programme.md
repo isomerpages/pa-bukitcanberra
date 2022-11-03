@@ -77,8 +77,8 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   Our committed and experienced volunteer tutors have been providing free tuition to students, especially those from less fortunate families. <br> 
-			<br>We are looking for compassionate volunteers to join our tutoring passion. With more tutors, more students can be given a chance to learn and grow like the more fortunate students. Thus, by giving tuition, you are actually giving back to the community.
+			   KidsREAD is a nationwide reading programme by the National Library Board (NLB) to promote the love of reading among young Singaporeans aged between 4 to 8 years old. KidsREAD participants will enjoy fun and interactive story time, Science, Technology, Engineering, Art and Mathematics (STEAM) activities to spark their imagination and creativity. <br> 
+			<br>We are looking for volunteers to read and conduct activities for children once a week.
 		</td>
 	</tr>
 </table>
