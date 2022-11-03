@@ -65,7 +65,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, S(739069)
+						   Sembawang CC
 					</td>
 				</tr>
 			</table>
