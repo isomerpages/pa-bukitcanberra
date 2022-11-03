@@ -97,7 +97,6 @@ c)	Min. Age: 15 <b>(To Be Confirmed)</b>
 		<td>
 			<b>Jointly Organised with :</b><br>
 			   Sembawang West Zone E Residents’ Network (RN) / NTU Welfare Service Club 
-
 			&nbsp;
 		</td>
 	</tr>
