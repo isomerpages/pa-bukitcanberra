@@ -97,7 +97,7 @@ b) Min. Age: 17 <b>(To Be Confirmed)</b>
 	<tr>
 		<td>
 			<b>Jointly Organised with :</b><br>
-			   Admiralty Youth Network
+			     Sembawang Community Club Women’s Executive Committee (WEC)
 			&nbsp;
 		</td>
 	</tr>
