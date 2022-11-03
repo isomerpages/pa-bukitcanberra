@@ -43,8 +43,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						Saturday – 10am to 12pm,  
-						Sunday – 2pm to 4pm
+						1pm to 2pm
 					</td>
 				</tr>
 				<tr>
