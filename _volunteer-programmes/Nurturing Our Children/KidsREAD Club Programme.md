@@ -54,7 +54,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						10 <b>(To Be Confirmed)</b>
+						60 <b>
 					</td>
 				</tr>
 				<tr>
