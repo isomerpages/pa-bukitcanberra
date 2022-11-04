@@ -89,7 +89,7 @@ third_nav_title: Nurturing Our Children
 			<b>Requirements for volunteers:</b><br>
 			a) Able to read English story books.<br>
 			b) Able to conduct activity sessions such as handicraft or worksheets. <br>
-b) Min. Age: 13 <b>
+b) Min. Age: 13 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 </table>
