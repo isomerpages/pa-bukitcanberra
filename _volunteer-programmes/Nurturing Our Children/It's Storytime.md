@@ -121,9 +121,19 @@ c)	Min. Age: 15 <b>(To Be Confirmed)</b>
 		</td>
 	</tr>
 	</table>
-         
-<b>For Enquiries:</b><br>
-Please email: [sparks@pa.gov.sg](mailto:sparks@pa.gov.sg)<br>
+    
+<table border="0" width="100%">
+	<tr>
+		<td>
+			<b>For Enquiries:</b><br>
+			Please email: sparks@pa.gov.sg<br>
+		</td>
+		<td>
+			&nbsp;
+		</td>
+	</tr>
+</table>
+
 <br>
 <a href="/volunteer-programmes/Programmes">
 	Back to Volunteer Programme Listing
