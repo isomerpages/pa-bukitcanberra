@@ -126,7 +126,19 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 		</td>
 	</tr>
 	</table>
-	
+
+<table border="0" width="100%">
+	<tr>
+		<td>
+			<b>For Enquiries:</b><br>
+			Please email: sparks@pa.gov.sg<br>
+		</td>
+		<td>
+			&nbsp;
+		</td>
+	</tr>
+</table>
+
 <a href="/volunteer-programmes/Programmes">
 	Back to Volunteer Programme Listing
 	</a>
