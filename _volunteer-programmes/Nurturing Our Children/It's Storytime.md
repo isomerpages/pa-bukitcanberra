@@ -134,7 +134,6 @@ c)	Min. Age: 15 <b>(To Be Confirmed)</b>
 	</tr>
 </table>
 
-<br>
 <a href="/volunteer-programmes/Programmes">
 	Back to Volunteer Programme Listing
 	</a>
