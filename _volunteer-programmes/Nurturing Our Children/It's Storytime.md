@@ -77,7 +77,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			This programme aims to cultivate reading habits among young children and to improve their literacy. We need volunteers to read and conduct activities for children once a week.
+			This programme aims to cultivate reading habits among young children and to improve their literacy. We need volunteers to read stories and conduct activities for children once a week.
 		</td>
 	</tr>
 </table>
