@@ -67,9 +67,9 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						   (a) Canberra Zone 2 Residents’ Network (RN), 
-Blk 356A, #01-80, Admiralty Dr, S(751356)<br>
+[Blk 356A, #01-80, Admiralty Dr, S(751356)]<br>
 						<br>(b) Canberra Zone 3 Residents’ Network (RN),
-Blk 478, #01-383, Sembawang Dr, S(750478)
+[Blk 478, #01-383, Sembawang Dr, S(750478)]
 					</td>
 				</tr>
 			</table>
