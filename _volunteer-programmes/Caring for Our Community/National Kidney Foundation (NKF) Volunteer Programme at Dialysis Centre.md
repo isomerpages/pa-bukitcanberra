@@ -65,7 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						The Hour Glass-NKF Dialysis Centre (Admiralty Branch) Blk 761 Woodlands Ave 6, #01-108 S(730761)
+						The Hour Glass-NKF Dialysis Centre (Admiralty Branch) [Blk 761 Woodlands Ave 6, #01-108 S(730761)]
 					</td>
 				</tr>
 			</table>
