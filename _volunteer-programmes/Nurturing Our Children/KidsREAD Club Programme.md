@@ -77,7 +77,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   KidsREAD is a nationwide reading programme by the National Library Board (NLB) to promote the love of reading among young Singaporeans aged between 4 to 8 years old. KidsREAD participants will enjoy fun and interactive story time, Science, Technology, Engineering, Art and Mathematics (STEAM) activities to spark their imagination and creativity. <br> 
+			   KidsREAD is a nationwide reading programme by the National Library Board (NLB) to promote the love of reading among young Singaporeans aged between 4 to 8. KidsREAD participants will enjoy fun and interactive story time. They will be introduced to Science, Technology, Engineering, Art and Mathematics (STEAM) activities to spark their imagination and creativity. <br> 
 			<br>We are looking for volunteers to read and conduct activities for children once a week.
 		</td>
 	</tr>
@@ -87,7 +87,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a) Able to read English story books.<br>
+			a) Able to read English books.<br>
 			b) Able to conduct activity sessions such as handicraft or worksheets. <br>
 b) Min. Age: 13 <b>(To Be Confirmed)</b>
 		</td>
