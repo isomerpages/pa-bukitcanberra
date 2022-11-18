@@ -89,7 +89,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Interested or experiences in sewing <b>(To Be Confirmed)</b><br>
+			a)    Interested to work with seniors <b>(To Be Confirmed)</b><br>
 			b) Training  will be provided<br> c) Min. Age: 18 <b>(To Be Confirmed)</b> 
 		</td>
 	</tr>
