@@ -43,7 +43,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						1pm to <b>(To Be Confirmed)</b>
+						1pm to 2pm <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
