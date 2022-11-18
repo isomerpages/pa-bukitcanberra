@@ -97,7 +97,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Jointly Organised with :</b><br>
-			   Sembawang West Zone E Residents’ Network / NTU Welfare Service Club 
+			   Sembawang West Zone E RN / NTU Welfare Service Club 
 			&nbsp;
 		</td>
 	</tr>
