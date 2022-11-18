@@ -88,7 +88,7 @@ third_nav_title: Health & Wellness
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Design and propose an exercise programme (Zumba/other types of exercises) suitable for both seniors who are ambulant, and seniors who are wheelchair-bound. <br>
+			a)    Design and propose an exercise programme (Zumba/other types of exercises) suitable for seniors who are ambulant, and/or wheelchair-bound. <br>
 			b) To be comfortable working with seniors.
 			<br>c)	Min. Age: 18 <b>(To Be Confirmed)</b>
  <br>
