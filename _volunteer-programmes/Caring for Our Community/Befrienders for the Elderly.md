@@ -66,9 +66,9 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   (a) Canberra Zone 2 Residents’ Network, 
+						   (a) Canberra Zone 2 Residents’ Network (RN), 
 Blk 356A, #01-80, Admiralty Dr, S(751356)<br>
-						<br>(b) Canberra Zone 3 Residents’ Network,
+						<br>(b) Canberra Zone 3 Residents’ Network (RN),
 Blk 478, #01-383, Sembawang Dr, S(750478)
 					</td>
 				</tr>
@@ -99,7 +99,7 @@ b) Min. Age: 15 <b>(To Be Confirmed)</b>
 <table border="0" width="100%">
 	<tr>
 		<td>
-			<b>Jointly Organized with :</b><br>    Canberra Zone 2 Residents’ Network & Canberra Secondary School
+			<b>Jointly Organized with :</b><br>    Canberra Zone 2 RN & Canberra Secondary School
 			&nbsp;
 		</td>
 	</tr>
