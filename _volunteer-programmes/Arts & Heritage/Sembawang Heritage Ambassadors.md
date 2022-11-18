@@ -77,7 +77,7 @@ third_nav_title: Arts & Heritage
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history and social memories of various places in Singapore.<br>
+			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history/social memories of various places in Singapore.<br>
 <br>We hope to recruit volunteers who can assist in organizing regular heritage tours to increase awareness for Sembawang Heritage Trail among the residents, schools and community partners. Training will be conducted for the heritage guides. 
 		</td>
 	</tr>
