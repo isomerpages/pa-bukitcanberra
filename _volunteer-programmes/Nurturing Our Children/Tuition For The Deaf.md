@@ -65,7 +65,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						   Sembawang West Zone E Residents' Network
+						   Sembawang West Zone E Residents' Network (RN)
 						[Blk 718 Woodlands Avenue 6 #01-648 S(730718)]
 					</td>
 				</tr>
