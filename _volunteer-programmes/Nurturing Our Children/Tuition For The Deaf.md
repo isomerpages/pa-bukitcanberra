@@ -78,7 +78,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			This programme aims to improve literacy and cultivate reading habits among young deaf children aged 7-16 years old.<br>
+			This programme aims to cultivate reading habits among young deaf children aged 7-16, and to improve their literacy.<br>
 			<br>We are looking for volunteers who are able to use sign language to teach and conduct activities for children. 
 		</td>
 	</tr>
