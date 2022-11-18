@@ -9,8 +9,6 @@ Simply scan the QR code to fill out the form and we’ll get in touch with you.
 If you wish to support or contribute to the community in other ways (e.g cash/in-kind donation, sponsorship etc), we’ll be happy to hear from you too. 
 Please drop us an email at sparks@pa.gov.sg<br>
 
-<a href="https://form.gov.sg/#!/632aad4aeb453b0012a13479">https://form.gov.sg/#!/632aad4aeb453b0012a13479</a><br>
-
 
 <table border="0" width="100%">
 	<tr>
@@ -22,3 +20,5 @@ Please drop us an email at sparks@pa.gov.sg<br>
 		</td>
 	</tr>
 	</table>
+	
+<a href="https://form.gov.sg/#!/632aad4aeb453b0012a13479">https://form.gov.sg/#!/632aad4aeb453b0012a13479</a><br>
