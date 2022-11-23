@@ -108,7 +108,7 @@ b) Min. Age: 13 <b>(To Be Confirmed)</b>
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form <a href="https://go.gov.sg/l9g1ko">https://go.gov.sg/l9g1ko</a><br>
+			Scan QR code and fill out the form <br>
 		</td>
 	</tr>
 </table>
