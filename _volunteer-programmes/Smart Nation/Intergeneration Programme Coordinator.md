@@ -107,7 +107,7 @@ third_nav_title: Smart Nation
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form <a href="https://go.gov.sg/ivqnwa">https://go.gov.sg/ivqnwa</a><br>
+			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
 </table>
