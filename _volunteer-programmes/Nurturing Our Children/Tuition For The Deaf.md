@@ -107,7 +107,7 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>How to Register:</b><br>
-			Scan QR code and fill out the form <a href="https://go.gov.sg/20067w">https://go.gov.sg/20067w</a><br>
+			Scan QR code and fill out the form <br>
 		</td>
 	</tr>
 </table>
