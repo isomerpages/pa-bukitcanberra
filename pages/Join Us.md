@@ -20,5 +20,4 @@ Please drop us an email at sparks@pa.gov.sg<br>
 		</td>
 	</tr>
 	</table>
-	
-<a href="https://form.gov.sg/#!/632aad4aeb453b0012a13479">https://form.gov.sg/#!/632aad4aeb453b0012a13479</a><br>
+	<br>
