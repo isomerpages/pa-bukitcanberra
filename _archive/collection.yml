@@ -1,5 +1,5 @@
 collections:
-  unwanted:
+  archive:
     output: true
     order:
       - SPARKS Vision.md
