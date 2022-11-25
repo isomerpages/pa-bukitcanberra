@@ -2,6 +2,7 @@ collections:
   volunteer-programmes:
     output: true
     order:
+      - Isomer Training.md
       - Volunteer Programmes.md
       - Nurturing Our Children/.keep
       - Nurturing Our Children/Community Tuition Programme.md
