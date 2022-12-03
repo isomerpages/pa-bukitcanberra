@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Befriending-the-Elderly/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Befriending the Elderly**
 
 <table border="0" width="100%">
@@ -82,7 +81,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			   There are seniors who live alone with disabilities, medical or chronic conditions. We need volunteers to take on the role of befriender to help them or listen to their problems.
+			   Lets' engage our elderly in the community to prevent social isolation. Join us now!
 		</td>
 	</tr>
 </table>
