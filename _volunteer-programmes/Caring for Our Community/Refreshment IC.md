@@ -44,7 +44,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10am to 12pm
+						10am - 12pm
 					</td>
 				</tr>
 				<tr>
