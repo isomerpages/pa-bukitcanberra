@@ -88,7 +88,7 @@ third_nav_title: Health & Wellness
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) Physically fit, able to engage and demonstrate the exercises to residents.
-<br>c)	Min. Age: 18 <b>(To Be Confirmed)</b>
+<br>c)	Min. Age: 18 
 		</td>
 	</tr>
 </table>
