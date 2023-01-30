@@ -87,7 +87,7 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)	 Experienced in cooking for a group of 30-40pax. 
+			a)	 Experienced in cooking for a group of 30-40 people. 
 	<br>b)	Min. Age: 21 years and above</b>
 					</td>
 	</tr>
