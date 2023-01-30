@@ -66,10 +66,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   (a) Canberra Zone 2 Residents’ Network (RN), 
-[Blk 356A, #01-80, Admiralty Dr, S(751356)]<br>
-						<br>(b) Canberra Zone 3 Residents’ Network (RN),
-[Blk 478, #01-383, Sembawang Dr, S(750478)]
+						   Sembawng Town
 					</td>
 				</tr>
 			</table>
@@ -91,7 +88,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements:</b><br>
 			a)    Training will be provided by Yishun Health.<br>
-b) Min. Age: 15 <b>(To Be Confirmed)</b>
+b) Min. Age: 15
 		</td>
 	</tr>
 </table>
