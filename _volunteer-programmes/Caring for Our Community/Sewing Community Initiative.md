@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						<b>To Be Confirmed</b>
+						2pm to 4pm
 					</td>
 				</tr>
 				<tr>
