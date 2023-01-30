@@ -89,7 +89,7 @@ third_nav_title: Arts & Heritage
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) To be comfortable working with seniors.
-<br>b)	Min. Age: 18 <b>(To Be Confirmed)</b>
+<br>b)	Min. Age: 18 
  <br>
 		</td>
 	</tr>
