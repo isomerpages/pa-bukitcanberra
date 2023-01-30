@@ -78,7 +78,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			TOUCH Active Ageing (TAA) empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others.
+			TOUCH Active Ageing (TAA) empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others. Every Thursday, the centre will gather the seniors who stay in Sembawang to join us in a game of Bingo. We are looking for someone that enjoys cooking dessert or light refreshments to assist us. 
+
 		</td>
 	</tr>
 </table>
