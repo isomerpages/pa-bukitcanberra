@@ -87,7 +87,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a)	Physically fit to travel to nearby food outlets (e.g. Chong Pang Market) to purchase food during lunch time.
-<br>b)	Min. Age: 18 <b>(To Be Confirmed)</b>
+<br>b)	Min. Age: 18 
 		</td>
 	</tr>
 </table>
