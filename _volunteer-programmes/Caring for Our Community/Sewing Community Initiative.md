@@ -44,7 +44,7 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						3-5 hours (Events Ambassador)<br>
-						2pm to 4pm (Sewing IG)<br>
+						2pm to 4pm (Sewing Interest Group)<br>
 											</td>
 				</tr>
 				<tr>
@@ -67,8 +67,8 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td  width="75%">
 						(a)	Pop-up Event:<br>
-Tzu Chi Humanistic Youth Centre<br>
-   [30A Yishun Central 1, S(768796)]<br><br>(b)	Sewing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S(750326)]
+Various locations in Singapore <br>
+   <br>(b)	Sewing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S(750326)]
 					</td>
 				</tr>
 			</table>
