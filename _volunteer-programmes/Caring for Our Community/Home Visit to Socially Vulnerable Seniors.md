@@ -33,7 +33,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						   Every Thursday, 2 hours per session
+						     Willing to commit at least twice a month and for at least a period of 6 months
 					</td>
 				</tr>
 				<tr>
@@ -44,8 +44,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						10am - 12pm
-					</td>
+						To be confirmed  				</td>
 				</tr>
 				<tr>
 					<td width="20%">
@@ -55,7 +54,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						2 
+						4 
 					</td>
 				</tr>
 				<tr>
@@ -78,7 +77,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Programme Description:</b><br>
-			TOUCH Active Ageing (TAA) empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others. Every Thursday, the centre will gather the seniors who stay in Sembawang to join us in a game of Bingo. We are looking for someone that enjoys cooking dessert or light refreshments to assist us. 
+			   TOUCH Active Ageing (TAA) empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others. For seniors with low or no social support, TAA will partner with volunteers to visit these seniors regularly. 
+We are looking for Volunteers to befriend seniors and their caregivers by providing social support through regular visits, phone calls and engagement. 
 		</td>
 	</tr>
 </table>
@@ -87,7 +87,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)	 Experienced in cooking for a group of 30-40 people. 
+			a)	    Able to speak Mandarin or Malay or dialect 
+	<br>b)	Training will be provided
 	<br>b)	Min. Age: 21 years and above
 					</td>
 	</tr>
