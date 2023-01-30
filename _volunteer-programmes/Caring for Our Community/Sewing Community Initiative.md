@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Sewing-Community-Initiative/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-**Sewing Community Initiative**
+**Sowers' Community Initiative**
 
 <table border="0" width="100%">
 	<tr>
@@ -21,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						Sewing Community Initiative
+						Sowers' Community Initiative
 					</td>
 				</tr>
 				<tr>
@@ -94,8 +94,8 @@ Tzu Chi Humanistic Youth Centre<br>
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) Interested or experienced in sewing.<br>
-b) Training will be provided.<br>
-			c) Min. Age: 18 <b>(To Be Confirmed)</b>
+b) Training will be provided by in house trainer.<br>
+			c) Min. Age: 18 
 		</td>
 	</tr>
 </table>
