@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/Community-Tuition-Programme/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-**Community Tuition Programme**
+**Project Little Einstein**
 
 <table border="0" width="100%">
 	<tr>
@@ -21,7 +21,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td><
 					<td  width="75%">
-						Community Tuition Programme
+						Project Little Einstein
 					</td>
 				</tr>
 				<tr>
@@ -89,7 +89,7 @@ third_nav_title: Nurturing Our Children
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) Familiar with current MOE syllabus for English, Maths & Science (Primary Levels). <br>
-b) Min. Age: 17 <b>(To Be Confirmed)</b>
+b) Min. Age: 17
 		</td>
 	</tr>
 </table>
