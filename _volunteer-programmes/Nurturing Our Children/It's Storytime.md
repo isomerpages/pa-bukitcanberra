@@ -86,8 +86,8 @@ third_nav_title: Nurturing Our Children
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Able to read English/Malay story books.<br>b)	Training will be provided by National Library Board.<br>
-c)	Min. Age: 15
+			a)    Able to read English/Malay story books.<br>b)	   Able to do art & craft activities.<br>
+c)	Min. Age: 15 years old
 		</td>
 	</tr>   
 </table>
