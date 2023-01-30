@@ -5,7 +5,6 @@ description: Home Visit to Socially Vulnerable Seniors
 image: /images/Home Visit To Socially Vulnerable Seniors.png
 third_nav_title: Caring for Our Community
 ---
-
 **Home Visit to Socially Vulnerable Seniors**
 
 <table border="0" width="100%">
@@ -89,7 +88,7 @@ We are looking for Volunteers to befriend seniors and their caregivers by provid
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a)	    Able to speak Mandarin or Malay or dialect 
-	<br>b)	Training will be provided
+	<br>b)	Training will be provided by in house trainer
 	<br>b)	Min. Age: 21 years and above
 					</td>
 	</tr>
