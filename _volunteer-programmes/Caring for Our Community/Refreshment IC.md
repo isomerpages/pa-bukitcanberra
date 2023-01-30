@@ -10,7 +10,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Hawker%20Day.png" style="width=200px;height=auto;"/>
+			<img src="/images/Refreshment IC.png" style="width=200px;height=auto;"/>
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
