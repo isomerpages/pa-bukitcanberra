@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Programme-Curators/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Programme Curators**
 
 <table border="0" width="100%">
@@ -90,8 +89,8 @@ third_nav_title: Caring for Our Community
 	<tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Interested to work with seniors <b>(To Be Confirmed)</b><br>
-			b) Training  will be provided<br> c) Min. Age: 18 <b>(To Be Confirmed)</b> 
+			a)    Interested to work with seniors </b><br>
+			b)    Passion for working with adults, project planning<br> c) Min. Age: 16  
 		</td>
 	</tr>
 </table>
