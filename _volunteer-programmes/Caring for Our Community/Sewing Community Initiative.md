@@ -43,8 +43,9 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td  width="75%">
-						2pm to 4pm
-					</td>
+						3-5 hours (Events Ambassador)<br>
+						2pm to 4pm (Sewing IG)<br>
+											</td>
 				</tr>
 				<tr>
 					<td width="20%">
