@@ -92,9 +92,8 @@ Volunteers
 			<b>Requirements for volunteers:</b><br>
 			a)       Interested / Have experience in artistic performances.<br>
 			b) To be comfortable working with seniors.
-<br>c)	Min. Age: 18 <b>(To Be Confirmed)</b>
- <br>d) Training may be provided <b>(To Be Confirmed)</b>
-		</td>
+<br>c)	Min. Age: 18 
+ 		</td>
 	</tr>
 </table>
 
