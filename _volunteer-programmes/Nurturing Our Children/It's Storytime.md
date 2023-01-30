@@ -87,7 +87,7 @@ third_nav_title: Nurturing Our Children
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a)    Able to read English/Malay story books.<br>b)	   Able to do art & craft activities.<br>
-c)	Min. Age: 15 years old
+c)	Min. Age: 15 
 		</td>
 	</tr>   
 </table>
