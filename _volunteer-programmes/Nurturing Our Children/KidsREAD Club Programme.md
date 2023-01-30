@@ -32,7 +32,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75b>%">
-						Every Saturday, 1 hour per session <b>(To Be Confirmed)</b>
+						Every Saturday, 1 hour per session 
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						1pm to 2pm <b>(To Be Confirmed)</b>
+						1pm to 2pm 
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						60 <b>(To Be Confirmed)</b>
+						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
 				<tr>
@@ -89,7 +89,7 @@ third_nav_title: Nurturing Our Children
 			<b>Requirements for volunteers:</b><br>
 			a) Able to read English books.<br>
 			b) Able to conduct activity sessions such as handicraft or worksheet activities. <br>
-b) Min. Age: 13 <b>(To Be Confirmed)</b>
+b) Min. Age: 13 
 		</td>
 	</tr>
 </table>
