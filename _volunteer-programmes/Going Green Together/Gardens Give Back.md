@@ -87,7 +87,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Interested in gardening.<br>b)	Min. Age: 18 <b>(To Be Confirmed)</b>
+			a)    Interested in gardening.<br>b)	Min. Age: 18 
 		</td>
 	</tr>
 </tbody></table>
