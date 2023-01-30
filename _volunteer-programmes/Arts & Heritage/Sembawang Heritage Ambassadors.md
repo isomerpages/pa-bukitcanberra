@@ -32,7 +32,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Once a month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session <b>(From Jan 2023 onwards)</b>
+						Once a month Sunday, 2 hours per session <b>(From Feb 2023 onwards)</b>
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						<b>To Be Confirmed</b>
+						9am to 11am
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +65,7 @@ third_nav_title: Arts & Heritage
 						:
 					</td>
 					<td  width="75%">
-						Meeting at void deck of Blk 364A Sembawang Crescent <b>(To Be Confirmed)</b>
+						Meet at Canberra Community Club, 2 Sembawang Crescent, #01-01, SIngapore 757632
 					</td>
 				</tr>
 			</table>
