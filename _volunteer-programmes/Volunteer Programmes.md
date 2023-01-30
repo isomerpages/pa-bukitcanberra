@@ -161,7 +161,7 @@ description: ""
 <li>
 	 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Refreshment-IC/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Hawkers%20Day.png">
+      <img style="height:250px;width:228px;" src="/images/Refreshment IC.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -169,7 +169,7 @@ description: ""
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/House-Visit-To-Socially-Vulnerable Seniors/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Hawkers%20Day.png">
+      <img style="height:250px;width:228px;" src="/images/House Visit To Socially Vulnerable Seniors.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
@@ -209,7 +209,7 @@ description: ""
 <li>
 	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/Exercise-Facilitator" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Morning%20Exercise%20Facilitators.png">
+      <img style="height:250px;width:228px;" src="/images/Exercise Facilitator.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
