@@ -68,7 +68,7 @@ third_nav_title: Caring for Our Community
 					<td  width="75%">
 						(a)	Pop-up Event:<br>
 Various locations in Singapore <br>
-   <br>(b)	Sowing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S(750326)]
+   <br>(b)	Sewing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S(750326)]
 					</td>
 				</tr>
 			</table>
@@ -84,7 +84,7 @@ Various locations in Singapore <br>
 <br>We are looking for volunteers in the following areas:<br> 
 <b>(a)	Ambassadors (Event-based volunteers)</b><br>
 •	To help manage physical pop-up booths to sell the upcycled products made by women from lower-income families.<br> 
-<br><b>(b)	Sowing Interest Group</b><br>
+<br><b>(b)	Sewing Interest Group</b><br>
 •	Sewing enthusiasts to share their knowledge and skills with women (lower-income families), with the proceeds going to support the lower-income families.<br>
 		</td>
 	</tr>
