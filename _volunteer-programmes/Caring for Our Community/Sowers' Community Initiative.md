@@ -4,7 +4,6 @@ permalink: /volunteer-programmes/Sowers-Community-Initiative/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-
 **Sowers' Community Initiative**
 
 <table border="0" width="100%">
@@ -123,7 +122,7 @@ b) Training will be provided by in house trainer.<br>
 <table border="0" width="100%">
 	<tr>
 		<td width="40%">
-			<img src="/images/Sewers'%20Community%20Initiative-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sowers%20Community%20Initiative.png" style="width=200px;height=auto;"/>
 		</td>
 		<td>
 			&nbsp;
