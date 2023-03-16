@@ -32,7 +32,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75b>%">
-						Every Sat/Sun <b>OR</b> Every Sat & Sun <b>(To Be Confirmed)</b>, 2 hours per session
+						Every weekend</b>, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -55,7 +55,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td  width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 </b>
 					</td>
 				</tr>
 				<tr>
