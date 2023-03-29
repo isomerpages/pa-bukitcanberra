@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-bukitcanberra-staging.netlify.app
-prod: https://pa-bukitcanberra-prod.netlify.app
+staging: https://staging.d2s94aw1s3bvzo.amplifyapp.com/
+prod: https://master.d2s94aw1s3bvzo.amplifyapp.com/
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
