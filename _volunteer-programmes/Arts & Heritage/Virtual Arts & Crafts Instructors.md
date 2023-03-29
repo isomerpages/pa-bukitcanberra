@@ -1,27 +1,27 @@
 ---
-title: Virtual Arts & Crafts Instructors
-permalink: /volunteer-programmes/Virtua-Arts-and-Crafts-Instructors/
+title: Virtual Arts &amp; Crafts Instructors
+permalink: /volunteer-programmes/virtua-arts-and-crafts-instructors/
 description: ""
-third_nav_title: Arts & Heritage
+third_nav_title: Arts &amp; Heritage
 ---
-**Virtual Arts & Crafts Instructors**
+**Virtual Arts &amp; Crafts Instructors**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Arts%20&%20Crafts.png" style="width=200px;height=auto;"/>
+			<img src="/images/Arts%20&amp;%20Crafts.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
-						Virtual Arts & Crafts Instructors
+					<td width="75%">
+						Virtual Arts &amp; Crafts Instructors
 					</td>
 				</tr>
 				<tr>
@@ -31,7 +31,7 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						   Minimum 4 sessions per month <b>(Specific Day To Be Confirmed)</b>, 2 hours per session
 					</td>
 				</tr>
@@ -42,7 +42,7 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						<b>To Be Confirmed</b> 
 					</td>
 				</tr>
@@ -53,7 +53,7 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
@@ -64,28 +64,28 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						(a)	   Virtual: Zoom or Microsoft Teams
 <br>(b)	Physical: 12 Yishun Avenue 5 S(768992)
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			   Arts and Crafts workshops provide seniors with an opportunity to practice their hand-eye coordination skills. By keeping the seniors engaged, the workshops will help to dispel any feelings of loneliness.<br>
 <br>We are looking for Arts and Crafts instructors (e.g. Zentangle , Simple Painting) to design and conduct Arts and Crafts workshops for our seniors.
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) To be comfortable working with seniors.
@@ -93,39 +93,39 @@ third_nav_title: Arts & Heritage
  <br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form <br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Virtual%20Art%20&%20Craft-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Virtual%20Art%20&amp;%20Craft-QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -134,8 +134,8 @@ third_nav_title: Arts & Heritage
 			&nbsp;
 		</td>
 	</tr>
-</table>	
+</tbody></table>	
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

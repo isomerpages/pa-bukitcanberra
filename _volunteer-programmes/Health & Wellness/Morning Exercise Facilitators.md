@@ -1,26 +1,26 @@
 ---
 title: Morning Exercise Facilitators
-permalink: /volunteer-programmes/Morning-Exercise-Facilitators/
+permalink: /volunteer-programmes/morning-exercise-facilitators/
 description: ""
-third_nav_title: Health & Wellness
+third_nav_title: Health &amp; Wellness
 ---
 **Morning Exercise Facilitators**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Exercise%20Instructor.png" style="width=200px;height=auto;"/>
+			<img src="/images/Exercise%20Instructor.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Morning Exercise Facilitators
 					</td>
 				</tr>
@@ -31,7 +31,7 @@ third_nav_title: Health & Wellness
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						   Once a week, 2 hours per session
 					</td>
 				</tr>
@@ -42,7 +42,7 @@ third_nav_title: Health & Wellness
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						<b>To Be Confirmed</b>
 					</td>
 				</tr>
@@ -53,7 +53,7 @@ third_nav_title: Health & Wellness
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
@@ -64,66 +64,66 @@ third_nav_title: Health & Wellness
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						12, Yishun Avenue 5, S(768992)
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			Morning exercise has been linked to many benefits like better muscle strength and muscle endurance, better blood pressure and blood glucose management, and stress relief.<br> 
 <br>We are looking for volunteers to facilitate morning exercises.
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) Physically fit, able to engage and demonstrate the exercises to residents.
 <br>c)	Min. Age: 18 
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>Sree Narayana Mission (Singapore)
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Morning%20Exercise%20Facilitators-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Morning%20Exercise%20Facilitators-QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -132,8 +132,8 @@ third_nav_title: Health & Wellness
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

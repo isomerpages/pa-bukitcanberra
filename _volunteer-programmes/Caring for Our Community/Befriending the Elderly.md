@@ -1,27 +1,26 @@
 ---
 title: Befriending the Elderly
-permalink: /volunteer-programmes/Befriending-the-Elderly/
+permalink: /volunteer-programmes/befriending-the-elderly/
 description: ""
 third_nav_title: Caring for Our Community
 ---
 **Befriending the Elderly**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Befrienders%20for%20the%20Elderly%202-1.png" 
-					 style="width=200px;height=auto;"/>
+			<img src="/images/Befrienders%20for%20the%20Elderly%202-1.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Befriending the Elderly
 					</td>
 				</tr>
@@ -32,7 +31,7 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						   Every Wednesday, 2 hours per session <b>(From Jan 2023 onwards)</b>
 					</td>
 				</tr>
@@ -43,7 +42,7 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						2pm - 4pm
 					</td>
 				</tr>
@@ -54,7 +53,7 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
@@ -65,65 +64,65 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						   Sembawng Town
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			   Lets' engage our elderly in the community to prevent social isolation. Join us now!
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements:</b><br>
 			a)    Training will be provided by Yishun Health.<br>
 b) Min. Age: 15
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
-			<b>Jointly Organized with :</b><br>    Canberra Zone 2 RN & Canberra Secondary School
+			<b>Jointly Organized with :</b><br>    Canberra Zone 2 RN &amp; Canberra Secondary School
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Canberra%20Befrienders%20for%20the%20Elderly-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Canberra%20Befrienders%20for%20the%20Elderly-QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -132,8 +131,8 @@ b) Min. Age: 15
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

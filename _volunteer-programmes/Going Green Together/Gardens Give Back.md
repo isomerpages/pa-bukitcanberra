@@ -1,6 +1,6 @@
 ---
 title: Gardens Give Back
-permalink: /volunteer-programmes/Gardens-Give-Back/
+permalink: /volunteer-programmes/gardens-give-back/
 description: ""
 third_nav_title: Going Green Together
 ---
@@ -123,7 +123,7 @@ third_nav_title: Going Green Together
 	</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -132,8 +132,8 @@ third_nav_title: Going Green Together
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

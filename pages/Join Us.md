@@ -1,6 +1,6 @@
 ---
 title: Join Us
-permalink: /Join-Us/
+permalink: /join-us/
 description: ""
 ---
 At SPARKS, we offer a myriad of volunteering opportunities that cater to your different interests. Whether you are interested in joining as a regular member, or in initiating new ideas for a new cause-based group, we want to hear from you. 

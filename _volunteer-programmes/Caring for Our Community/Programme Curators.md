@@ -1,26 +1,26 @@
 ---
 title: Programme Curators
-permalink: /volunteer-programmes/Programme-Curators/
+permalink: /volunteer-programmes/programme-curators/
 description: ""
 third_nav_title: Caring for Our Community
 ---
 **Programme Curators**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Programme%20Curators%203%20(1).png" style="width=200px;height=auto;"/>
+			<img src="/images/Programme%20Curators%203%20(1).png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Programme Curators
 					</td>
 				</tr>
@@ -31,7 +31,7 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						<b>To Be Confirmed</b>
 					</td>
 				</tr>
@@ -42,7 +42,7 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						<b>To Be Confirmed</b>
 					</td>
 				</tr>
@@ -53,7 +53,7 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						NA
 					</td>
 				</tr>
@@ -64,17 +64,17 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Thye Hua Kwan (THK) Home  for Disabled @ Sembawang, [7 Sembawang Walk, S(756977)] 
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			THK Home for Disabled@Sembawang was established in April 2018 to provide long term residential care for adults (aged between 17 and 55) diagnosed with intellectual disabilities (ID) and/or Autism, Spectrum Disorder (ASD), or other co-morbidities.<br> 
@@ -83,49 +83,49 @@ third_nav_title: Caring for Our Community
 			<br>b) Community Living Skills - basic skills such as ability to take care of oneself (e.g. diet etc)
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Interested to work with seniors </b><br>
+			a)    Interested to work with seniors <br>
 			b)    Passion for working with adults, project planning<br> c) Min. Age: 16  
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>Thye Hua Kwan (THK) Home for Disabled @ Sembawang
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%"> 
-			<img src="/images/Programme%20Curators.png" style="width=200px;height=auto;"/>
+			<img src="/images/Programme%20Curators.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -134,8 +134,8 @@ third_nav_title: Caring for Our Community
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

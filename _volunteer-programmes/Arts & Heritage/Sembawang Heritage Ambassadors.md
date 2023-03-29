@@ -1,26 +1,26 @@
 ---
 title: Sembawang Heritage Ambassadors
-permalink: /volunteer-programmes/Sembawang-Heritage-Ambassadors/
+permalink: /volunteer-programmes/sembawang-heritage-ambassadors/
 description: ""
-third_nav_title: Arts & Heritage
+third_nav_title: Arts &amp; Heritage
 ---
 **Sembawang Heritage Ambassadors**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Sembawang%20Heritage%20Ambassadors%203.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sembawang%20Heritage%20Ambassadors%203.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Sembawang Heritage Ambassadors
 					</td>
 				</tr>
@@ -31,7 +31,7 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Once a month Sunday, 2 hours per session <b>(From Feb 2023 onwards)</b>
 					</td>
 				</tr>
@@ -42,7 +42,7 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						9am to 11am
 					</td>
 				</tr>
@@ -53,7 +53,7 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
@@ -64,67 +64,67 @@ third_nav_title: Arts & Heritage
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Meet at Canberra Community Club, 2 Sembawang Crescent, #01-01, SIngapore 757632
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			   The Sembawang Heritage Trail is part of the National Heritage Board’s ongoing efforts to document and present the history/social memories of various places in Singapore.<br>
 <br>We hope to recruit volunteers who can assist in organising regular heritage tours to increase awareness for Sembawang Heritage Trail among the residents, schools and community partners. Training will be conducted for the heritage guides. 
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a)    Able to communicate in English and to walk continuously for 2 hours.<br>
 			b) Min. Age: 15 
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>   
 Canberra Grassroots Organisations
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form <br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Sembawang%20Heritage%20Ambassadors-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sembawang%20Heritage%20Ambassadors-QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 	
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -133,8 +133,8 @@ Canberra Grassroots Organisations
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

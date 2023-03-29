@@ -7,20 +7,20 @@ third_nav_title: Nurturing Our Children
 **It's Storytime**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/It's%20Storytime.png" style="width=200px;height=auto;"/>
+			<img src="/images/It's%20Storytime.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						It's Storytime
 					</td>
 				</tr>
@@ -31,7 +31,7 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Weekend Fortnightly, 1 hour per session
 					</td>
 				</tr>
@@ -42,7 +42,7 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						10am to 11am
 					</td>
 				</tr>
@@ -53,7 +53,7 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						   10 
 					</td>
 				</tr>
@@ -64,66 +64,66 @@ third_nav_title: Nurturing Our Children
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						   Virtual / Physical (Sembawang Town/Woodlands Town)
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			This programme aims to cultivate reading habits among young children and to improve their literacy. We need volunteers to read stories and conduct activities for children once a week.
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Able to read English/Malay story books.<br>b)	   Able to do art & craft activities.<br>
+			a)    Able to read English/Malay story books.<br>b)	   Able to do art &amp; craft activities.<br>
 c)	Min. Age: 15 
 		</td>
 	</tr>   
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>
 			   M3@Woodlands (A collaborative effort between MUIS, MENDAKI and MESRA)
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form <br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/It's%20Storytime-QR.png" style="width=200px;height=auto;"/>
+			<img src="/images/It's%20Storytime-QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
     
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -132,8 +132,8 @@ c)	Min. Age: 15
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

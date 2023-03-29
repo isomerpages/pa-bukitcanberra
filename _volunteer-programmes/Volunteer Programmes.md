@@ -1,6 +1,6 @@
 ---
 title: Volunteer Programmes
-permalink: /volunteer-programmes/Programmes/
+permalink: /volunteer-programmes/programmes/
 description: ""
 ---
 ### Nurturing Our Children
@@ -24,7 +24,7 @@ description: ""
 </li>
 <li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Nurturing-Our-Children/KidsREAD-Club-Programme/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/nurturing-our-children/kidsread-club-programme/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/KidsRead%202.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -32,7 +32,7 @@ description: ""
 </li>
 	<li>
 	  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Nurturing-Our-Children/Tuition-For-The-Deaf/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/nurturing-our-children/tuition-for-the-deaf/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Tuition%20for%20the%20Deaf%202.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -43,12 +43,12 @@ description: ""
 </li>
 </ul>
 
-### Arts & Heritage
+### Arts &amp; Heritage
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Sembawang-Heritage-Ambassadors" style="text-decoration:none;">
+    <a href="/volunteer-programmes/sembawang-heritage-ambassadors" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Sembawang%20Heritage%20Ambassadors%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -56,15 +56,15 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Virtua-Arts-and-Crafts-Instructors/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Virtual%20Arts%20&%20Crafts%20Workshop%20Instructors.png">
+    <a href="/volunteer-programmes/virtua-arts-and-crafts-instructors/" style="text-decoration:none;">
+      <img style="height:250px;width:228px;" src="/images/Virtual%20Arts%20&amp;%20Crafts%20Workshop%20Instructors.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Artistic-Performance-Volunteers/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/artistic-performance-volunteers/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Artistic%20Performance%20Volunteers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -80,15 +80,15 @@ description: ""
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Beach-Cleaning-and-Environment-Group" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Beach%20Cleaning%20&%20Environment%20Group%203-1.png">
+    <a href="/volunteer-programmes/beach-cleaning-and-environment-group" style="text-decoration:none;">
+      <img style="height:250px;width:228px;" src="/images/Beach%20Cleaning%20&amp;%20Environment%20Group%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Gardens-Give-Back" style="text-decoration:none;">
+    <a href="/volunteer-programmes/gardens-give-back" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Gardens%20Give%20back%20.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -112,7 +112,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Food-from-the-Heart" style="text-decoration:none;">
+    <a href="/volunteer-programmes/food-from-the-heart" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Food%20From%20The%20Heart%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -128,7 +128,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Programme-Curators/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/programme-curators/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Programme%20Curators%203-1.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -136,7 +136,7 @@ description: ""
 </li>
 <li>
 	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/National-Kidney-Foundation-NKF-Volunteer-Programme-at-Dialysis-Centre/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/national-kidney-foundation-nkf-volunteer-programme-at-dialysis-centre/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/NKF%20Volunteers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -144,7 +144,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Volunteer-Storytellers" style="text-decoration:none;">
+    <a href="/volunteer-programmes/volunteer-storytellers" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Volunteer%20Storytellers%20.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -152,7 +152,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Hawkers-Day/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/hawkers-day/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Hawkers%20Day.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -179,12 +179,12 @@ description: ""
 </li>
 </ul>
 
-### Health & Wellness
+### Health &amp; Wellness
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Virtual-Zumba-or-Exercise-Instructors" style="text-decoration:none;">
+    <a href="/volunteer-programmes/virtual-zumba-or-exercise-instructors" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Virtual%20Zumba%20or%20Exercise%20Instructors%201A.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -192,7 +192,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Activity-Pack-Designers" style="text-decoration:none;">
+    <a href="/volunteer-programmes/activity-pack-designers" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Activity%20Pack%20Designers.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -200,7 +200,7 @@ description: ""
 </li>
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Morning-Exercise-Facilitators" style="text-decoration:none;">
+    <a href="/volunteer-programmes/morning-exercise-facilitators" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Morning%20Exercise%20Facilitators.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
@@ -226,7 +226,7 @@ description: ""
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
   <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Intergeneration-Programme-Coordinator" style="text-decoration:none;">
+    <a href="/volunteer-programmes/intergeneration-programme-coordinator" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Intergeneration%20Programme%20Coordinator%201A.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>

@@ -1,6 +1,6 @@
 ---
 title: Community Tuition Programme
-permalink: /Community-Tuition-Programme/
+permalink: /community-tuition-programme/
 description: ""
 ---
 **Community Tuition Programme**

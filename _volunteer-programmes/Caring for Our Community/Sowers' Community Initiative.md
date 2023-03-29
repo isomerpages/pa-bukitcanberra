@@ -1,26 +1,26 @@
 ---
 title: Sowers' Community Initiative
-permalink: /volunteer-programmes/Sowers-Community-Initiative/
+permalink: /volunteer-programmes/sowers-community-initiative/
 description: ""
 third_nav_title: Caring for Our Community
 ---
 **Sowers' Community Initiative**
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Sewers'%20Community.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sewers'%20Community.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
-				<tr>
+				<tbody><tr>
 					<td width="20%">
 						Programme Title
 					</td>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						Sowers' Community Initiative
 					</td>
 				</tr>
@@ -31,9 +31,9 @@ third_nav_title: Caring for Our Community
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						For Event Ambassadors: Weekday/weekend (3 -5 hours). Event basis<br>
-For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours</b>
+For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours</b>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						3-5 hours (Events Ambassador)<br>
 						2pm to 4pm (Sewing Interest Group)<br>
 											</td>
@@ -55,7 +55,7 @@ For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours</b>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						10 <b>(To Be Confirmed)</b>
 					</td>
 				</tr>
@@ -66,19 +66,19 @@ For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours</b>
 					<td width="5%">
 						:
 					</td>
-					<td  width="75%">
+					<td width="75%">
 						(a)	Pop-up Event:<br>
 Various locations in Singapore <br>
    <br>(b)	Sewing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S(750326)]
 					</td>
 				</tr>
-			</table>
+			</tbody></table>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
 			   The aim of this initiative is to provide women from lower-income families with an opportunity to supplement their household income through sewing assignments. We work towards helping women from lower-income families pick up sewing skills. They will learn how to use a sewing machine to make upcycled products such as tote bags, masks and pouches from donated materials (e.g. used banners).<br>
@@ -89,10 +89,10 @@ Various locations in Singapore <br>
 •	Sewing enthusiasts to share their knowledge and skills with women (lower-income families), with the proceeds going to support the lower-income families.<br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a) Interested or experienced in sewing.<br>
@@ -100,39 +100,39 @@ b) Training will be provided by in house trainer.<br>
 			c) Min. Age: 18 
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>Jointly Organised with :</b><br>Sembawang Family Service Centre
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>How to Register:</b><br>
 			Scan QR code and fill out the form<br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Sowers%20Community%20Initiative.png" style="width=200px;height=auto;"/>
+			<img src="/images/Sowers%20Community%20Initiative.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
 		</td>
 	</tr>
-	</table>
+	</tbody></table>
 
 <table border="0" width="100%">
-	<tr>
+	<tbody><tr>
 		<td>
 			<b>For Enquiries:</b><br>
 			Please email: sparks@pa.gov.sg<br>
@@ -141,8 +141,8 @@ b) Training will be provided by in house trainer.<br>
 			&nbsp;
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<a href="/volunteer-programmes/Programmes">
+<a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
 	</a>

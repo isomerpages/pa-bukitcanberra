@@ -1,6 +1,6 @@
 ---
 title: Facilities
-permalink: /our-facilities
+permalink: /our-facilities/
 description: ""
 ---
 **Community Lounge**<br>
