@@ -86,8 +86,10 @@ third_nav_title: Caring for Our Community
 	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			Assist to engage residents in the activity, decorate the dining hall , celebrate birthday with seniors and able to converse in at least 2 languages
+			<br> a) Assist to engage residents in the activity, decorate the dining hall , celebrate birthday with seniors and able to converse in at least 2 languages
+			<br>b)	Min. Age: 18 
 		</td>
+		
 	</tr>
 </tbody></table>
 
