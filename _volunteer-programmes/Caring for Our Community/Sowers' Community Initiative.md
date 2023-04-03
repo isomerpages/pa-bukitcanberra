@@ -32,8 +32,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						For Event Ambassadors: Weekday/weekend (3 -5 hours). Event basis<br>
-For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours
+						For Event Ambassadors: Weekday/weekend (3-4 hours shift). Event basis<br>
+For Sewing Interest Group (IG): Every Wednesday and Thursday, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -56,7 +56,7 @@ For Sewing Interest Group (IG): Once a week on weekdays, 1.5-2 hours
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 <b></b>
 					</td>
 				</tr>
 				<tr>
