@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   Minimum 3 months, every 3rd Wednesday of the month, 1 hour per session
+						   Minimum 3 months, every 3rd Wednesday of the month, 1 hour per session.    Every last Monday and Tuesday of the Month
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 <b></b>
 					</td>
 				</tr>
 				<tr>
