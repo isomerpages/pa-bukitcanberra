@@ -32,7 +32,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						   Once a week, 2 hours per session
+						Every Friday, 1 hour per session (minimum 3 months)
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
+						9am to 10am
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						2 <b></b>
 					</td>
 				</tr>
 				<tr>
