@@ -78,12 +78,10 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Programme Description:</b><br>
 			<br>
-			<b>(a) Befriending Sessions at Dialysis Centres</b><br>
+			<b>Befriending Sessions at Dialysis Centres</b><br>
 Kidney failure patients have to undergo four-hour dialysis treatments thrice weekly.<br>
 			<br>Volunteers can help lighten the burden of their treatment by befriending them at the dialysis centres while they are undergoing dialysis. <br>
 			<br>Bring warmth to kidney failure patients and help brighten their days now!<br>
-<br><b>(b) Dialysis Centre Volunteer </b><br>
-         To ensure that our patients continue to receive uninterrupted dialysis in a  safe environment, we are looking for volunteers to stand at the frontline (alongside the nurses) to safeguard the patients' well-being.<br><br>Volunteers' role would include crowd control, patient card distribution, assisting patients at the weighing scales, etc.<br>
 		</td>
 	</tr>
 </tbody></table>
@@ -92,9 +90,8 @@ Kidney failure patients have to undergo four-hour dialysis treatments thrice wee
 	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			<b>a) Befriending Sessions at Dialysis Centres</b><br>• Individuals must be at least 16 years old <b> (To Be Confirmed)</b> and be fully vaccinated.<br>• Students are welcome to participate in this activity as school volunteers.<br><br>
-			<b>b)	Dialysis Centre Volunteer</b><br>•         Attend a compulsory 1 day in-person training on a Thursday or Saturday. <br>•   Able to commit at least 2 months and be able to perform 8 shifts (can either choose to perform one or multiple shifts on the same day).<br>•   16 years old <b>(To Be Confirmed)</b> and be fully vaccinated. 
-		</td>
+			<b>Befriending Sessions at Dialysis Centres</b><br>• Individuals must be at least 16 years old <b> </b> and be fully vaccinated. <br><br>
+			</td>
 	</tr>
 </tbody></table>
 
