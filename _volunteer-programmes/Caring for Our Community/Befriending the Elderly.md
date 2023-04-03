@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   Every Wednesday, 2 hours per session <b>(From Jan 2023 onwards)</b>
+						   Every Wednesday 
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						2pm - 4pm
+						7.30pm - 9.30pm
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 <b></b>
 					</td>
 				</tr>
 				<tr>
@@ -65,7 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   Sembawng Town
+						   Sembawang Town
 					</td>
 				</tr>
 			</tbody></table>
@@ -95,7 +95,7 @@ b) Min. Age: 15
 <table border="0" width="100%">
 	<tbody><tr>
 		<td>
-			<b>Jointly Organized with :</b><br>    Canberra Zone 2 RN &amp; Canberra Secondary School
+			<b>Jointly Organized with :</b><br> Sembawang West GROs
 			&nbsp;
 		</td>
 	</tr>
