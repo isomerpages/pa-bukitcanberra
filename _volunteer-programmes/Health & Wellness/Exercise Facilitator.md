@@ -5,7 +5,6 @@ description: Exercise Facilitator
 image: ""
 third_nav_title: Health &amp; Wellness
 ---
-
 **Exercise Facilitator**
 
 <table border="0" width="100%">
@@ -66,7 +65,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						   Blk 513 Wellington Circle #01-34
+						   Blk 513 Wellington Circle #01-34, Singapore 750513
 					</td>
 				</tr>
 			</tbody></table>
