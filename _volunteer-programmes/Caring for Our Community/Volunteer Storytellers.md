@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/volunteer-storytellers/
 description: ""
 third_nav_title: Caring for Our Community
 ---
-**Volunteer Storytellers**
+**Resident Monthly Birthday Celebrations (Program Coordinators)**
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -86,9 +86,7 @@ third_nav_title: Caring for Our Community
 	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a) Interested in storytelling. 
-<br>b)	   To be comfortable working with seniors.
-<br>c)	Min. Age: 18 
+			Assist to engage residents in the activity, decorate the dining hall , celebrate birthday with seniors and able to converse in at least 2 languages
 		</td>
 	</tr>
 </tbody></table>
