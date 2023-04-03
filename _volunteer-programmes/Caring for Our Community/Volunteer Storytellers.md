@@ -21,7 +21,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						Volunteer Storytellers
+						Resident Monthly Birthday Celebrations (Program Coordinators)
 					</td>
 				</tr>
 				<tr>
@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						   Minimum 3 months, 3 or more sessions per month, 2 hours per session
+						   Every last Friday of the month (Able to commit at least a minimum 3 months)
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
+						2pm to 4pm
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						3 <b></b>
 					</td>
 				</tr>
 				<tr>
@@ -65,8 +65,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-(a)   Virtual: Zoom or Microsoft Teams
-<br>(b)	Physical: 12 Yishun Avenue 5 S(768992)
+   	        12 Yishun Avenue 5, S(768992)
 					</td>
 				</tr>
 			</tbody></table>
@@ -78,9 +77,8 @@ third_nav_title: Caring for Our Community
 	<tbody><tr>
 		<td>
 			<b>Programme Description:</b><br>
-			Storytelling brings stories to life. It also brings the listeners on an interesting journey alongside the storyteller.<br>     
-<br>We are looking for volunteers to curate stories and tell stories to our seniors. 
-		</td>
+			Birthday Celebrations provide an opportunity to honor elderly clients and let them know they are appreciated. The mental well being benefits include encouraging seniors to recognize their own memories and accomplishments. It also allows seniors to recognize, appreciate and reaffirm the circle of love ,feelings of safety &amp;  support that surrounds them and from those around them. <br>     
+<br>&nbsp;We are looking for volunteers to facilitate the Birthday Celebrations. </td>
 	</tr>
 </tbody></table>
 
