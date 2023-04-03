@@ -32,7 +32,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						Minimum 3 months, once a week, 2 hours per session
+						Every Tuesday
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
+						<b>2:30pm to 4pm</b>
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 <b></b>
 					</td>
 				</tr>
 				<tr>
