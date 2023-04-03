@@ -32,7 +32,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						   Minimum once a month, 2 hours per session
+						Every 1st Thursday of the month 
 					</td>
 				</tr>
 				<tr>
@@ -43,7 +43,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
+						2:30pm to 4pm
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Health &amp; Wellness
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 <b></b>
 					</td>
 				</tr>
 				<tr>
