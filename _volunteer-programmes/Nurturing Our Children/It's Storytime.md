@@ -9,7 +9,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/It's%20Storytime.png" style="width=200px;height=auto;">
+			<img src="/images/itsstorytime.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
