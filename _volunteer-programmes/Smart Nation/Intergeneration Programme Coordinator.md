@@ -43,7 +43,7 @@ third_nav_title: Smart Nation
 						:
 					</td>
 					<td width="75%">
-						<b>2:30pm to 4pm</b>
+						2:30pm to 4pm
 					</td>
 				</tr>
 				<tr>
