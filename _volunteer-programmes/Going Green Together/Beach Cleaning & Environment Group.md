@@ -1,5 +1,5 @@
 ---
-title: Beach Cleaning &amp; Environment Group
+title: Beach Cleaning & Environment Group
 permalink: /volunteer-programmes/beach-cleaning-and-environment-group/
 description: ""
 third_nav_title: Going Green Together
@@ -32,7 +32,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						   Every Saturday, 2 hours per session <b>(From Feb 2023 onwards)</b>
+						   Every Saturday, 2 hours per session <b>(From June 2023 onwards)</b>
 					</td>
 				</tr>
 				<tr>
