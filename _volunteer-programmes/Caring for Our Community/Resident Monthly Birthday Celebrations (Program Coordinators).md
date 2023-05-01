@@ -113,7 +113,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/resident%20monthly%20birthday%20celebrations%20QR.png" style="width=200px;height=auto;">
+			<img src="/images/Resident%20Monthly%20Birthday%20Celebrations%20QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
