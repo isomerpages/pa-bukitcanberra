@@ -89,8 +89,8 @@ third_nav_title: Caring for Our Community
 			<br>b)	Min. Age: 18 
 		</td>
 		
-	</tr>
-</tbody></table>
+
+</tr></tbody></table>
 
 <table border="0" width="100%">
 	<tbody><tr>
