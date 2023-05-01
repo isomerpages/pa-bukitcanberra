@@ -113,7 +113,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Volunteer%20Storytellers-QR.png" style="width=200px;height=auto;">
+			<img src="/images/Resident Monthly Birthday%20Celebrations%20_Program%20Coordinators QR.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
