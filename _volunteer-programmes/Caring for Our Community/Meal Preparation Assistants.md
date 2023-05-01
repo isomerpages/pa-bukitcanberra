@@ -9,7 +9,7 @@ third_nav_title: Caring for Our Community
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/meal preparation assistants.png" style="width=200px;height=auto;">
+			<img src="/images/meal %20preparation%20assistants.png" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
