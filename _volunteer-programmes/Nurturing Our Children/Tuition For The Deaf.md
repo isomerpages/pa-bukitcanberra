@@ -115,7 +115,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Tuition%20for%20the%20Deaf.png" style="width=200px;height=auto;">
+			<img src="/images/Tuition%20for%20the%20Deaf.jpg" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
