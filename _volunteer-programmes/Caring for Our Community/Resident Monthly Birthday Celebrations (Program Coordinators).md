@@ -79,8 +79,7 @@ third_nav_title: Caring for Our Community
 			<b>Programme Description:</b><br>
 			Birthday Celebrations provide an opportunity to honor elderly clients and let them know they are appreciated. The mental well being benefits include encouraging seniors to recognize their own memories and accomplishments. It also allows seniors to recognize, appreciate and reaffirm the circle of love ,feelings of safety &amp;  support that surrounds them and from those around them. <br>     
 <br>&nbsp;We are looking for volunteers to facilitate the Birthday Celebrations. </td>
-	</tr>
-</tbody></table>
+</tr></tbody></table>
 
 <table border="0" width="100%">
 	<tbody><tr>
