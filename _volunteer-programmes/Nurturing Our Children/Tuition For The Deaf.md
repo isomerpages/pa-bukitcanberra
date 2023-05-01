@@ -9,7 +9,7 @@ third_nav_title: Nurturing Our Children
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Tuition%20for%20the%20Deaf%201.png" style="width=200px;height=auto;">
+			<img src="/images/Tuition%20For%20The%20Deaf%20.jpg" style="width=200px;height=auto;">
 		</td>
 		<td width="60%">
 			<table border="0" width="100%">
