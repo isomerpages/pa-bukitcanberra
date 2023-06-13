@@ -67,15 +67,11 @@ For Sewing Interest Group (IG): Every Wednesday and Thursday, 2 hours per sessio
 						:
 					</td>
 					<td width="75%">
-						(a)	Pop-up Event:<br>
+							Pop-up Event:<br>
 Various locations in Singapore <br>
-   <br>(b)	Sewing Interest Group @ Sembawang Family Service Centre<br>[Blk 326 Sembawang Crescent #01-52 S(750326)]
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+  
+				
+</td></tr></tbody></table>
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -83,13 +79,11 @@ Various locations in Singapore <br>
 			<b>Programme Description:</b><br>
 			   The aim of this initiative is to provide women from lower-income families with an opportunity to supplement their household income through sewing assignments. We work towards helping women from lower-income families pick up sewing skills. They will learn how to use a sewing machine to make upcycled products such as tote bags, masks and pouches from donated materials (e.g. used banners).<br>
 <br>We are looking for volunteers in the following areas:<br> 
-<b>(a)	Ambassadors (Event-based volunteers)</b><br>
+<b>	Ambassadors (Event-based volunteers)</b><br>
 •	To help manage physical pop-up booths to sell the upcycled products made by women from lower-income families.<br> 
-<br><b>(b)	Sewing Interest Group</b><br>
-•	Sewing enthusiasts to share their knowledge and skills with women (lower-income families), with the proceeds going to support the lower-income families.<br>
-		</td>
-	</tr>
-</tbody></table>
+
+
+</td></tr></tbody></table>
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -145,4 +139,4 @@ b) Training will be provided by in house trainer.<br>
 
 <a href="/volunteer-programmes/programmes">
 	Back to Volunteer Programme Listing
-	</a>
+	</a></td></tr></tbody></table>
