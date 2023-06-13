@@ -65,7 +65,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						Garden Between Blk 795 and 796A Woodlands Dr 72
+						Varies location within Sembawang GRC
 					</td>
 				</tr>
 			</tbody></table>
