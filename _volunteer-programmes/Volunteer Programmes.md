@@ -57,22 +57,8 @@ description: ""
     </a>
   </div>
 </li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/food-from-the-heart" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Food%20From%20The%20Heart%203-1.png">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Sewing-Community-Initiative/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Sewing%20Community%20Initiative.png">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
+
+
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
     <a href="/volunteer-programmes/programme-curators/" style="text-decoration:none;">
@@ -81,46 +67,18 @@ description: ""
     </a>
   </div>
 </li>
-<li>
-	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/national-kidney-foundation-nkf-volunteer-programme-at-dialysis-centre/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/NKF%20Volunteers.png">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/volunteer-storytellers" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Volunteer%20Storytellers%20.png">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/hawkers-day/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Hawkers%20Day.png">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
+
+
+
 <li>
 	 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/Refreshment-IC/" style="text-decoration:none;">
+    <a href="/volunteer-programmes/kitchen-volunteer/" style="text-decoration:none;">
       <img style="height:250px;width:228px;" src="/images/Refreshment%20IC%20Words.png">
       <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
     </a>
   </div>
 </li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-    <a href="/volunteer-programmes/House-Visit-To-Socially-Vulnerable-Seniors/" style="text-decoration:none;">
-      <img style="height:250px;width:228px;" src="/images/Home%20Visit%20To%20Socially%20Vulnerable%20Seniors%20Words.png">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"></div>
-    </a>
-  </div>
-</li>
+
 <li>
 	<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">&nbsp;</div>
 </li>
