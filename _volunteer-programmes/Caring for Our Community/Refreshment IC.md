@@ -5,8 +5,7 @@ description: ""
 image: ""
 third_nav_title: Caring for Our Community
 ---
-
-**Refreshment IC**
+**Kitchen Volunteer**
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -23,7 +22,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						Refreshment IC
+						Kitchen Volunteer
 					</td>
 				</tr>
 				<tr>
