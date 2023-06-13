@@ -4,7 +4,7 @@ permalink: /volunteer-programmes/project-little-einstein/
 description: ""
 third_nav_title: Nurturing Our Children
 ---
-**Project Little Einstein**
+**Homework Cafe**
 
 <table border="0" width="100%">
 	<tbody><tr>
@@ -21,7 +21,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						Project Little Einstein
+						Homework Cafe
 					</td>
 				</tr>
 				<tr>
@@ -32,7 +32,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75b>%">
-						Every weekend, 2 hours per session
+						Every weekday, 2 hours per session
 					</td>
 				</tr>
 				<tr>
@@ -66,7 +66,7 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						ACE The Place CC, 120 Woodlands Ave 1, S(739069)
+						SPARK@ Bukit Canberra - 21 Canberra Link S(756973) 
 					</td>
 				</tr>
 			</tbody></table>
@@ -94,15 +94,6 @@ b) Min. Age: 17
 	</tr>
 </tbody></table>
 
-<table border="0" width="100%">
-	<tbody><tr>
-		<td>
-			<b>Jointly Organised with :</b><br>
-			   Admiralty Youth Network
-			&nbsp;
-		</td>
-	</tr>
-</tbody></table>
 
 <table border="0" width="100%">
 	<tbody><tr>
