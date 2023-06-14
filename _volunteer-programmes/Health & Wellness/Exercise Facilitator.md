@@ -115,7 +115,7 @@ We are looking for someone who enjoys exercise and able to join in and motivate 
 <table border="0" width="100%">
 	<tbody><tr>
 		<td width="40%">
-			<img src="/images/Hawker%20Day-QR.png" style="width=200px;height=auto;">
+			<img src="/images/exercise-facilitator.png" style="width=200px;height=auto;">
 		</td>
 		<td>
 			&nbsp;
