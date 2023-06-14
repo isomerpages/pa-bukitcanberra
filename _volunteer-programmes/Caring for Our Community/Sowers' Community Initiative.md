@@ -33,7 +33,6 @@ third_nav_title: Caring for Our Community
 					</td>
 					<td width="75%">
 						For Event Ambassadors: Weekday/weekend (3-4 hours shift). Event basis<br>
-For Sewing Interest Group (IG): Every Wednesday and Thursday, 2 hours per session
 					</td>
 				</tr>
 				<tr>
