@@ -88,8 +88,8 @@ third_nav_title: Nurturing Our Children
 	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a) Knowledge of sign language is required.<br>b) Min. Age: 13 <b>(To Be Confirmed)</b>
-		</td>
+			a) Knowledge of sign language is required.<br>b) Min. Age: 15 <b>
+		</b></td>
 	</tr>   
 </tbody></table>
 
