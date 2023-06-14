@@ -54,8 +54,8 @@ third_nav_title: Nurturing Our Children
 						:
 					</td>
 					<td width="75%">
-						   Depending on class size <b>(To Be Confirmed)</b>
-					</td>
+						   NA<b>
+					</b></td>
 				</tr>
 				<tr>
 					<td width="20%">
