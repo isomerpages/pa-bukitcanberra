@@ -78,7 +78,7 @@ third_nav_title: Health & Wellness
 		<td>
 			<b>Programme Description:</b><br>
 			   TOUCH Active Ageing (TAA)&nbsp;empowers seniors to lead fulfilling lives as they learn to stay physically active and socially connected. We believe that every senior - regardless of their age, ability or physical status - can be equipped as a resource to help others. Every Wednesday, we have “Let’s Get Groovin” which includes cardio, strength training etc. Our seniors groove along with a series of fast-paced, high energy and upbeat music, while being seated on a chair or using the chair as a support. 
-We are looking for someone that enjoys exercise and able to join in and motivate the seniors during session.
+We are looking for someone who enjoys exercise and able to join in and motivate the seniors during session.
 		</td>
 	</tr>
 </tbody></table>
