@@ -43,7 +43,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						<b>Subjected to respective garden</b>
+						<b>Based on schedule of respective community gardens</b>
 					</td>
 				</tr>
 				<tr>
