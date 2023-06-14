@@ -43,7 +43,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
+						<b>Subjected to respective garden</b>
 					</td>
 				</tr>
 				<tr>
@@ -54,7 +54,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						10 <b>(To Be Confirmed)</b>
+						10 
 					</td>
 				</tr>
 				<tr>
