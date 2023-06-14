@@ -54,7 +54,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						10 
+						NA 
 					</td>
 				</tr>
 				<tr>
@@ -87,7 +87,7 @@ third_nav_title: Going Green Together
 	<tbody><tr>
 		<td>
 			<b>Requirements for volunteers:</b><br>
-			a)    Interested in gardening.<br>b)	Min. Age: 18 
+			a)    Interested in gardening.<br>b)	Min. Age: 15 
 		</td>
 	</tr>
 </tbody></table>
