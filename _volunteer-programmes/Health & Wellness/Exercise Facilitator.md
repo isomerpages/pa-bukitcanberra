@@ -3,7 +3,7 @@ title: Exercise Facilitator
 permalink: /volunteer-programmes/health-and-wellness/exercise-facilitator/
 description: Exercise Facilitator
 image: ""
-third_nav_title: Health &amp; Wellness
+third_nav_title: Health & Wellness
 ---
 **Exercise Facilitator**
 
