@@ -32,8 +32,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
-					</td>
+						<b>Weekend (either Saturday or Sunday)
+					</b></td>
 				</tr>
 				<tr>
 					<td width="20%">
@@ -43,7 +43,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						<b>To Be Confirmed</b>
+						<b>10am to 12pm</b>
 					</td>
 				</tr>
 				<tr>
