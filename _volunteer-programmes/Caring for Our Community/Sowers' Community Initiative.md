@@ -32,7 +32,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						For Event Ambassadors: Weekday/weekend (3-4 hours shift). Event basis<br>
+						For Event Ambassadors: Weekday/weekend (4-hour shift). Event basis<br>
 					</td>
 				</tr>
 				<tr>
@@ -43,8 +43,8 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						3-5 hours (Events Ambassador)<br>
-						2pm to 4pm (Sewing Interest Group)<br>
+						4-hour<br>
+						<br>
 											</td>
 				</tr>
 				<tr>
@@ -55,7 +55,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						10 <b></b>
+						NA <b></b>
 					</td>
 				</tr>
 				<tr>
