@@ -65,7 +65,7 @@ third_nav_title: Going Green Together
 						:
 					</td>
 					<td width="75%">
-						Varies location within Sembawang GRC
+						Various locations within Sembawang GRC
 					</td>
 				</tr>
 			</tbody></table>
