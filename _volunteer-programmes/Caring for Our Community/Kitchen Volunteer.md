@@ -55,7 +55,7 @@ third_nav_title: Caring for Our Community
 						:
 					</td>
 					<td width="75%">
-						2 
+						10 
 					</td>
 				</tr>
 				<tr>
