@@ -86,7 +86,7 @@ third_nav_title: Caring for Our Community
 	<tbody><tr>
 		<td>
 			<b>Requirements:</b><br>
-			a)    Training will be provided by Yishun Health.<br>
+			a)    Training will be provided<br>
 b) Min. Age: 15
 		</td>
 	</tr>
