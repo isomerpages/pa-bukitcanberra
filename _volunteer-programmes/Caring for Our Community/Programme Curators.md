@@ -90,7 +90,7 @@ third_nav_title: Caring for Our Community
 		<td>
 			<b>Requirements for volunteers:</b><br>
 			a)    Interested to work with seniors <br>
-			b)    Passion for working with adults, project planning<br> c) Min. Age: 16  
+			b)    Passion in project planning<br> c) Min. Age: 16  
 		</td>
 	</tr>
 </tbody></table>
