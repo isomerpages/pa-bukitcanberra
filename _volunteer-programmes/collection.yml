@@ -1,0 +1,20 @@
+collections:
+  volunteer-programmes:
+    output: true
+    order:
+      - Volunteer Programmes.md
+      - Nurturing Our Children/.keep
+      - Nurturing Our Children/Homework Cafe.md
+      - Nurturing Our Children/It's Storytime.md
+      - Nurturing Our Children/Tuition For The Deaf.md
+      - Arts & Heritage/.keep
+      - Going Green Together/.keep
+      - Going Green Together/Gardens Give Back.md
+      - Caring for Our Community/.keep
+      - Caring for Our Community/Befriending the Elderly.md
+      - Caring for Our Community/Sowers' Community Initiative.md
+      - Caring for Our Community/Programme Curators.md
+      - Caring for Our Community/Kitchen Volunteer.md
+      - Health & Wellness/.keep
+      - Health & Wellness/Exercise Facilitator.md
+      - Smart Nation/.keep
